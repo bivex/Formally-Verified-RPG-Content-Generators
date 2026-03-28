@@ -1,73 +1,88 @@
-# Formally Verified RPG Content Generators
+# 🔮 Formally Verified RPG Content Engine (Dafny 4.11)
 
-Welcome to the **Formally Verified RPG Content Generators** repository. This project demonstrates the power of formal methods and rigorous theorem proving applied to procedural generation for RPG games. 
+> **"In code we trust, but in Math we verify."**  
+> A high-performance, mathematically proven procedural generation ecosystem for RPGs. Every item, monster, and quest is guaranteed to be balanced, deterministic, and free from logical paradoxes.
 
-Instead of writing standard unverified scripts that might produce invalid item combinations or bugs, this repository uses **[Dafny](https://github.com/dafny-lang/dafny)** — a verification-aware programming language — to mathematically prove the correctness of all generated content.
+---
 
-## 🚀 Features
+## 🏗️ The Multi-Genre Architecture
+This engine is built on **Generic Logic Patterns**. While the default "Skin" is High Fantasy, the core mathematical invariants are **Genre-Agnostic**. 
 
-* **Mathematical Guarantees**: Every procedural generator acts as a formal spec. Dafny proves at *compile time* that generated locations or items will never violate their internal logic rules.
-* **Complex Data Modeling**: Exhaustive `datatype` definitions (enums) mapping specific biome sizes and magical types to specific behaviors.
-* **Zero Overhead "Dead Code" & Unsoundness**: The code is fully audited against logical fallacies or dirty assertions (e.g., `assume`).
-* **Optimized Verification**: Generators are refactored to limit logical branching and sequences, reducing verifier resource burden significantly (under 1 million resources per task).
+| System | Fantasy Skin (Default) | Sci-Fi Skin | Cyberpunk Skin |
+| :--- | :--- | :--- | :--- |
+| **MagicItems** | `Sword of Inferno` | `Plasma Cutter` | `Neural Monoblade` |
+| **Locations** | `Volcano Dungeon` | `Ion Storm Nebula` | `MegaCorp Server Farm` |
+| **Monsters** | `Ancient Red Dragon` | `Xeno-Hive Queen` | `Rogue AI Sentinel` |
+| **Spells** | `Fireball (Evocation)` | `Thermal Burst` | `System Overload (Logic)` |
 
-## 🗃️ Codebase Structure
+---
 
-The project is organized following professional standards:
+## 🗃️ Core Modules (Proven & Validated)
 
-*   **`src/`**: Contains the formally verified Dafny source files.
-    *   `MagicItems.dfy` - Elemental weapons and artifacts.
-    *   `Locations.dfy` - Procedural world generation.
-    *   `Monsters.dfy` - Enemy types and threat balancing.
-    *   `NPCs.dfy` - Social entities and economic traits.
-    *   `Spells.dfy` - Magic system and mana/cooldown logic.
-    *   `Combat.dfy` - The core deterministic battle engine.
-*   **`output/`**: Freshly generated text databases for each module.
-*   **`scripts/`**: Automation tools for audit and verification metrics.
+Every module in `src/` is built with a `Valid()` predicate and follows the **Strict Audit Protocol**.
 
-## 🛠️ Tools & Scripts
+*   ⚔️ **`Combat.dfy`**: The heart of the simulation. A deterministic battle engine where mana management and turn resolution are formally proven.
+*   📜 **`Quests.dfy`**: (New!) Mission generator connecting NPCs, Locations, and rewards. Proves that high-risk objectives always yield high-value rewards.
+*   ⚖️ **`Balancer.dfy`**: The "Global Auditor". A meta-module that proves social and economic hierarchies hold TRUE across the entire universe.
+*   🗡️ **`MagicItems.dfy` & `Spells.dfy`**: Generators for billions of balanced artifacts and abilities.
+*   🏰 **`Locations.dfy`**: Procedural world generator with biome-specific danger scaling.
+*   🧙‍♂️ **`NPCs.dfy`**: Social entity generator with verified class-based economic traits.
 
-We have custom automation scripts built to easily run audits and verify complexity bounds across all `.dfy` files:
+---
+
+## 🛠️ Professional Toolchain
+
+We provide automation scripts for continuous integration and stability:
 
 *   **`scripts/audit_dafny.sh`**  
-  A one-click formal audit runner that strictly enforces:
-  - Determinism rules (`--enforce-determinism`)
-  - No missing constructor parentheses
-  - Strict tracking of impure printing methods (`--track-print-effects`)
-  - Absence of logical errors/unsoundness (`dafny audit`)
-
-  *Usage:* `./scripts/audit_dafny.sh` (audits all) or `./scripts/audit_dafny.sh src/Locations.dfy`
-
+  Performs a strict formal audit (determinism, shadowing, print-effects) across the codebase.
 *   **`scripts/check_metrics.sh`**  
-  A beautiful colored complexity analyzer. Scans `.dfy` verification trace outputs and highlights any logic that is taking too many resources (`Heavy Tasks`).
+  A visual complexity analyzer. Highlights any method that consumes excessive verification resources to prevent timeouts.
 
-  *Usage:* `./scripts/check_metrics.sh`
+---
 
-## 💻 How to Run
+## 💻 How to Run & Generate
 
-Since the Dafny code is formally verified and correct, you can confidently run it via the terminal directly or compile to target languages:
+### 1. Verification & Generation
+To generate fresh binary-data databases in the `output/` folder:
 
 ```bash
-# Run any of the formally verified components:
-dafny run src/MagicItems.dfy
-dafny run src/Locations.dfy
-dafny run src/Monsters.dfy
-dafny run src/NPCs.dfy
-dafny run src/Spells.dfy
-dafny run src/Combat.dfy
+# Generate all databases
+dafny run src/MagicItems.dfy > output/magic_items.txt
+dafny run src/Locations.dfy > output/locations.txt
+dafny run src/Monsters.dfy > output/monsters.txt
+dafny run src/NPCs.dfy > output/npcs.txt
+dafny run src/Spells.dfy > output/spells.txt
+dafny run src/Combat.dfy > output/combat.txt
+dafny run src/Quests.dfy > output/quests.txt
 ```
 
-*(You can also compile it to C#, Go, Java, C++, JS or Python using the `dafny build` command!)*
+### 2. Formal Audit
+To ensure the world is still balanced after your changes:
+```bash
+./scripts/audit_dafny.sh
+```
 
-## 🗺️ Matrix Features for Games
+---
 
-To build a complete, formally verified procedural RPG, we need multiple interconnected systems. Here is the current Ecosystem Matrix representing our generator coverage:
+## 🚧 Status & Roadmap
 
-| Feature Generator | Status | Description | Formal Verification Goal |
-| :--- | :---: | :--- | :--- |
-| 🛡️ **Items & Loot** (`MagicItems.dfy`) | ✅ | Weapons, artifacts, elements, rarity scaling | Prove power balance formulas and elemental synergy. |
-| 🏰 **World & Locations** (`Locations.dfy`) | ✅ | Biomes, dungeons, cities, danger calculation | Prove danger levels correlate strictly with size/biome. |
-| 🧙‍♂️ **NPCs & Characters** (`NPCs.dfy`) | ✅ | Names, races, classes, alignments, professions | Prove stat distributions and logical origin traits. |
-| 🐉 **Monsters & Encounters** (`Monsters.dfy`) | ✅ | Creature types, abilities, HP/Damage scaling | Prove mathematical fairness of combat stats vs player levels. |
-| ✨ **Spells & Abilities** (`Spells.dfy`) | ✅ | Magic schools, mana costs, cooldowns, pure logic | Prove spell costs mathematically scale with damage output. |
-| ⚔️ **Combat Engine** (`Combat.dfy`) | ✅ | Turn resolution, mana tradeoffs, encounter loops | Prove deterministic state transitions without game-breaking bounds. |
+| Feature | Status | Description |
+| :--- | :---: | :--- |
+| **Procedural Generation** | ✅ | Done for Items, Monsters, NPCs, Spells, Locations. |
+| **Formal Balance** | ✅ | Cross-module lemmas prove social/combat hierarchies. |
+| **Core Loop** | ✅ | Battle engine and Turn-resolution proven. |
+| **Quest System** | ⏳ | Advanced multi-step chains (Initial Tier implemented). |
+| **Reputation System** | 📅 | *Planned*: Mutual exclusivity of faction standing. |
+| **Persistence Layer** | 📅 | *Planned*: Formal JSON serialization to disk. |
+
+---
+
+## 🛡️ Why Formal Verification?
+In modern game development, balancing an MMO or a large RPG manually is impossible. One small change to a multiplier can break the economy. **Dafny** allows us to:
+1.  **Eliminate Edge-case Bugs**: No more division-by-zero or negative HP.
+2.  **Guaranteed Fairness**: Mathematical proofs that a legendary item is always better than a common one.
+3.  **Instant Feedback**: The compiler tells the designer if they broke the game *before* it's even compiled.
+
+---
+**Architected with Precision. Verified by Logic.**
