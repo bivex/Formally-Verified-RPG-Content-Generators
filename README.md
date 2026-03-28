@@ -49,3 +49,15 @@ dafny run Locations.dfy
 ```
 
 *(You can also compile it to C#, Go, Java, C++, JS or Python using the `dafny build` command!)*
+
+## 🗺️ Matrix Features for Games
+
+To build a complete, formally verified procedural RPG, we need multiple interconnected systems. Here is the current Ecosystem Matrix representing our generator coverage:
+
+| Feature Generator | Status | Description | Formal Verification Goal |
+| :--- | :---: | :--- | :--- |
+| 🛡️ **Items & Loot** (`MagicItems.dfy`) | ✅ | Weapons, artifacts, elements, rarity scaling | Prove power balance formulas and elemental synergy. |
+| 🏰 **World & Locations** (`Locations.dfy`) | ✅ | Biomes, dungeons, cities, danger calculation | Prove danger levels correlate strictly with size/biome. |
+| 🧙‍♂️ **NPCs & Characters** (`NPCs.dfy`) | ✅ | Names, races, classes, alignments, professions | Prove stat distributions and logical origin traits. |
+| 🐉 **Monsters & Encounters** (`Monsters.dfy`) | ✅ | Creature types, abilities, HP/Damage scaling | Prove mathematical fairness of combat stats vs player levels. |
+| ✨ **Spells & Abilities** (`Spells.dfy`) | ✅ | Magic schools, mana costs, cooldowns, pure logic | Prove spell costs mathematically scale with damage output. |
