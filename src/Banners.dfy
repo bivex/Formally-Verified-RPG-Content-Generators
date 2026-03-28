@@ -43,11 +43,11 @@ module Banners {
     ensures MakeBanner(bt, fe, fw).Valid()
   {
     match bt
-      case Standard =>
+      case Standard() =>
         BannerConfig(bt, fe, fw, RATE_5STAR_CHAR, RATE_4STAR_CHAR, HARD_PITY_CHAR, SOFT_PITY_CHAR, GUARANTEE_CHAR)
-      case LimitedCharacter =>
+      case LimitedCharacter() =>
         BannerConfig(bt, fe, fw, RATE_5STAR_CHAR, RATE_4STAR_CHAR, HARD_PITY_CHAR, SOFT_PITY_CHAR, GUARANTEE_CHAR)
-      case LimitedWeapon =>
+      case LimitedWeapon() =>
         BannerConfig(bt, fe, fw, RATE_5STAR_WEAPON, RATE_4STAR_WEAPON, HARD_PITY_WEAPON, SOFT_PITY_WEAPON, GUARANTEE_WEAPON)
   }
 
@@ -95,19 +95,19 @@ module Banners {
 
   function BannerTypeStr(bt: BannerType): string {
     match bt
-      case Standard => "Standard"
-      case LimitedCharacter => "LimitedChar"
-      case LimitedWeapon => "LimitedWeapon"
+      case Standard() => "Standard"
+      case LimitedCharacter() => "LimitedChar"
+      case LimitedWeapon() => "LimitedWeapon"
   }
   function BElemStr(e: Element): string {
     match e
-      case Pyro => "Pyro" case Hydro => "Hydro" case Anemo => "Anemo"
-      case Electro => "Electro" case Geo => "Geo" case Cryo => "Cryo" case Dendro => "Dendro"
+      case Pyro() => "Pyro" case Hydro() => "Hydro" case Anemo() => "Anemo"
+      case Electro() => "Electro" case Geo() => "Geo" case Cryo() => "Cryo" case Dendro() => "Dendro"
   }
   function BWeaponStr(w: WeaponType): string {
     match w
-      case Sword => "Sword" case Claymore => "Claymore" case Polearm => "Polearm"
-      case Bow => "Bow" case Catalyst => "Catalyst"
+      case Sword() => "Sword" case Claymore() => "Claymore" case Polearm() => "Polearm"
+      case Bow() => "Bow" case Catalyst() => "Catalyst"
   }
 
   method {:print} PrintBanner(b: BannerConfig) {

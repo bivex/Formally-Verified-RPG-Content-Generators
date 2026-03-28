@@ -43,12 +43,12 @@ module Pity {
     match r
       case Got5Star(featured) =>
         PityState(0, 0, !featured, s.totalPulls + 1)
-      case Got4Star =>
+      case Got4Star() =>
         var new5 := s.since5Star + 1;
         PityState(
           if new5 <= HARD_PITY_5STAR then new5 else HARD_PITY_5STAR,
           0, s.guaranteed, s.totalPulls + 1)
-      case Got3Star =>
+      case Got3Star() =>
         var new5 := s.since5Star + 1;
         var new4 := s.since4Star + 1;
         PityState(

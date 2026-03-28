@@ -25,54 +25,54 @@ module Weapons {
 
   function WeaponBaseATK_R3(w: WeaponType): nat {
     match w
-      case Sword => 40 case Claymore => 38 case Polearm => 39
-      case Bow => 37 case Catalyst => 33
+      case Sword() => 40 case Claymore() => 38 case Polearm() => 39
+      case Bow() => 37 case Catalyst() => 33
   }
   function WeaponBaseATK_R4(w: WeaponType): nat {
     match w
-      case Sword => 44 case Claymore => 42 case Polearm => 43
-      case Bow => 41 case Catalyst => 42
+      case Sword() => 44 case Claymore() => 42 case Polearm() => 43
+      case Bow() => 41 case Catalyst() => 42
   }
   function WeaponBaseATK_R5(w: WeaponType): nat {
     match w
-      case Sword => 48 case Claymore => 46 case Polearm => 48
-      case Bow => 46 case Catalyst => 49
+      case Sword() => 48 case Claymore() => 46 case Polearm() => 48
+      case Bow() => 46 case Catalyst() => 49
   }
   function WeaponBaseATK(w: WeaponType, r: StarRarity): nat {
     match r
-      case R3 => WeaponBaseATK_R3(w)
-      case R4 => WeaponBaseATK_R4(w)
-      case R5 => WeaponBaseATK_R5(w)
+      case R3() => WeaponBaseATK_R3(w)
+      case R4() => WeaponBaseATK_R4(w)
+      case R5() => WeaponBaseATK_R5(w)
   }
 
   function SubstatBase_R3(s: Substat): nat
     ensures SubstatBase_R3(s) > 0
   {
     match s
-      case ATK_Pct => 6 case CritRate => 4 case CritDMG => 8
-      case ElemMastery => 20 case EnergyRecharge => 7 case HP_Pct => 6 case DEF_Pct => 7
+      case ATK_Pct() => 6 case CritRate() => 4 case CritDMG() => 8
+      case ElemMastery() => 20 case EnergyRecharge() => 7 case HP_Pct() => 6 case DEF_Pct() => 7
   }
   function SubstatBase_R4(s: Substat): nat
     ensures SubstatBase_R4(s) > 0
   {
     match s
-      case ATK_Pct => 9 case CritRate => 6 case CritDMG => 12
-      case ElemMastery => 36 case EnergyRecharge => 10 case HP_Pct => 9 case DEF_Pct => 11
+      case ATK_Pct() => 9 case CritRate() => 6 case CritDMG() => 12
+      case ElemMastery() => 36 case EnergyRecharge() => 10 case HP_Pct() => 9 case DEF_Pct() => 11
   }
   function SubstatBase_R5(s: Substat): nat
     ensures SubstatBase_R5(s) > 0
   {
     match s
-      case ATK_Pct => 11 case CritRate => 7 case CritDMG => 14
-      case ElemMastery => 44 case EnergyRecharge => 12 case HP_Pct => 11 case DEF_Pct => 13
+      case ATK_Pct() => 11 case CritRate() => 7 case CritDMG() => 14
+      case ElemMastery() => 44 case EnergyRecharge() => 12 case HP_Pct() => 11 case DEF_Pct() => 13
   }
   function SubstatBase(s: Substat, r: StarRarity): nat
     ensures SubstatBase(s, r) > 0
   {
     match r
-      case R3 => SubstatBase_R3(s)
-      case R4 => SubstatBase_R4(s)
-      case R5 => SubstatBase_R5(s)
+      case R3() => SubstatBase_R3(s)
+      case R4() => SubstatBase_R4(s)
+      case R5() => SubstatBase_R5(s)
   }
 
   // Substat scales linearly with refinement: R1=base, R5=5*base
@@ -99,67 +99,67 @@ module Weapons {
   // Substat → mythic power word (R5 tier)
   function SubstatMythic(s: Substat): string {
     match s
-      case CritDMG        => "Calamity"
-      case CritRate       => "Havoc"
-      case ATK_Pct        => "Conquest"
-      case ElemMastery    => "Aether"
-      case EnergyRecharge => "Eternity"
-      case HP_Pct         => "Bastion"
-      case DEF_Pct        => "Aegis"
+      case CritDMG()        => "Calamity"
+      case CritRate()       => "Havoc"
+      case ATK_Pct()        => "Conquest"
+      case ElemMastery()    => "Aether"
+      case EnergyRecharge() => "Eternity"
+      case HP_Pct()         => "Bastion"
+      case DEF_Pct()        => "Aegis"
   }
 
   // Substat → heroic adjective (R4 tier)
   function SubstatHeroic(s: Substat): string {
     match s
-      case CritDMG        => "Ruinous"
-      case CritRate       => "Tempest"
-      case ATK_Pct        => "Sovereign"
-      case ElemMastery    => "Esoteric"
-      case EnergyRecharge => "Flowing"
-      case HP_Pct         => "Ironclad"
-      case DEF_Pct        => "Rampart"
+      case CritDMG()        => "Ruinous"
+      case CritRate()       => "Tempest"
+      case ATK_Pct()        => "Sovereign"
+      case ElemMastery()    => "Esoteric"
+      case EnergyRecharge() => "Flowing"
+      case HP_Pct()         => "Ironclad"
+      case DEF_Pct()        => "Rampart"
   }
 
   // Substat → earthen material (R3 tier)
   function SubstatMaterial(s: Substat): string {
     match s
-      case CritDMG        => "Obsidian"
-      case CritRate       => "Flint"
-      case ATK_Pct        => "Iron"
-      case ElemMastery    => "Jade"
-      case EnergyRecharge => "Quartz"
-      case HP_Pct         => "Timber"
-      case DEF_Pct        => "Granite"
+      case CritDMG()        => "Obsidian"
+      case CritRate()       => "Flint"
+      case ATK_Pct()        => "Iron"
+      case ElemMastery()    => "Jade"
+      case EnergyRecharge() => "Quartz"
+      case HP_Pct()         => "Timber"
+      case DEF_Pct()        => "Granite"
   }
 
   // Type → mythic form (R5 tier)
   function WeaponNounMythic(w: WeaponType): string {
     match w
-      case Sword    => "Fang"
-      case Claymore => "Colossus"
-      case Polearm  => "Spire"
-      case Bow      => "Harbinger"
-      case Catalyst => "Grimoire"
+      case Sword()    => "Fang"
+      case Claymore() => "Colossus"
+      case Polearm()  => "Spire"
+      case Bow()      => "Harbinger"
+      case Catalyst() => "Grimoire"
   }
 
   // Type → heroic form (R4 tier)
   function WeaponNounHeroic(w: WeaponType): string {
     match w
-      case Sword    => "Blade"
-      case Claymore => "Crusher"
-      case Polearm  => "Halberd"
-      case Bow      => "Stringer"
-      case Catalyst => "Codex"
+      case Sword()    => "Blade"
+      case Claymore() => "Crusher"
+      case Polearm()  => "Halberd"
+      case Bow()      => "Stringer"
+      case Catalyst() => "Codex"
   }
 
   // Type → common form (R3 tier)
   function WeaponNounCommon(w: WeaponType): string {
     match w
-      case Sword    => "Sword"
-      case Claymore => "Greatsword"
-      case Polearm  => "Spear"
-      case Bow      => "Bow"
-      case Catalyst => "Tome"
+      case Sword()    => "Sword"
+      case Claymore() => "Greatsword"
+      case Polearm()  => "Spear"
+      case Bow()      => "Bow"
+      case Catalyst() => "Tome"
   }
 
   // R5 refinement epithet — tells the story of how many times the weapon was reforged
@@ -205,9 +205,9 @@ module Weapons {
     requires MIN_REF <= ref <= MAX_REF
   {
     match r
-      case R5 => SubstatMythic(s) + "'s " + WeaponNounMythic(w) + R5Epithet(ref)
-      case R4 => SubstatHeroic(s) + " " + WeaponNounHeroic(w) + R4Mark(ref)
-      case R3 => SubstatMaterial(s) + " " + WeaponNounCommon(w) + R3Mark(ref)
+      case R5() => SubstatMythic(s) + "'s " + WeaponNounMythic(w) + R5Epithet(ref)
+      case R4() => SubstatHeroic(s) + " " + WeaponNounHeroic(w) + R4Mark(ref)
+      case R3() => SubstatMaterial(s) + " " + WeaponNounCommon(w) + R3Mark(ref)
   }
 
   function CreateWeapon(w: WeaponType, r: StarRarity, s: Substat, ref: nat): Weapon
@@ -270,11 +270,11 @@ module Weapons {
 
   function SubstatStr(s: Substat): string {
     match s
-      case ATK_Pct => "ATK%" case CritRate => "CritRate" case CritDMG => "CritDMG"
-      case ElemMastery => "EM" case EnergyRecharge => "ER" case HP_Pct => "HP%" case DEF_Pct => "DEF%"
+      case ATK_Pct() => "ATK%" case CritRate() => "CritRate" case CritDMG() => "CritDMG"
+      case ElemMastery() => "EM" case EnergyRecharge() => "ER" case HP_Pct() => "HP%" case DEF_Pct() => "DEF%"
   }
   function WRarityStr(r: StarRarity): string {
-    match r case R3 => "3star" case R4 => "4star" case R5 => "5star"
+    match r case R3() => "3star" case R4() => "4star" case R5() => "5star"
   }
 
   method {:print} PrintWeapon(wp: Weapon) {

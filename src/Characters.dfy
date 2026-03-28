@@ -21,47 +21,47 @@ module Characters {
   }
 
   function RarityHPBase(r: StarRarity): nat {
-    match r case R3 => 5000 case R4 => 8000 case R5 => 11000
+    match r case R3() => 5000 case R4() => 8000 case R5() => 11000
   }
   function RarityATKBase(r: StarRarity): nat {
-    match r case R3 => 15 case R4 => 22 case R5 => 30
+    match r case R3() => 15 case R4() => 22 case R5() => 30
   }
   function RarityDEFBase(r: StarRarity): nat {
-    match r case R3 => 50 case R4 => 75 case R5 => 100
+    match r case R3() => 50 case R4() => 75 case R5() => 100
   }
   function ElemHPBonus(e: Element): nat {
     match e
-      case Pyro => 500 case Hydro => 1000 case Anemo => 300
-      case Electro => 600 case Geo => 800 case Cryo => 700 case Dendro => 900
+      case Pyro() => 500 case Hydro() => 1000 case Anemo() => 300
+      case Electro() => 600 case Geo() => 800 case Cryo() => 700 case Dendro() => 900
   }
   function ElemDEFBonus(e: Element): nat {
     match e
-      case Pyro => 5 case Hydro => 3 case Anemo => 8
-      case Electro => 6 case Geo => 10 case Cryo => 7 case Dendro => 4
+      case Pyro() => 5 case Hydro() => 3 case Anemo() => 8
+      case Electro() => 6 case Geo() => 10 case Cryo() => 7 case Dendro() => 4
   }
   function WeaponATKBonus(w: WeaponType): nat {
     match w
-      case Sword => 10 case Claymore => 15 case Polearm => 12
-      case Bow => 8 case Catalyst => 7
+      case Sword() => 10 case Claymore() => 15 case Polearm() => 12
+      case Bow() => 8 case Catalyst() => 7
   }
   function WeaponHPBonus(w: WeaponType): nat {
     match w
-      case Sword => 500 case Claymore => 300 case Polearm => 400
-      case Bow => 600 case Catalyst => 800
+      case Sword() => 500 case Claymore() => 300 case Polearm() => 400
+      case Bow() => 600 case Catalyst() => 800
   }
 
   function ElemTitle(e: Element): string {
     match e
-      case Pyro => "Flame" case Hydro => "Tide" case Anemo => "Storm"
-      case Electro => "Thunder" case Geo => "Stone" case Cryo => "Frost" case Dendro => "Bloom"
+      case Pyro() => "Flame" case Hydro() => "Tide" case Anemo() => "Storm"
+      case Electro() => "Thunder" case Geo() => "Stone" case Cryo() => "Frost" case Dendro() => "Bloom"
   }
   function WeaponTitle(w: WeaponType): string {
     match w
-      case Sword => "Blade" case Claymore => "Greatsword" case Polearm => "Spear"
-      case Bow => "Archer" case Catalyst => "Sage"
+      case Sword() => "Blade" case Claymore() => "Greatsword" case Polearm() => "Spear"
+      case Bow() => "Archer" case Catalyst() => "Sage"
   }
   function RarityPrefix(r: StarRarity): string {
-    match r case R3 => "" case R4 => "Arcane " case R5 => "Celestial "
+    match r case R3() => "" case R4() => "Arcane " case R5() => "Celestial "
   }
   function GenerateName(e: Element, w: WeaponType, r: StarRarity): string {
     RarityPrefix(r) + ElemTitle(e) + " " + WeaponTitle(w)
@@ -120,17 +120,17 @@ module Characters {
   }
 
   function RarityStr(r: StarRarity): string {
-    match r case R3 => "3star" case R4 => "4star" case R5 => "5star"
+    match r case R3() => "3star" case R4() => "4star" case R5() => "5star"
   }
   function ElemStr(e: Element): string {
     match e
-      case Pyro => "Pyro" case Hydro => "Hydro" case Anemo => "Anemo"
-      case Electro => "Electro" case Geo => "Geo" case Cryo => "Cryo" case Dendro => "Dendro"
+      case Pyro() => "Pyro" case Hydro() => "Hydro" case Anemo() => "Anemo"
+      case Electro() => "Electro" case Geo() => "Geo" case Cryo() => "Cryo" case Dendro() => "Dendro"
   }
   function WeaponStr(w: WeaponType): string {
     match w
-      case Sword => "Sword" case Claymore => "Claymore" case Polearm => "Polearm"
-      case Bow => "Bow" case Catalyst => "Catalyst"
+      case Sword() => "Sword" case Claymore() => "Claymore" case Polearm() => "Polearm"
+      case Bow() => "Bow" case Catalyst() => "Catalyst"
   }
 
   method {:print} PrintCharacter(c: Character) {

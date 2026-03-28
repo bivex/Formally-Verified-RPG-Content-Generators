@@ -42,13 +42,13 @@ module Rarest100 {
 
   function SubstatPriority(s: Substat): nat {
     match s
-      case CritDMG        => 7
-      case CritRate       => 6
-      case ATK_Pct        => 5
-      case EnergyRecharge => 4
-      case ElemMastery    => 3
-      case HP_Pct         => 2
-      case DEF_Pct        => 1
+      case CritDMG()        => 7
+      case CritRate()       => 6
+      case ATK_Pct()        => 5
+      case EnergyRecharge() => 4
+      case ElemMastery()    => 3
+      case HP_Pct()         => 2
+      case DEF_Pct()        => 1
   }
 
   // ─── Difficulty score ─────────────────────────────────────────────
