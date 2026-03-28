@@ -1,0 +1,35 @@
+
+Dafny program verifier finished with 19 verified, 0 errors
+╔══════════════════════════════════════════════════════════════╗
+║          GACHA ENGINE — CONTENT STATISTICS                  ║
+╠══════════╦══════════════════════════════════════════════════╣
+║  Module  ║  Count  Dimensions                               ║
+╠══════════╬══════════════════════════════════════════════════╣
+║ Chars    ║  105    = 7 elem x 5 wtype x 3 rar
+║ Weapons  ║  525    = 5 wtype x 3 rar x 7 sub x 5 ref
+║ Banners  ║  105    = 3 type x 7 elem x 5 wtype
+║ Pity     ║  2002   = 91 s5 x 11 s4 x 2 gtd
+║ Economy  ║  180    = pull tiers 1..180
+║ Pulls    ║  182    = 91 since5 x 2 gtd
+╠══════════╩══════════════════════════════════════════════════╣
+║  GRAND TOTAL: 3099                                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  PITY MODEL                                                  ║
+║  Hard pity 5star: pull 90
+║  Soft pity start: pull 74
+║  Hard pity 4star: pull 10
+║  Expected featured 5star: 94 pulls
+║  Expected featured cost:  15040 primos
+║  F2P monthly: 16 pulls = 2600 primos
+║  Months to save (expected): 5 months
+╠══════════════════════════════════════════════════════════════╣
+║  FORMALLY VERIFIED INVARIANTS                                ║
+║  1. Hard pity 5star => next pull MUST be 5star               ║
+║  2. After 50/50 loss => next 5star is guaranteed featured    ║
+║  3. Any 5star resets both pity counters to 0                 ║
+║  4. Non-featured 5star arms the guarantee flag               ║
+║  5. All characters: HP>0, ATK>0, DEF>0                      ║
+║  6. All weapons: ATK>0, substatValue>0, 1<=ref<=5            ║
+║  7. All banners: rate5star<rate4star, softPity<hardPity      ║
+║  8. Economy: primoCost == pullCount * 160 (exact)            ║
+╚══════════════════════════════════════════════════════════════╝

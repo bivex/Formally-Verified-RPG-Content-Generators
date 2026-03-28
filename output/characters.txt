@@ -1,0 +1,116 @@
+
+Dafny program verifier finished with 15 verified, 0 errors
+=== GACHA CHARACTER DATABASE ===
+Total: 105
+
+--- 3star ---
+Flame Blade [3star] | Pyro | Sword | HP:6000 ATK:25 DEF:55
+Flame Greatsword [3star] | Pyro | Claymore | HP:5800 ATK:30 DEF:55
+Flame Spear [3star] | Pyro | Polearm | HP:5900 ATK:27 DEF:55
+Flame Archer [3star] | Pyro | Bow | HP:6100 ATK:23 DEF:55
+Flame Sage [3star] | Pyro | Catalyst | HP:6300 ATK:22 DEF:55
+Tide Blade [3star] | Hydro | Sword | HP:6500 ATK:25 DEF:53
+Tide Greatsword [3star] | Hydro | Claymore | HP:6300 ATK:30 DEF:53
+Tide Spear [3star] | Hydro | Polearm | HP:6400 ATK:27 DEF:53
+Tide Archer [3star] | Hydro | Bow | HP:6600 ATK:23 DEF:53
+Tide Sage [3star] | Hydro | Catalyst | HP:6800 ATK:22 DEF:53
+Storm Blade [3star] | Anemo | Sword | HP:5800 ATK:25 DEF:58
+Storm Greatsword [3star] | Anemo | Claymore | HP:5600 ATK:30 DEF:58
+Storm Spear [3star] | Anemo | Polearm | HP:5700 ATK:27 DEF:58
+Storm Archer [3star] | Anemo | Bow | HP:5900 ATK:23 DEF:58
+Storm Sage [3star] | Anemo | Catalyst | HP:6100 ATK:22 DEF:58
+Thunder Blade [3star] | Electro | Sword | HP:6100 ATK:25 DEF:56
+Thunder Greatsword [3star] | Electro | Claymore | HP:5900 ATK:30 DEF:56
+Thunder Spear [3star] | Electro | Polearm | HP:6000 ATK:27 DEF:56
+Thunder Archer [3star] | Electro | Bow | HP:6200 ATK:23 DEF:56
+Thunder Sage [3star] | Electro | Catalyst | HP:6400 ATK:22 DEF:56
+Stone Blade [3star] | Geo | Sword | HP:6300 ATK:25 DEF:60
+Stone Greatsword [3star] | Geo | Claymore | HP:6100 ATK:30 DEF:60
+Stone Spear [3star] | Geo | Polearm | HP:6200 ATK:27 DEF:60
+Stone Archer [3star] | Geo | Bow | HP:6400 ATK:23 DEF:60
+Stone Sage [3star] | Geo | Catalyst | HP:6600 ATK:22 DEF:60
+Frost Blade [3star] | Cryo | Sword | HP:6200 ATK:25 DEF:57
+Frost Greatsword [3star] | Cryo | Claymore | HP:6000 ATK:30 DEF:57
+Frost Spear [3star] | Cryo | Polearm | HP:6100 ATK:27 DEF:57
+Frost Archer [3star] | Cryo | Bow | HP:6300 ATK:23 DEF:57
+Frost Sage [3star] | Cryo | Catalyst | HP:6500 ATK:22 DEF:57
+Bloom Blade [3star] | Dendro | Sword | HP:6400 ATK:25 DEF:54
+Bloom Greatsword [3star] | Dendro | Claymore | HP:6200 ATK:30 DEF:54
+Bloom Spear [3star] | Dendro | Polearm | HP:6300 ATK:27 DEF:54
+Bloom Archer [3star] | Dendro | Bow | HP:6500 ATK:23 DEF:54
+Bloom Sage [3star] | Dendro | Catalyst | HP:6700 ATK:22 DEF:54
+
+--- 4star ---
+Arcane Flame Blade [4star] | Pyro | Sword | HP:9000 ATK:32 DEF:80
+Arcane Flame Greatsword [4star] | Pyro | Claymore | HP:8800 ATK:37 DEF:80
+Arcane Flame Spear [4star] | Pyro | Polearm | HP:8900 ATK:34 DEF:80
+Arcane Flame Archer [4star] | Pyro | Bow | HP:9100 ATK:30 DEF:80
+Arcane Flame Sage [4star] | Pyro | Catalyst | HP:9300 ATK:29 DEF:80
+Arcane Tide Blade [4star] | Hydro | Sword | HP:9500 ATK:32 DEF:78
+Arcane Tide Greatsword [4star] | Hydro | Claymore | HP:9300 ATK:37 DEF:78
+Arcane Tide Spear [4star] | Hydro | Polearm | HP:9400 ATK:34 DEF:78
+Arcane Tide Archer [4star] | Hydro | Bow | HP:9600 ATK:30 DEF:78
+Arcane Tide Sage [4star] | Hydro | Catalyst | HP:9800 ATK:29 DEF:78
+Arcane Storm Blade [4star] | Anemo | Sword | HP:8800 ATK:32 DEF:83
+Arcane Storm Greatsword [4star] | Anemo | Claymore | HP:8600 ATK:37 DEF:83
+Arcane Storm Spear [4star] | Anemo | Polearm | HP:8700 ATK:34 DEF:83
+Arcane Storm Archer [4star] | Anemo | Bow | HP:8900 ATK:30 DEF:83
+Arcane Storm Sage [4star] | Anemo | Catalyst | HP:9100 ATK:29 DEF:83
+Arcane Thunder Blade [4star] | Electro | Sword | HP:9100 ATK:32 DEF:81
+Arcane Thunder Greatsword [4star] | Electro | Claymore | HP:8900 ATK:37 DEF:81
+Arcane Thunder Spear [4star] | Electro | Polearm | HP:9000 ATK:34 DEF:81
+Arcane Thunder Archer [4star] | Electro | Bow | HP:9200 ATK:30 DEF:81
+Arcane Thunder Sage [4star] | Electro | Catalyst | HP:9400 ATK:29 DEF:81
+Arcane Stone Blade [4star] | Geo | Sword | HP:9300 ATK:32 DEF:85
+Arcane Stone Greatsword [4star] | Geo | Claymore | HP:9100 ATK:37 DEF:85
+Arcane Stone Spear [4star] | Geo | Polearm | HP:9200 ATK:34 DEF:85
+Arcane Stone Archer [4star] | Geo | Bow | HP:9400 ATK:30 DEF:85
+Arcane Stone Sage [4star] | Geo | Catalyst | HP:9600 ATK:29 DEF:85
+Arcane Frost Blade [4star] | Cryo | Sword | HP:9200 ATK:32 DEF:82
+Arcane Frost Greatsword [4star] | Cryo | Claymore | HP:9000 ATK:37 DEF:82
+Arcane Frost Spear [4star] | Cryo | Polearm | HP:9100 ATK:34 DEF:82
+Arcane Frost Archer [4star] | Cryo | Bow | HP:9300 ATK:30 DEF:82
+Arcane Frost Sage [4star] | Cryo | Catalyst | HP:9500 ATK:29 DEF:82
+Arcane Bloom Blade [4star] | Dendro | Sword | HP:9400 ATK:32 DEF:79
+Arcane Bloom Greatsword [4star] | Dendro | Claymore | HP:9200 ATK:37 DEF:79
+Arcane Bloom Spear [4star] | Dendro | Polearm | HP:9300 ATK:34 DEF:79
+Arcane Bloom Archer [4star] | Dendro | Bow | HP:9500 ATK:30 DEF:79
+Arcane Bloom Sage [4star] | Dendro | Catalyst | HP:9700 ATK:29 DEF:79
+
+--- 5star ---
+Celestial Flame Blade [5star] | Pyro | Sword | HP:12000 ATK:40 DEF:105
+Celestial Flame Greatsword [5star] | Pyro | Claymore | HP:11800 ATK:45 DEF:105
+Celestial Flame Spear [5star] | Pyro | Polearm | HP:11900 ATK:42 DEF:105
+Celestial Flame Archer [5star] | Pyro | Bow | HP:12100 ATK:38 DEF:105
+Celestial Flame Sage [5star] | Pyro | Catalyst | HP:12300 ATK:37 DEF:105
+Celestial Tide Blade [5star] | Hydro | Sword | HP:12500 ATK:40 DEF:103
+Celestial Tide Greatsword [5star] | Hydro | Claymore | HP:12300 ATK:45 DEF:103
+Celestial Tide Spear [5star] | Hydro | Polearm | HP:12400 ATK:42 DEF:103
+Celestial Tide Archer [5star] | Hydro | Bow | HP:12600 ATK:38 DEF:103
+Celestial Tide Sage [5star] | Hydro | Catalyst | HP:12800 ATK:37 DEF:103
+Celestial Storm Blade [5star] | Anemo | Sword | HP:11800 ATK:40 DEF:108
+Celestial Storm Greatsword [5star] | Anemo | Claymore | HP:11600 ATK:45 DEF:108
+Celestial Storm Spear [5star] | Anemo | Polearm | HP:11700 ATK:42 DEF:108
+Celestial Storm Archer [5star] | Anemo | Bow | HP:11900 ATK:38 DEF:108
+Celestial Storm Sage [5star] | Anemo | Catalyst | HP:12100 ATK:37 DEF:108
+Celestial Thunder Blade [5star] | Electro | Sword | HP:12100 ATK:40 DEF:106
+Celestial Thunder Greatsword [5star] | Electro | Claymore | HP:11900 ATK:45 DEF:106
+Celestial Thunder Spear [5star] | Electro | Polearm | HP:12000 ATK:42 DEF:106
+Celestial Thunder Archer [5star] | Electro | Bow | HP:12200 ATK:38 DEF:106
+Celestial Thunder Sage [5star] | Electro | Catalyst | HP:12400 ATK:37 DEF:106
+Celestial Stone Blade [5star] | Geo | Sword | HP:12300 ATK:40 DEF:110
+Celestial Stone Greatsword [5star] | Geo | Claymore | HP:12100 ATK:45 DEF:110
+Celestial Stone Spear [5star] | Geo | Polearm | HP:12200 ATK:42 DEF:110
+Celestial Stone Archer [5star] | Geo | Bow | HP:12400 ATK:38 DEF:110
+Celestial Stone Sage [5star] | Geo | Catalyst | HP:12600 ATK:37 DEF:110
+Celestial Frost Blade [5star] | Cryo | Sword | HP:12200 ATK:40 DEF:107
+Celestial Frost Greatsword [5star] | Cryo | Claymore | HP:12000 ATK:45 DEF:107
+Celestial Frost Spear [5star] | Cryo | Polearm | HP:12100 ATK:42 DEF:107
+Celestial Frost Archer [5star] | Cryo | Bow | HP:12300 ATK:38 DEF:107
+Celestial Frost Sage [5star] | Cryo | Catalyst | HP:12500 ATK:37 DEF:107
+Celestial Bloom Blade [5star] | Dendro | Sword | HP:12400 ATK:40 DEF:104
+Celestial Bloom Greatsword [5star] | Dendro | Claymore | HP:12200 ATK:45 DEF:104
+Celestial Bloom Spear [5star] | Dendro | Polearm | HP:12300 ATK:42 DEF:104
+Celestial Bloom Archer [5star] | Dendro | Bow | HP:12500 ATK:38 DEF:104
+Celestial Bloom Sage [5star] | Dendro | Catalyst | HP:12700 ATK:37 DEF:104
+

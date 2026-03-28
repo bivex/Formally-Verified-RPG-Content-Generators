@@ -1,0 +1,116 @@
+
+Dafny program verifier finished with 17 verified, 0 errors
+=== GACHA BANNER CONFIGS ===
+Total: 105
+
+-- Standard --
+Standard | Featured:Pyro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Pyro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Pyro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Pyro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Pyro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Hydro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Hydro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Hydro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Hydro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Hydro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Anemo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Anemo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Anemo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Anemo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Anemo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Electro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Electro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Electro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Electro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Electro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Geo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Geo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Geo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Geo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Geo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Cryo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Cryo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Cryo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Cryo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Cryo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Dendro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Dendro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Dendro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Dendro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+Standard | Featured:Dendro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+
+-- LimitedChar --
+LimitedChar | Featured:Pyro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Pyro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Pyro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Pyro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Pyro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Hydro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Hydro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Hydro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Hydro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Hydro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Anemo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Anemo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Anemo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Anemo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Anemo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Electro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Electro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Electro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Electro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Electro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Geo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Geo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Geo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Geo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Geo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Cryo-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Cryo-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Cryo-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Cryo-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Cryo-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Dendro-Sword | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Dendro-Claymore | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Dendro-Polearm | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Dendro-Bow | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+LimitedChar | Featured:Dendro-Catalyst | 5star:60/10k | 4star:510/10k | HardPity:90 | SoftPity:74 | GuaranteeAt:2
+
+-- LimitedWeapon --
+LimitedWeapon | Featured:Pyro-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Pyro-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Pyro-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Pyro-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Pyro-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Hydro-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Hydro-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Hydro-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Hydro-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Hydro-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Anemo-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Anemo-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Anemo-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Anemo-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Anemo-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Electro-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Electro-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Electro-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Electro-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Electro-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Geo-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Geo-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Geo-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Geo-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Geo-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Cryo-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Cryo-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Cryo-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Cryo-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Cryo-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Dendro-Sword | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Dendro-Claymore | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Dendro-Polearm | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Dendro-Bow | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+LimitedWeapon | Featured:Dendro-Catalyst | 5star:70/10k | 4star:600/10k | HardPity:80 | SoftPity:62 | GuaranteeAt:2
+
