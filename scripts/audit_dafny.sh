@@ -15,11 +15,11 @@ fi
 
 echo -e "${YELLOW}Starting Dafny Formal Verification Audit...${NC}\n"
 
-# Only check specific files if provided as arguments, otherwise check all .dfy files
+# Only check specific files if provided as arguments, otherwise check all .dfy files in src/
 if [ "$#" -gt 0 ]; then
     FILES="$@"
 else
-    FILES=$(find . -maxdepth 1 -name "*.dfy")
+    FILES=$(find src -name "*.dfy")
 fi
 
 if [ -z "$FILES" ]; then

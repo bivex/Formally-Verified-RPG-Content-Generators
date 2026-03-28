@@ -14,7 +14,7 @@ if ! command -v dafny &> /dev/null; then
 fi
 
 if [ "$#" -eq 0 ]; then
-    FILES=$(find . -maxdepth 1 -name "*.dfy")
+    FILES=$(find src -name "*.dfy")
 else
     FILES="$@"
 fi

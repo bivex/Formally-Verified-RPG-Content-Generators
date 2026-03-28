@@ -13,28 +13,35 @@ Instead of writing standard unverified scripts that might produce invalid item c
 
 ## 🗃️ Codebase Structure
 
-The project currently contains two main procedural generators:
+The project is organized following professional standards:
 
-1. **`MagicItems.dfy`** - Generates unique magical weapons and artifacts based on Element, Type, and Rarity. Calculates power levels with balancing rules verified by Dafny.
-2. **`Locations.dfy`** - Generates unique names and danger levels for RPG locations (dungeons, cities, ruins) based on Biome, Size, and Location Type.
+*   **`src/`**: Contains the formally verified Dafny source files.
+    *   `MagicItems.dfy` - Elemental weapons and artifacts.
+    *   `Locations.dfy` - Procedural world generation.
+    *   `Monsters.dfy` - Enemy types and threat balancing.
+    *   `NPCs.dfy` - Social entities and economic traits.
+    *   `Spells.dfy` - Magic system and mana/cooldown logic.
+    *   `Combat.dfy` - The core deterministic battle engine.
+*   **`output/`**: Freshly generated text databases for each module.
+*   **`scripts/`**: Automation tools for audit and verification metrics.
 
 ## 🛠️ Tools & Scripts
 
 We have custom automation scripts built to easily run audits and verify complexity bounds across all `.dfy` files:
 
-* **`audit_dafny.sh`**  
+*   **`scripts/audit_dafny.sh`**  
   A one-click formal audit runner that strictly enforces:
   - Determinism rules (`--enforce-determinism`)
   - No missing constructor parentheses
   - Strict tracking of impure printing methods (`--track-print-effects`)
   - Absence of logical errors/unsoundness (`dafny audit`)
 
-  *Usage:* `./audit_dafny.sh` (audits all) or `./audit_dafny.sh Locations.dfy`
+  *Usage:* `./scripts/audit_dafny.sh` (audits all) or `./scripts/audit_dafny.sh src/Locations.dfy`
 
-* **`check_metrics.sh`**  
-  A beautiful colored complexity analyzer. Scans `.dfy` verification trace outputs and highlights any logic that is taking too many resources (`Heavy Tasks`) to verify. This actively protects the developer from "verification timeouts".
+*   **`scripts/check_metrics.sh`**  
+  A beautiful colored complexity analyzer. Scans `.dfy` verification trace outputs and highlights any logic that is taking too many resources (`Heavy Tasks`).
 
-  *Usage:* `./check_metrics.sh`
+  *Usage:* `./scripts/check_metrics.sh`
 
 ## 💻 How to Run
 
@@ -42,12 +49,12 @@ Since the Dafny code is formally verified and correct, you can confidently run i
 
 ```bash
 # Run any of the formally verified components:
-dafny run MagicItems.dfy
-dafny run Locations.dfy
-dafny run Monsters.dfy
-dafny run NPCs.dfy
-dafny run Spells.dfy
-dafny run Combat.dfy
+dafny run src/MagicItems.dfy
+dafny run src/Locations.dfy
+dafny run src/Monsters.dfy
+dafny run src/NPCs.dfy
+dafny run src/Spells.dfy
+dafny run src/Combat.dfy
 ```
 
 *(You can also compile it to C#, Go, Java, C++, JS or Python using the `dafny build` command!)*
