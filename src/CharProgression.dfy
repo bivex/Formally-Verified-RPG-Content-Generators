@@ -256,11 +256,11 @@ module CharProgression {
 
   // ─── Print helpers ───────────────────────────────────────────────────────
 
-  method {:print} PrintRarityTag(r: StarRarity) {
+  function RarityStars(r: StarRarity): string {
     match r
-      case R5() => print "★★★★★"
-      case R4() => print "★★★★ "
-      case R3() => print "★★★  "
+      case R5() => "[5star]"
+      case R4() => "[4star]"
+      case R3() => "[3star]"
   }
 
   // ─── Main progression report ─────────────────────────────────────────────
@@ -283,7 +283,7 @@ module CharProgression {
       invariant 0 <= ri <= |rarityList|
     {
       var r := rarityList[ri];
-      PrintRarityTag(r);
+      print RarityStars(r);
       print " │ ";  print HPAtLevel(1, r);
       print "  │   "; print ATKAtLevel(1, r);
       print "  │   "; print DEFAtLevel(1, r);
@@ -345,7 +345,10 @@ module CharProgression {
       print "          │  "; print TotalCritRate(eq); print "% ";
       print " │ ";   print TotalCritDMG(eq); print "% ";
       print " │  ";  print eqDPS;
-      print "  │ ×"; print eqDPS / (if bareDPS > 0 then bareDPS else 1); print "\n";
+      print "  │ x";
+      var mul10 := eqDPS * 10 / (if bareDPS > 0 then bareDPS else 1);
+      print mul10 / 10; print "."; print mul10 % 10;
+      print "\n";
       wi := wi + 1;
     }
     print "\n";
@@ -371,17 +374,23 @@ module CharProgression {
     print "  CritDMG  +70%  │   ";
     print TotalATK(eCD); print "    │  "; print TotalCritRate(eCD);
     print "%  │ "; print TotalCritDMG(eCD); print "%  │  "; print CharDPS(eCD);
-    print "  │ ×"; print CharDPS(eCD) / (if bareD > 0 then bareD else 1); print "\n";
+    print "  │ x";
+    var cdMul := CharDPS(eCD) * 10 / (if bareD > 0 then bareD else 1);
+    print cdMul / 10; print "."; print cdMul % 10; print "\n";
 
     print "  CritRate +35%  │   ";
     print TotalATK(eCR); print "    │ "; print TotalCritRate(eCR);
     print "%  │  "; print TotalCritDMG(eCR); print "%  │  "; print CharDPS(eCR);
-    print "  │ ×"; print CharDPS(eCR) / (if bareD > 0 then bareD else 1); print "\n";
+    print "  │ x";
+    var crMul := CharDPS(eCR) * 10 / (if bareD > 0 then bareD else 1);
+    print crMul / 10; print "."; print crMul % 10; print "\n";
 
     print "  ATK%     +55   │   ";
     print TotalATK(eATK); print "    │  "; print TotalCritRate(eATK);
     print "%  │  "; print TotalCritDMG(eATK); print "%  │  "; print CharDPS(eATK);
-    print "  │ ×"; print CharDPS(eATK) / (if bareD > 0 then bareD else 1); print "\n";
+    print "  │ x";
+    var atMul := CharDPS(eATK) * 10 / (if bareD > 0 then bareD else 1);
+    print atMul / 10; print "."; print atMul % 10; print "\n";
     print "\n";
     print "  Insight: CritRate weapon beats CritDMG weapon at base stats (5%/50%).\n";
     print "  CritDMG only pulls ahead once you have ~20%+ extra CritRate from\n";

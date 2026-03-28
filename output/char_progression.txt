@@ -1,0 +1,59 @@
+
+Dafny program verifier finished with 39 verified, 0 errors
+╔══════════════════════════════════════════════════════════════════╗
+║          CHARACTER PROGRESSION & BALANCE REPORT                 ║
+║          Pyro Sword R5 · verified by Dafny 4                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+── 1. RARITY COMPARISON  (L1 → L90) ──────────────────────────────
+Rarity │  L1 HP │ L1 ATK │ L1 DEF │  L90 HP │ L90 ATK │ L90 DEF │ ×
+───────┼────────┼────────┼────────┼─────────┼─────────┼─────────┼──
+[5star] │ 1011  │   20  │   62  │  15162  │    287  │    774  │ 14×
+[4star] │ 860  │   18  │   55  │  12875  │    285  │    678  │ 14×
+[3star] │ 708  │   14  │   48  │  10587  │    192  │    582  │ 14×
+
+── 2. R5 PROGRESSION  (no weapon, milestones) ─────────────────────
+Level │    HP   │ ATK │ DEF │ CR  │  CD  │  DPS
+──────┼─────────┼─────┼─────┼─────┼──────┼──────
+  1   │ 1011  │ 20 │ 62 │ 5%  │ 50%  │ 20
+  20   │ 4032  │ 77 │ 214 │ 5%  │ 50%  │ 78
+  40   │ 7212  │ 137 │ 374 │ 5%  │ 50%  │ 140
+  60   │ 10392  │ 197 │ 534 │ 5%  │ 50%  │ 201
+  80   │ 13572  │ 257 │ 694 │ 5%  │ 50%  │ 263
+  90   │ 15162  │ 287 │ 774 │ 5%  │ 50%  │ 294
+
+── 3. EQUIPPED: Calamity's Fang, the Unrivaled  (R5 Sword CritDMG ref=5)
+Level │ charATK + wATK = total │ CR  │  CD  │  DPS  │ vs bare
+──────┼───────────────────────┼─────┼──────┼───────┼────────
+  1   │   20 + 48 = 68          │  5%  │ 120%  │  72  │ ×3
+  20   │   77 + 48 = 125          │  5%  │ 120%  │  132  │ ×1
+  40   │   137 + 48 = 185          │  5%  │ 120%  │  196  │ ×1
+  60   │   197 + 48 = 245          │  5%  │ 120%  │  259  │ ×1
+  80   │   257 + 48 = 305          │  5%  │ 120%  │  323  │ ×1
+  90   │   287 + 48 = 335          │  5%  │ 120%  │  355  │ ×1
+
+── 4. CRIT SYNERGY AT L90 R5  (three weapon choices vs bare) ──────
+Weapon substat   │ TotalATK │  CR  │   CD  │  DPS  │ ×bare
+─────────────────┼──────────┼──────┼───────┼───────┼──────
+  (no weapon)    │   287    │  5%  │  50%  │  294  │ 1×
+  CritDMG  +70%  │   335    │  5%  │ 120%  │  355  │ ×1
+  CritRate +35%  │   335    │ 40%  │  50%  │  402  │ ×1
+  ATK%     +55   │   335    │  5%  │  50%  │  343  │ ×1
+
+  Insight: CritRate weapon beats CritDMG weapon at base stats (5%/50%).
+  CritDMG only pulls ahead once you have ~20%+ extra CritRate from
+  artifacts. Crossover point: 5%(base) + 20%(artifacts) = 25% total CR.
+
+── 5. BALANCE PROOF SUMMARY ───────────────────────────────────────
+  L90 R5 HP  / L1 R3 HP  = 21×  (proved: > 10×) ✓
+  L90 R5 ATK / L1 R3 ATK = 20×  (proved: > 10×) ✓
+  CritDMG/CritRate 2:1 golden ratio: 70 / 35 = 2:1 ✓
+
+  LevelGrowthHP / ATK / DEF  : every stat strictly grows  ✓
+  RarityHPOrdering           : R5 > R4 > R3 always        ✓
+  RarityATKOrdering          : R5 > R4 > R3 always        ✓
+  WeaponBoostsATK            : weapon always adds ATK      ✓
+  EndgameTenXEarlyGame       : L90 HP/ATK > L1 × 10       ✓
+  EquippedEndgameDomBare     : equipped L90 > bare L1      ✓
+  DPSMonotoneATK             : more ATK → never less DPS   ✓
+  DPSScore ensures ≥ ATK > 0 : DPS always positive         ✓
