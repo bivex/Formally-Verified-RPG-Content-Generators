@@ -48,13 +48,14 @@ To generate fresh binary-data databases in the `output/` folder:
 
 ```bash
 # Generate all databases
-dafny run src/MagicItems.dfy > output/magic_items.txt
-dafny run src/Locations.dfy > output/locations.txt
-dafny run src/Monsters.dfy > output/monsters.txt
-dafny run src/NPCs.dfy > output/npcs.txt
-dafny run src/Spells.dfy > output/spells.txt
-dafny run src/Combat.dfy > output/combat.txt
-dafny run src/Quests.dfy > output/quests.txt
+# Each module has a named entry point, so --main-method is required
+dafny run --main-method MagicItems.MainMagicItems src/MagicItems.dfy 2>/dev/null > output/magic_items.txt
+dafny run --main-method Locations.MainLocations   src/Locations.dfy  2>/dev/null > output/locations.txt
+dafny run --main-method Monsters.MainMonsters     src/Monsters.dfy   2>/dev/null > output/monsters.txt
+dafny run --main-method NPCs.MainNPCs             src/NPCs.dfy       2>/dev/null > output/npcs.txt
+dafny run --main-method Spells.MainSpells         src/Spells.dfy     2>/dev/null > output/spells.txt
+dafny run --main-method Combat.MainCombat         src/Combat.dfy     2>/dev/null > output/combat.txt
+dafny run --main-method Quests.MainQuests         src/Quests.dfy     2>/dev/null > output/quests.txt
 ```
 
 ### 2. Formal Audit

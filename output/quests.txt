@@ -1,2 +1,6 @@
 
 Dafny program verifier finished with 4 verified, 0 errors
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
