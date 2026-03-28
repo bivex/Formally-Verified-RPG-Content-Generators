@@ -1,53 +1,51 @@
-# Dafny compiled targets
-# C# (.NET) out
+# ==========================================
+# DEFINITIVE DAFNY & .NET GITIGNORE
+# ==========================================
+
+# --- Dafny / .NET Proj artifacts ---
 bin/
 obj/
 *.cs
 *.dll
 *.pdb
+*.csproj
 *.runtimeconfig.json
 *.deps.json
+*.assets.cache
+*.sourcelink.json
+*.nuget.g.props
+*.nuget.g.targets
+*.nuget.dgspec.json
 
-# Java out
-*.java
-*.class
-
-# Dafny extensionless executables
-Locations
+# --- Extensionless Executables (Dafny default) ---
+Balancer
 MagicItems
+Locations
 Monsters
 NPCs
 Spells
 Combat
 
-# JavaScript out
+# --- Java artifacts ---
+*.java
+*.class
+
+# --- JS / Other artifacts ---
 *.js
-
-# Go out
 *.go
-
-# C++ out
+*.py
 *.cpp
 *.h
-
-# Python out
-*.py
+*.class
 __pycache__/
 
-# Coverage and test reports
-TestResults/
-*.trx
-coverage/
-
-# Dafny documentation output
-docs/
-
-# IDE/OS files
-.vscode/
-.idea/
+# --- OS Trash ---
 .DS_Store
-*.swp
-*~
-Spells
-Monsters
-NPCs
+Thumbs.db
+
+# --- Project specific ---
+!src/*.dfy
+!output/*.txt
+!scripts/*.sh
+!README.md
+!.gitignore

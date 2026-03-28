@@ -122,7 +122,7 @@ module Combat {
     print "\n";
   }
 
-  method {:print} Main() {
+  method {:print} MainCombat() {
     var dragon := M.CreateMonster(M.Dragon, M.Gargantuan, M.Fire);
     var nukeSpell := S.CreateSpell(S.Evocation, S.Short, S.Legendary);
 

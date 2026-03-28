@@ -178,7 +178,7 @@ module Locations {
     assert loc2.dangerLevel == 150; // (20 * 5) + 50
   }
 
-  method {:print} Main() {
+  method {:print} MainLocations() {
     var forestLocs := GenerateAllForBiome(Forest);
     var volcanoLocs := GenerateAllForBiome(Volcano);
 

@@ -454,7 +454,7 @@ module MagicItems {
   //  Entry Point
   // ═══════════════════════════════════════════════════════════════════
 
-  method {:print} Main() {
+  method {:print} MainMagicItems() {
     var items := AllItems();
     print "========================================\n";
     print "   MAGIC ITEMS CODEX - Dafny 4.11\n";

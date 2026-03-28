@@ -40,24 +40,24 @@ module NPCs {
     match r
       case Dwarf()      => 15
       case Elf()        => 12
-      case Dragonborn() => 10
-      case Tiefling()   => 8
-      case Human()      => 7
-      case Halfling()   => 5
-      case Gnome()      => 5
-      case Orc()        => 2
+      case Dragonborn() => 12
+      case Tiefling()   => 10
+      case Human()      => 10
+      case Halfling()   => 8
+      case Gnome()      => 8
+      case Orc()        => 5    // Небольшой разброс (от 5 до 15)
   }
 
   function ProfessionWealthBase(p: Profession): nat {
     match p
-      case Noble()      => 500
-      case Merchant()   => 200
-      case Blacksmith() => 80
-      case Priest()     => 50
-      case Scholar()    => 40
-      case Guard()      => 20
-      case Thief()      => 15
-      case Peasant()    => 2
+      case Noble()      => 1000 // Высший класс
+      case Merchant()   => 300  // Средний класс (Торговцы)
+      case Priest()     => 150  // Духовный сан
+      case Scholar()    => 100  // Интеллигенция
+      case Blacksmith() => 80   // Рабочие
+      case Guard()      => 50   // Силовики
+      case Thief()      => 30   // Низший класс
+      case Peasant()    => 10   // Беднота
   }
 
   function ProfessionInfluenceBase(p: Profession): nat {
@@ -196,15 +196,15 @@ module NPCs {
 
   method ExampleCreation() {
     var nobleDwarf := CreateNPC(Dwarf, Noble, LawfulGood);
-    assert nobleDwarf.goldCoins == 7500;
+    assert nobleDwarf.goldCoins == 15000;
     assert nobleDwarf.influence == 95;
 
     var peasantOrc := CreateNPC(Orc, Peasant, ChaoticEvil);
-    assert peasantOrc.goldCoins == 4;
+    assert peasantOrc.goldCoins == 50;
     assert peasantOrc.influence == 0;
   }
 
-  method {:print} Main() {
+  method {:print} MainNPCs() {
     var elves := GenerateAllForRace(Elf);
     
     print "=== NPC DIRECTORY ===\n";
