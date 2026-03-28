@@ -1,0 +1,10 @@
+
+Dafny program verifier finished with 3 verified, 0 errors
+--- Starting Formal Combat --- 
+Monster: Colossal Infernal Dragon
+Turn: 0 | Player HP: 500 | Mana: 1000 | Monster HP: 366
+Action: Cast Spell
+Turn: 1 | Player HP: 500 | Mana: 100 | Monster HP: 0
+Action: Rest
+Turn: 2 | Player HP: 427 | Mana: 150 | Monster HP: 0
+VICTORY!
