@@ -83,29 +83,131 @@ module Weapons {
     SubstatBase(s, r) * ref
   }
 
-  function SubstatAbbrev(s: Substat): string {
+  // ─── AAA-Grade Name Generation ────────────────────────────────────
+  //
+  //  Three-tier naming model:
+  //    R5  →  [Mythic]'s [Noun], [Epithet]     e.g. "Calamity's Fang, the Unrivaled"
+  //    R4  →  [Heroic] [Noun][Mark]            e.g. "Ruinous Blade+++"
+  //    R3  →  [Material] [Noun] [+N]           e.g. "Obsidian Sword +3"
+  //
+  //  Each axis is independently derived from the weapon's attributes:
+  //    Substat  → power theme  (CritDMG = destruction, ER = eternity …)
+  //    Type     → physical form (Sword = Fang/Blade/Sword, …)
+  //    Rarity   → vocabulary tier
+  //    Ref      → suffix that marks progression within the tier
+
+  // Substat → mythic power word (R5 tier)
+  function SubstatMythic(s: Substat): string {
     match s
-      case ATK_Pct => "Sharp" case CritRate => "Keen" case CritDMG => "Lethal"
-      case ElemMastery => "Ancient" case EnergyRecharge => "Flowing"
-      case HP_Pct => "Sturdy" case DEF_Pct => "Guarded"
+      case CritDMG        => "Calamity"
+      case CritRate       => "Havoc"
+      case ATK_Pct        => "Conquest"
+      case ElemMastery    => "Aether"
+      case EnergyRecharge => "Eternity"
+      case HP_Pct         => "Bastion"
+      case DEF_Pct        => "Aegis"
   }
-  function WeaponSuffix(w: WeaponType): string {
+
+  // Substat → heroic adjective (R4 tier)
+  function SubstatHeroic(s: Substat): string {
+    match s
+      case CritDMG        => "Ruinous"
+      case CritRate       => "Tempest"
+      case ATK_Pct        => "Sovereign"
+      case ElemMastery    => "Esoteric"
+      case EnergyRecharge => "Flowing"
+      case HP_Pct         => "Ironclad"
+      case DEF_Pct        => "Rampart"
+  }
+
+  // Substat → earthen material (R3 tier)
+  function SubstatMaterial(s: Substat): string {
+    match s
+      case CritDMG        => "Obsidian"
+      case CritRate       => "Flint"
+      case ATK_Pct        => "Iron"
+      case ElemMastery    => "Jade"
+      case EnergyRecharge => "Quartz"
+      case HP_Pct         => "Timber"
+      case DEF_Pct        => "Granite"
+  }
+
+  // Type → mythic form (R5 tier)
+  function WeaponNounMythic(w: WeaponType): string {
     match w
-      case Sword => "Edge" case Claymore => "Impact" case Polearm => "Thrust"
-      case Bow => "Shot" case Catalyst => "Tome"
+      case Sword    => "Fang"
+      case Claymore => "Colossus"
+      case Polearm  => "Spire"
+      case Bow      => "Harbinger"
+      case Catalyst => "Grimoire"
   }
-  function WRarityPrefix(r: StarRarity): string {
-    match r case R3 => "" case R4 => "Prototype " case R5 => "Primordial "
+
+  // Type → heroic form (R4 tier)
+  function WeaponNounHeroic(w: WeaponType): string {
+    match w
+      case Sword    => "Blade"
+      case Claymore => "Crusher"
+      case Polearm  => "Halberd"
+      case Bow      => "Stringer"
+      case Catalyst => "Codex"
   }
-  function RefTag(ref: nat): string
+
+  // Type → common form (R3 tier)
+  function WeaponNounCommon(w: WeaponType): string {
+    match w
+      case Sword    => "Sword"
+      case Claymore => "Greatsword"
+      case Polearm  => "Spear"
+      case Bow      => "Bow"
+      case Catalyst => "Tome"
+  }
+
+  // R5 refinement epithet — tells the story of how many times the weapon was reforged
+  function R5Epithet(ref: nat): string
     requires MIN_REF <= ref <= MAX_REF
   {
-    match ref case 1 => "" case 2 => " R2" case 3 => " R3" case 4 => " R4" case 5 => " R5" case _ => ""
+    match ref
+      case 1 => ""
+      case 2 => " Reborn"
+      case 3 => " Reforged"
+      case 4 => ", the Ascendant"
+      case 5 => ", the Unrivaled"
+      case _ => ""
   }
+
+  // R4 refinement mark — compact upgrade notation
+  function R4Mark(ref: nat): string
+    requires MIN_REF <= ref <= MAX_REF
+  {
+    match ref
+      case 1 => ""
+      case 2 => "+"
+      case 3 => "++"
+      case 4 => "+++"
+      case 5 => " [MAX]"
+      case _ => ""
+  }
+
+  // R3 refinement mark — simple numeric ascension
+  function R3Mark(ref: nat): string
+    requires MIN_REF <= ref <= MAX_REF
+  {
+    match ref
+      case 1 => ""
+      case 2 => " +1"
+      case 3 => " +2"
+      case 4 => " +3"
+      case 5 => " +4"
+      case _ => ""
+  }
+
   function GenerateName(w: WeaponType, r: StarRarity, s: Substat, ref: nat): string
     requires MIN_REF <= ref <= MAX_REF
   {
-    WRarityPrefix(r) + SubstatAbbrev(s) + " " + WeaponSuffix(w) + RefTag(ref)
+    match r
+      case R5 => SubstatMythic(s) + "'s " + WeaponNounMythic(w) + R5Epithet(ref)
+      case R4 => SubstatHeroic(s) + " " + WeaponNounHeroic(w) + R4Mark(ref)
+      case R3 => SubstatMaterial(s) + " " + WeaponNounCommon(w) + R3Mark(ref)
   }
 
   function CreateWeapon(w: WeaponType, r: StarRarity, s: Substat, ref: nat): Weapon

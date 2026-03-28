@@ -11,103 +11,103 @@ Dafny program verifier finished with 19 verified, 0 errors
 ║  Tier 3 (ranks 71-100): R5 ref=3  score 3020-3070  (no DEF%)    ║
 ╚══════════════════════════════════════════════════════════════════╝
 
-[#1] Primordial Lethal Edge R5 | ATK:48 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
-[#2] Primordial Lethal Tome R5 | ATK:49 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
-[#3] Primordial Lethal Thrust R5 | ATK:48 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
-[#4] Primordial Lethal Impact R5 | ATK:46 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
-[#5] Primordial Lethal Shot R5 | ATK:46 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
-[#6] Primordial Keen Edge R5 | ATK:48 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
-[#7] Primordial Keen Tome R5 | ATK:49 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
-[#8] Primordial Keen Thrust R5 | ATK:48 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
-[#9] Primordial Keen Impact R5 | ATK:46 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
-[#10] Primordial Keen Shot R5 | ATK:46 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
-[#11] Primordial Sharp Edge R5 | ATK:48 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
-[#12] Primordial Sharp Tome R5 | ATK:49 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
-[#13] Primordial Sharp Thrust R5 | ATK:48 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
-[#14] Primordial Sharp Impact R5 | ATK:46 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
-[#15] Primordial Sharp Shot R5 | ATK:46 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
-[#16] Primordial Flowing Edge R5 | ATK:48 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
-[#17] Primordial Flowing Tome R5 | ATK:49 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
-[#18] Primordial Flowing Thrust R5 | ATK:48 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
-[#19] Primordial Flowing Impact R5 | ATK:46 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
-[#20] Primordial Flowing Shot R5 | ATK:46 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
-[#21] Primordial Ancient Edge R5 | ATK:48 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
-[#22] Primordial Ancient Tome R5 | ATK:49 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
-[#23] Primordial Ancient Thrust R5 | ATK:48 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
-[#24] Primordial Ancient Impact R5 | ATK:46 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
-[#25] Primordial Ancient Shot R5 | ATK:46 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
-[#26] Primordial Sturdy Edge R5 | ATK:48 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
-[#27] Primordial Sturdy Tome R5 | ATK:49 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
-[#28] Primordial Sturdy Thrust R5 | ATK:48 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
-[#29] Primordial Sturdy Impact R5 | ATK:46 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
-[#30] Primordial Sturdy Shot R5 | ATK:46 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
-[#31] Primordial Guarded Edge R5 | ATK:48 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
-[#32] Primordial Guarded Tome R5 | ATK:49 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
-[#33] Primordial Guarded Thrust R5 | ATK:48 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
-[#34] Primordial Guarded Impact R5 | ATK:46 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
-[#35] Primordial Guarded Shot R5 | ATK:46 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
-[#36] Primordial Lethal Edge R4 | ATK:48 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
-[#37] Primordial Lethal Tome R4 | ATK:49 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
-[#38] Primordial Lethal Thrust R4 | ATK:48 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
-[#39] Primordial Lethal Impact R4 | ATK:46 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
-[#40] Primordial Lethal Shot R4 | ATK:46 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
-[#41] Primordial Keen Edge R4 | ATK:48 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
-[#42] Primordial Keen Tome R4 | ATK:49 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
-[#43] Primordial Keen Thrust R4 | ATK:48 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
-[#44] Primordial Keen Impact R4 | ATK:46 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
-[#45] Primordial Keen Shot R4 | ATK:46 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
-[#46] Primordial Sharp Edge R4 | ATK:48 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
-[#47] Primordial Sharp Tome R4 | ATK:49 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
-[#48] Primordial Sharp Thrust R4 | ATK:48 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
-[#49] Primordial Sharp Impact R4 | ATK:46 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
-[#50] Primordial Sharp Shot R4 | ATK:46 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
-[#51] Primordial Flowing Edge R4 | ATK:48 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
-[#52] Primordial Flowing Tome R4 | ATK:49 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
-[#53] Primordial Flowing Thrust R4 | ATK:48 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
-[#54] Primordial Flowing Impact R4 | ATK:46 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
-[#55] Primordial Flowing Shot R4 | ATK:46 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
-[#56] Primordial Ancient Edge R4 | ATK:48 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
-[#57] Primordial Ancient Tome R4 | ATK:49 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
-[#58] Primordial Ancient Thrust R4 | ATK:48 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
-[#59] Primordial Ancient Impact R4 | ATK:46 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
-[#60] Primordial Ancient Shot R4 | ATK:46 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
-[#61] Primordial Sturdy Edge R4 | ATK:48 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
-[#62] Primordial Sturdy Tome R4 | ATK:49 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
-[#63] Primordial Sturdy Thrust R4 | ATK:48 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
-[#64] Primordial Sturdy Impact R4 | ATK:46 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
-[#65] Primordial Sturdy Shot R4 | ATK:46 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
-[#66] Primordial Guarded Edge R4 | ATK:48 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
-[#67] Primordial Guarded Tome R4 | ATK:49 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
-[#68] Primordial Guarded Thrust R4 | ATK:48 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
-[#69] Primordial Guarded Impact R4 | ATK:46 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
-[#70] Primordial Guarded Shot R4 | ATK:46 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
-[#71] Primordial Lethal Edge R3 | ATK:48 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
-[#72] Primordial Lethal Tome R3 | ATK:49 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
-[#73] Primordial Lethal Thrust R3 | ATK:48 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
-[#74] Primordial Lethal Impact R3 | ATK:46 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
-[#75] Primordial Lethal Shot R3 | ATK:46 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
-[#76] Primordial Keen Edge R3 | ATK:48 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
-[#77] Primordial Keen Tome R3 | ATK:49 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
-[#78] Primordial Keen Thrust R3 | ATK:48 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
-[#79] Primordial Keen Impact R3 | ATK:46 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
-[#80] Primordial Keen Shot R3 | ATK:46 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
-[#81] Primordial Sharp Edge R3 | ATK:48 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
-[#82] Primordial Sharp Tome R3 | ATK:49 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
-[#83] Primordial Sharp Thrust R3 | ATK:48 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
-[#84] Primordial Sharp Impact R3 | ATK:46 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
-[#85] Primordial Sharp Shot R3 | ATK:46 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
-[#86] Primordial Flowing Edge R3 | ATK:48 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
-[#87] Primordial Flowing Tome R3 | ATK:49 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
-[#88] Primordial Flowing Thrust R3 | ATK:48 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
-[#89] Primordial Flowing Impact R3 | ATK:46 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
-[#90] Primordial Flowing Shot R3 | ATK:46 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
-[#91] Primordial Ancient Edge R3 | ATK:48 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
-[#92] Primordial Ancient Tome R3 | ATK:49 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
-[#93] Primordial Ancient Thrust R3 | ATK:48 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
-[#94] Primordial Ancient Impact R3 | ATK:46 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
-[#95] Primordial Ancient Shot R3 | ATK:46 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
-[#96] Primordial Sturdy Edge R3 | ATK:48 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
-[#97] Primordial Sturdy Tome R3 | ATK:49 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
-[#98] Primordial Sturdy Thrust R3 | ATK:48 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
-[#99] Primordial Sturdy Impact R3 | ATK:46 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
-[#100] Primordial Sturdy Shot R3 | ATK:46 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
+[#1] Calamity's Fang, the Unrivaled | ATK:48 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
+[#2] Calamity's Grimoire, the Unrivaled | ATK:49 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
+[#3] Calamity's Spire, the Unrivaled | ATK:48 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
+[#4] Calamity's Colossus, the Unrivaled | ATK:46 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
+[#5] Calamity's Harbinger, the Unrivaled | ATK:46 | CritDMG:70 | Score:5070 | WorstCase:800 pulls | ~128000 primos
+[#6] Havoc's Fang, the Unrivaled | ATK:48 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
+[#7] Havoc's Grimoire, the Unrivaled | ATK:49 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
+[#8] Havoc's Spire, the Unrivaled | ATK:48 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
+[#9] Havoc's Colossus, the Unrivaled | ATK:46 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
+[#10] Havoc's Harbinger, the Unrivaled | ATK:46 | CritRate:35 | Score:5060 | WorstCase:800 pulls | ~128000 primos
+[#11] Conquest's Fang, the Unrivaled | ATK:48 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
+[#12] Conquest's Grimoire, the Unrivaled | ATK:49 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
+[#13] Conquest's Spire, the Unrivaled | ATK:48 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
+[#14] Conquest's Colossus, the Unrivaled | ATK:46 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
+[#15] Conquest's Harbinger, the Unrivaled | ATK:46 | ATK%:55 | Score:5050 | WorstCase:800 pulls | ~128000 primos
+[#16] Eternity's Fang, the Unrivaled | ATK:48 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
+[#17] Eternity's Grimoire, the Unrivaled | ATK:49 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
+[#18] Eternity's Spire, the Unrivaled | ATK:48 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
+[#19] Eternity's Colossus, the Unrivaled | ATK:46 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
+[#20] Eternity's Harbinger, the Unrivaled | ATK:46 | ER:60 | Score:5040 | WorstCase:800 pulls | ~128000 primos
+[#21] Aether's Fang, the Unrivaled | ATK:48 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
+[#22] Aether's Grimoire, the Unrivaled | ATK:49 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
+[#23] Aether's Spire, the Unrivaled | ATK:48 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
+[#24] Aether's Colossus, the Unrivaled | ATK:46 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
+[#25] Aether's Harbinger, the Unrivaled | ATK:46 | EM:220 | Score:5030 | WorstCase:800 pulls | ~128000 primos
+[#26] Bastion's Fang, the Unrivaled | ATK:48 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
+[#27] Bastion's Grimoire, the Unrivaled | ATK:49 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
+[#28] Bastion's Spire, the Unrivaled | ATK:48 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
+[#29] Bastion's Colossus, the Unrivaled | ATK:46 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
+[#30] Bastion's Harbinger, the Unrivaled | ATK:46 | HP%:55 | Score:5020 | WorstCase:800 pulls | ~128000 primos
+[#31] Aegis's Fang, the Unrivaled | ATK:48 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
+[#32] Aegis's Grimoire, the Unrivaled | ATK:49 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
+[#33] Aegis's Spire, the Unrivaled | ATK:48 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
+[#34] Aegis's Colossus, the Unrivaled | ATK:46 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
+[#35] Aegis's Harbinger, the Unrivaled | ATK:46 | DEF%:65 | Score:5010 | WorstCase:800 pulls | ~128000 primos
+[#36] Calamity's Fang, the Ascendant | ATK:48 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
+[#37] Calamity's Grimoire, the Ascendant | ATK:49 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
+[#38] Calamity's Spire, the Ascendant | ATK:48 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
+[#39] Calamity's Colossus, the Ascendant | ATK:46 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
+[#40] Calamity's Harbinger, the Ascendant | ATK:46 | CritDMG:56 | Score:4070 | WorstCase:640 pulls | ~102400 primos
+[#41] Havoc's Fang, the Ascendant | ATK:48 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
+[#42] Havoc's Grimoire, the Ascendant | ATK:49 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
+[#43] Havoc's Spire, the Ascendant | ATK:48 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
+[#44] Havoc's Colossus, the Ascendant | ATK:46 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
+[#45] Havoc's Harbinger, the Ascendant | ATK:46 | CritRate:28 | Score:4060 | WorstCase:640 pulls | ~102400 primos
+[#46] Conquest's Fang, the Ascendant | ATK:48 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
+[#47] Conquest's Grimoire, the Ascendant | ATK:49 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
+[#48] Conquest's Spire, the Ascendant | ATK:48 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
+[#49] Conquest's Colossus, the Ascendant | ATK:46 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
+[#50] Conquest's Harbinger, the Ascendant | ATK:46 | ATK%:44 | Score:4050 | WorstCase:640 pulls | ~102400 primos
+[#51] Eternity's Fang, the Ascendant | ATK:48 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
+[#52] Eternity's Grimoire, the Ascendant | ATK:49 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
+[#53] Eternity's Spire, the Ascendant | ATK:48 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
+[#54] Eternity's Colossus, the Ascendant | ATK:46 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
+[#55] Eternity's Harbinger, the Ascendant | ATK:46 | ER:48 | Score:4040 | WorstCase:640 pulls | ~102400 primos
+[#56] Aether's Fang, the Ascendant | ATK:48 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
+[#57] Aether's Grimoire, the Ascendant | ATK:49 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
+[#58] Aether's Spire, the Ascendant | ATK:48 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
+[#59] Aether's Colossus, the Ascendant | ATK:46 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
+[#60] Aether's Harbinger, the Ascendant | ATK:46 | EM:176 | Score:4030 | WorstCase:640 pulls | ~102400 primos
+[#61] Bastion's Fang, the Ascendant | ATK:48 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
+[#62] Bastion's Grimoire, the Ascendant | ATK:49 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
+[#63] Bastion's Spire, the Ascendant | ATK:48 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
+[#64] Bastion's Colossus, the Ascendant | ATK:46 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
+[#65] Bastion's Harbinger, the Ascendant | ATK:46 | HP%:44 | Score:4020 | WorstCase:640 pulls | ~102400 primos
+[#66] Aegis's Fang, the Ascendant | ATK:48 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
+[#67] Aegis's Grimoire, the Ascendant | ATK:49 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
+[#68] Aegis's Spire, the Ascendant | ATK:48 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
+[#69] Aegis's Colossus, the Ascendant | ATK:46 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
+[#70] Aegis's Harbinger, the Ascendant | ATK:46 | DEF%:52 | Score:4010 | WorstCase:640 pulls | ~102400 primos
+[#71] Calamity's Fang Reforged | ATK:48 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
+[#72] Calamity's Grimoire Reforged | ATK:49 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
+[#73] Calamity's Spire Reforged | ATK:48 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
+[#74] Calamity's Colossus Reforged | ATK:46 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
+[#75] Calamity's Harbinger Reforged | ATK:46 | CritDMG:42 | Score:3070 | WorstCase:480 pulls | ~76800 primos
+[#76] Havoc's Fang Reforged | ATK:48 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
+[#77] Havoc's Grimoire Reforged | ATK:49 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
+[#78] Havoc's Spire Reforged | ATK:48 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
+[#79] Havoc's Colossus Reforged | ATK:46 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
+[#80] Havoc's Harbinger Reforged | ATK:46 | CritRate:21 | Score:3060 | WorstCase:480 pulls | ~76800 primos
+[#81] Conquest's Fang Reforged | ATK:48 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
+[#82] Conquest's Grimoire Reforged | ATK:49 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
+[#83] Conquest's Spire Reforged | ATK:48 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
+[#84] Conquest's Colossus Reforged | ATK:46 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
+[#85] Conquest's Harbinger Reforged | ATK:46 | ATK%:33 | Score:3050 | WorstCase:480 pulls | ~76800 primos
+[#86] Eternity's Fang Reforged | ATK:48 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
+[#87] Eternity's Grimoire Reforged | ATK:49 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
+[#88] Eternity's Spire Reforged | ATK:48 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
+[#89] Eternity's Colossus Reforged | ATK:46 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
+[#90] Eternity's Harbinger Reforged | ATK:46 | ER:36 | Score:3040 | WorstCase:480 pulls | ~76800 primos
+[#91] Aether's Fang Reforged | ATK:48 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
+[#92] Aether's Grimoire Reforged | ATK:49 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
+[#93] Aether's Spire Reforged | ATK:48 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
+[#94] Aether's Colossus Reforged | ATK:46 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
+[#95] Aether's Harbinger Reforged | ATK:46 | EM:132 | Score:3030 | WorstCase:480 pulls | ~76800 primos
+[#96] Bastion's Fang Reforged | ATK:48 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
+[#97] Bastion's Grimoire Reforged | ATK:49 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
+[#98] Bastion's Spire Reforged | ATK:48 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
+[#99] Bastion's Colossus Reforged | ATK:46 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
+[#100] Bastion's Harbinger Reforged | ATK:46 | HP%:33 | Score:3020 | WorstCase:480 pulls | ~76800 primos
