@@ -12,6 +12,14 @@ obj/
 *.java
 *.class
 
+# Dafny extensionless executables
+Locations
+MagicItems
+Monsters
+NPCs
+Spells
+Combat
+
 # JavaScript out
 *.js
 

@@ -41,11 +41,13 @@ We have custom automation scripts built to easily run audits and verify complexi
 Since the Dafny code is formally verified and correct, you can confidently run it via the terminal directly or compile to target languages:
 
 ```bash
-# Run the magic items procedural generator directly
+# Run any of the formally verified components:
 dafny run MagicItems.dfy
-
-# Run the locations procedural generator directly
 dafny run Locations.dfy
+dafny run Monsters.dfy
+dafny run NPCs.dfy
+dafny run Spells.dfy
+dafny run Combat.dfy
 ```
 
 *(You can also compile it to C#, Go, Java, C++, JS or Python using the `dafny build` command!)*
@@ -61,3 +63,4 @@ To build a complete, formally verified procedural RPG, we need multiple intercon
 | 🧙‍♂️ **NPCs & Characters** (`NPCs.dfy`) | ✅ | Names, races, classes, alignments, professions | Prove stat distributions and logical origin traits. |
 | 🐉 **Monsters & Encounters** (`Monsters.dfy`) | ✅ | Creature types, abilities, HP/Damage scaling | Prove mathematical fairness of combat stats vs player levels. |
 | ✨ **Spells & Abilities** (`Spells.dfy`) | ✅ | Magic schools, mana costs, cooldowns, pure logic | Prove spell costs mathematically scale with damage output. |
+| ⚔️ **Combat Engine** (`Combat.dfy`) | ✅ | Turn resolution, mana tradeoffs, encounter loops | Prove deterministic state transitions without game-breaking bounds. |

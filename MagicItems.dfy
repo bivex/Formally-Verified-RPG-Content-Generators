@@ -22,7 +22,12 @@ module MagicItems {
     itemType: ItemType,
     rarity: Rarity,
     power: nat
-  )
+  ) {
+    predicate Valid() {
+      // Any valid weapon must have power higher than zero
+      power > 0
+    }
+  }
 
   // ═══════════════════════════════════════════════════════════════════
   //  Naming — Elemental Components
@@ -202,8 +207,11 @@ module MagicItems {
   //  Item Creation
   // ═══════════════════════════════════════════════════════════════════
 
-  function CreateItem(e: Element, t: ItemType, r: Rarity): MagicItem {
-    MagicItem(GenerateName(e, t, r), e, t, r, CalculatePower(e, t, r))
+  function CreateItem(e: Element, t: ItemType, r: Rarity): MagicItem
+    ensures CreateItem(e, t, r).Valid()
+  {
+    var p := CalculatePower(e, t, r);
+    MagicItem(GenerateName(e, t, r), e, t, r, if p == 0 then 1 else p)
   }
 
   // ═══════════════════════════════════════════════════════════════════
