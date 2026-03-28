@@ -1,6 +1,8 @@
 
-Dafny program verifier finished with 11 verified, 0 errors
+Dafny program verifier finished with 12 verified, 0 errors
 === GRIMOIRE OF SPELLS ===
+Total entries: 180
+
 Minor Inner Blast | Mana: 6 | CD: 0s | Effect Power: 30
 Basic Inner Blast | Mana: 18 | CD: 0s | Effect Power: 90
 Adept Inner Blast | Mana: 48 | CD: 3s | Effect Power: 240
@@ -32,6 +34,99 @@ Greater Sniper's Blast | Mana: 320 | CD: 3s | Effect Power: 600
 Supreme Sniper's Blast | Mana: 640 | CD: 5s | Effect Power: 1200
 Mythic Sniper's Blast | Mana: 1600 | CD: 10s | Effect Power: 3000
 
+Minor Inner Ward | Mana: 3 | CD: 0s | Effect Power: 15
+Basic Inner Ward | Mana: 9 | CD: 0s | Effect Power: 45
+Adept Inner Ward | Mana: 24 | CD: 3s | Effect Power: 120
+Greater Inner Ward | Mana: 60 | CD: 3s | Effect Power: 300
+Supreme Inner Ward | Mana: 120 | CD: 5s | Effect Power: 600
+Mythic Inner Ward | Mana: 300 | CD: 10s | Effect Power: 1500
+Minor Contact Ward | Mana: 4 | CD: 0s | Effect Power: 15
+Basic Contact Ward | Mana: 12 | CD: 0s | Effect Power: 45
+Adept Contact Ward | Mana: 32 | CD: 3s | Effect Power: 120
+Greater Contact Ward | Mana: 80 | CD: 3s | Effect Power: 300
+Supreme Contact Ward | Mana: 160 | CD: 5s | Effect Power: 600
+Mythic Contact Ward | Mana: 400 | CD: 10s | Effect Power: 1500
+Minor Close Ward | Mana: 6 | CD: 0s | Effect Power: 15
+Basic Close Ward | Mana: 18 | CD: 0s | Effect Power: 45
+Adept Close Ward | Mana: 48 | CD: 3s | Effect Power: 120
+Greater Close Ward | Mana: 120 | CD: 3s | Effect Power: 300
+Supreme Close Ward | Mana: 240 | CD: 5s | Effect Power: 600
+Mythic Close Ward | Mana: 600 | CD: 10s | Effect Power: 1500
+Minor Ranged Ward | Mana: 9 | CD: 0s | Effect Power: 15
+Basic Ranged Ward | Mana: 27 | CD: 0s | Effect Power: 45
+Adept Ranged Ward | Mana: 72 | CD: 3s | Effect Power: 120
+Greater Ranged Ward | Mana: 180 | CD: 3s | Effect Power: 300
+Supreme Ranged Ward | Mana: 360 | CD: 5s | Effect Power: 600
+Mythic Ranged Ward | Mana: 900 | CD: 10s | Effect Power: 1500
+Minor Sniper's Ward | Mana: 13 | CD: 0s | Effect Power: 15
+Basic Sniper's Ward | Mana: 39 | CD: 0s | Effect Power: 45
+Adept Sniper's Ward | Mana: 104 | CD: 1s | Effect Power: 120
+Greater Sniper's Ward | Mana: 260 | CD: 3s | Effect Power: 300
+Supreme Sniper's Ward | Mana: 520 | CD: 5s | Effect Power: 600
+Mythic Sniper's Ward | Mana: 1300 | CD: 10s | Effect Power: 1500
+
+Minor Inner Summoning | Mana: 4 | CD: 0s | Effect Power: 20
+Basic Inner Summoning | Mana: 12 | CD: 0s | Effect Power: 60
+Adept Inner Summoning | Mana: 32 | CD: 3s | Effect Power: 160
+Greater Inner Summoning | Mana: 80 | CD: 3s | Effect Power: 400
+Supreme Inner Summoning | Mana: 160 | CD: 5s | Effect Power: 800
+Mythic Inner Summoning | Mana: 400 | CD: 10s | Effect Power: 2000
+Minor Contact Summoning | Mana: 5 | CD: 0s | Effect Power: 20
+Basic Contact Summoning | Mana: 15 | CD: 0s | Effect Power: 60
+Adept Contact Summoning | Mana: 40 | CD: 3s | Effect Power: 160
+Greater Contact Summoning | Mana: 100 | CD: 3s | Effect Power: 400
+Supreme Contact Summoning | Mana: 200 | CD: 5s | Effect Power: 800
+Mythic Contact Summoning | Mana: 500 | CD: 10s | Effect Power: 2000
+Minor Close Summoning | Mana: 7 | CD: 0s | Effect Power: 20
+Basic Close Summoning | Mana: 21 | CD: 0s | Effect Power: 60
+Adept Close Summoning | Mana: 56 | CD: 3s | Effect Power: 160
+Greater Close Summoning | Mana: 140 | CD: 3s | Effect Power: 400
+Supreme Close Summoning | Mana: 280 | CD: 5s | Effect Power: 800
+Mythic Close Summoning | Mana: 700 | CD: 10s | Effect Power: 2000
+Minor Ranged Summoning | Mana: 10 | CD: 0s | Effect Power: 20
+Basic Ranged Summoning | Mana: 30 | CD: 0s | Effect Power: 60
+Adept Ranged Summoning | Mana: 80 | CD: 1s | Effect Power: 160
+Greater Ranged Summoning | Mana: 200 | CD: 3s | Effect Power: 400
+Supreme Ranged Summoning | Mana: 400 | CD: 5s | Effect Power: 800
+Mythic Ranged Summoning | Mana: 1000 | CD: 10s | Effect Power: 2000
+Minor Sniper's Summoning | Mana: 14 | CD: 0s | Effect Power: 20
+Basic Sniper's Summoning | Mana: 42 | CD: 0s | Effect Power: 60
+Adept Sniper's Summoning | Mana: 112 | CD: 1s | Effect Power: 160
+Greater Sniper's Summoning | Mana: 280 | CD: 3s | Effect Power: 400
+Supreme Sniper's Summoning | Mana: 560 | CD: 5s | Effect Power: 800
+Mythic Sniper's Summoning | Mana: 1400 | CD: 10s | Effect Power: 2000
+
+Minor Inner Curse | Mana: 5 | CD: 0s | Effect Power: 25
+Basic Inner Curse | Mana: 15 | CD: 0s | Effect Power: 75
+Adept Inner Curse | Mana: 40 | CD: 3s | Effect Power: 200
+Greater Inner Curse | Mana: 100 | CD: 3s | Effect Power: 500
+Supreme Inner Curse | Mana: 200 | CD: 5s | Effect Power: 1000
+Mythic Inner Curse | Mana: 500 | CD: 10s | Effect Power: 2500
+Minor Contact Curse | Mana: 6 | CD: 0s | Effect Power: 25
+Basic Contact Curse | Mana: 18 | CD: 0s | Effect Power: 75
+Adept Contact Curse | Mana: 48 | CD: 3s | Effect Power: 200
+Greater Contact Curse | Mana: 120 | CD: 3s | Effect Power: 500
+Supreme Contact Curse | Mana: 240 | CD: 5s | Effect Power: 1000
+Mythic Contact Curse | Mana: 600 | CD: 10s | Effect Power: 2500
+Minor Close Curse | Mana: 8 | CD: 0s | Effect Power: 25
+Basic Close Curse | Mana: 24 | CD: 0s | Effect Power: 75
+Adept Close Curse | Mana: 64 | CD: 3s | Effect Power: 200
+Greater Close Curse | Mana: 160 | CD: 3s | Effect Power: 500
+Supreme Close Curse | Mana: 320 | CD: 5s | Effect Power: 1000
+Mythic Close Curse | Mana: 800 | CD: 10s | Effect Power: 2500
+Minor Ranged Curse | Mana: 11 | CD: 0s | Effect Power: 25
+Basic Ranged Curse | Mana: 33 | CD: 0s | Effect Power: 75
+Adept Ranged Curse | Mana: 88 | CD: 1s | Effect Power: 200
+Greater Ranged Curse | Mana: 220 | CD: 3s | Effect Power: 500
+Supreme Ranged Curse | Mana: 440 | CD: 5s | Effect Power: 1000
+Mythic Ranged Curse | Mana: 1100 | CD: 10s | Effect Power: 2500
+Minor Sniper's Curse | Mana: 15 | CD: 0s | Effect Power: 25
+Basic Sniper's Curse | Mana: 45 | CD: 0s | Effect Power: 75
+Adept Sniper's Curse | Mana: 120 | CD: 1s | Effect Power: 200
+Greater Sniper's Curse | Mana: 300 | CD: 3s | Effect Power: 500
+Supreme Sniper's Curse | Mana: 600 | CD: 5s | Effect Power: 1000
+Mythic Sniper's Curse | Mana: 1500 | CD: 10s | Effect Power: 2500
+
 Minor Inner Mirage | Mana: 1 | CD: 0s | Effect Power: 5
 Basic Inner Mirage | Mana: 3 | CD: 0s | Effect Power: 15
 Adept Inner Mirage | Mana: 8 | CD: 1s | Effect Power: 40
@@ -62,3 +157,35 @@ Adept Sniper's Mirage | Mana: 88 | CD: 1s | Effect Power: 40
 Greater Sniper's Mirage | Mana: 220 | CD: 3s | Effect Power: 100
 Supreme Sniper's Mirage | Mana: 440 | CD: 5s | Effect Power: 200
 Mythic Sniper's Mirage | Mana: 1100 | CD: 10s | Effect Power: 500
+
+Minor Inner Shift | Mana: 2 | CD: 0s | Effect Power: 10
+Basic Inner Shift | Mana: 6 | CD: 0s | Effect Power: 30
+Adept Inner Shift | Mana: 16 | CD: 1s | Effect Power: 80
+Greater Inner Shift | Mana: 40 | CD: 3s | Effect Power: 200
+Supreme Inner Shift | Mana: 80 | CD: 5s | Effect Power: 400
+Mythic Inner Shift | Mana: 200 | CD: 10s | Effect Power: 1000
+Minor Contact Shift | Mana: 3 | CD: 0s | Effect Power: 10
+Basic Contact Shift | Mana: 9 | CD: 0s | Effect Power: 30
+Adept Contact Shift | Mana: 24 | CD: 1s | Effect Power: 80
+Greater Contact Shift | Mana: 60 | CD: 3s | Effect Power: 200
+Supreme Contact Shift | Mana: 120 | CD: 5s | Effect Power: 400
+Mythic Contact Shift | Mana: 300 | CD: 10s | Effect Power: 1000
+Minor Close Shift | Mana: 5 | CD: 0s | Effect Power: 10
+Basic Close Shift | Mana: 15 | CD: 0s | Effect Power: 30
+Adept Close Shift | Mana: 40 | CD: 1s | Effect Power: 80
+Greater Close Shift | Mana: 100 | CD: 3s | Effect Power: 200
+Supreme Close Shift | Mana: 200 | CD: 5s | Effect Power: 400
+Mythic Close Shift | Mana: 500 | CD: 10s | Effect Power: 1000
+Minor Ranged Shift | Mana: 8 | CD: 0s | Effect Power: 10
+Basic Ranged Shift | Mana: 24 | CD: 0s | Effect Power: 30
+Adept Ranged Shift | Mana: 64 | CD: 1s | Effect Power: 80
+Greater Ranged Shift | Mana: 160 | CD: 3s | Effect Power: 200
+Supreme Ranged Shift | Mana: 320 | CD: 5s | Effect Power: 400
+Mythic Ranged Shift | Mana: 800 | CD: 10s | Effect Power: 1000
+Minor Sniper's Shift | Mana: 12 | CD: 0s | Effect Power: 10
+Basic Sniper's Shift | Mana: 36 | CD: 0s | Effect Power: 30
+Adept Sniper's Shift | Mana: 96 | CD: 1s | Effect Power: 80
+Greater Sniper's Shift | Mana: 240 | CD: 3s | Effect Power: 200
+Supreme Sniper's Shift | Mana: 480 | CD: 5s | Effect Power: 400
+Mythic Sniper's Shift | Mana: 1200 | CD: 10s | Effect Power: 1000
+

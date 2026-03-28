@@ -145,17 +145,20 @@ module NPCs {
 
   method GenerateAllForRace(r: Race) returns (result: seq<NPC>)
     ensures |result| == |ProfessionsSeq| * |AlignmentsSeq|
+    ensures forall i :: 0 <= i < |result| ==> result[i].Valid()
   {
     result := [];
     var pi := 0;
     while pi < |ProfessionsSeq|
       invariant 0 <= pi <= |ProfessionsSeq|
       invariant |result| == pi * |AlignmentsSeq|
+      invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
     {
       var ai := 0;
       while ai < |AlignmentsSeq|
         invariant 0 <= ai <= |AlignmentsSeq|
         invariant |result| == pi * |AlignmentsSeq| + ai
+        invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
       {
         var inf := CalculateInfluence(ProfessionsSeq[pi], AlignmentsSeq[ai]);
         assert (ProfessionsSeq[pi] == Noble ==> inf >= 50);
@@ -204,10 +207,33 @@ module NPCs {
     assert peasantOrc.influence == 0;
   }
 
+  // Full generation: all RacesSeq × ProfessionsSeq × AlignmentsSeq = 8 × 8 × 9 = 576
+  method AllNPCs() returns (result: seq<NPC>)
+    ensures |result| == |RacesSeq| * |ProfessionsSeq| * |AlignmentsSeq|
+  {
+    result := [];
+    var ri := 0;
+    while ri < |RacesSeq|
+      invariant 0 <= ri <= |RacesSeq|
+      invariant |result| == ri * |ProfessionsSeq| * |AlignmentsSeq|
+    {
+      var batch := GenerateAllForRace(RacesSeq[ri]);
+      result := result + batch;
+      ri := ri + 1;
+    }
+  }
+
   method {:print} MainNPCs() {
-    var elves := GenerateAllForRace(Elf);
-    
     print "=== NPC DIRECTORY ===\n";
-    PrintNPCs(elves);
+    print "Total entries: "; print |RacesSeq| * |ProfessionsSeq| * |AlignmentsSeq|; print "\n\n";
+    var ri := 0;
+    while ri < |RacesSeq|
+      invariant 0 <= ri <= |RacesSeq|
+    {
+      var batch := GenerateAllForRace(RacesSeq[ri]);
+      PrintNPCs(batch);
+      print "\n";
+      ri := ri + 1;
+    }
   }
 }

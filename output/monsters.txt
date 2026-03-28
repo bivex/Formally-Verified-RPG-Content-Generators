@@ -1,6 +1,8 @@
 
-Dafny program verifier finished with 12 verified, 0 errors
+Dafny program verifier finished with 13 verified, 0 errors
 === MONSTER CODEX ===
+Total entries: 384
+
 Swarm of Infernal Dragon | HP: 166 | ATK: 53 | Threat Level: 42
 Swarm of Abyssal Dragon | HP: 158 | ATK: 49 | Threat Level: 39
 Swarm of Stone Dragon | HP: 160 | ATK: 50 | Threat Level: 41
@@ -98,3 +100,298 @@ Colossal Volt Goblin | HP: 274 | ATK: 36 | Threat Level: 45
 Colossal Frost Goblin | HP: 272 | ATK: 35 | Threat Level: 44
 Colossal Void Goblin | HP: 280 | ATK: 39 | Threat Level: 47
 Colossal Goblin | HP: 260 | ATK: 29 | Threat Level: 40
+
+Swarm of Infernal Golem | HP: 116 | ATK: 33 | Threat Level: 27
+Swarm of Abyssal Golem | HP: 108 | ATK: 29 | Threat Level: 24
+Swarm of Stone Golem | HP: 110 | ATK: 30 | Threat Level: 26
+Swarm of Storm Golem | HP: 106 | ATK: 28 | Threat Level: 24
+Swarm of Volt Golem | HP: 114 | ATK: 32 | Threat Level: 27
+Swarm of Frost Golem | HP: 112 | ATK: 31 | Threat Level: 26
+Swarm of Void Golem | HP: 120 | ATK: 35 | Threat Level: 29
+Swarm of Golem | HP: 100 | ATK: 25 | Threat Level: 22
+Lesser Infernal Golem | HP: 76 | ATK: 29 | Threat Level: 21
+Lesser Abyssal Golem | HP: 68 | ATK: 25 | Threat Level: 18
+Lesser Stone Golem | HP: 70 | ATK: 26 | Threat Level: 20
+Lesser Storm Golem | HP: 66 | ATK: 24 | Threat Level: 18
+Lesser Volt Golem | HP: 74 | ATK: 28 | Threat Level: 21
+Lesser Frost Golem | HP: 72 | ATK: 27 | Threat Level: 20
+Lesser Void Golem | HP: 80 | ATK: 31 | Threat Level: 23
+Lesser Golem | HP: 60 | ATK: 21 | Threat Level: 16
+Infernal Golem | HP: 96 | ATK: 31 | Threat Level: 24
+Abyssal Golem | HP: 88 | ATK: 27 | Threat Level: 21
+Stone Golem | HP: 90 | ATK: 28 | Threat Level: 23
+Storm Golem | HP: 86 | ATK: 26 | Threat Level: 21
+Volt Golem | HP: 94 | ATK: 30 | Threat Level: 24
+Frost Golem | HP: 92 | ATK: 29 | Threat Level: 23
+Void Golem | HP: 100 | ATK: 33 | Threat Level: 26
+Golem | HP: 80 | ATK: 23 | Threat Level: 19
+Dire Infernal Golem | HP: 146 | ATK: 36 | Threat Level: 32
+Dire Abyssal Golem | HP: 138 | ATK: 32 | Threat Level: 29
+Dire Stone Golem | HP: 140 | ATK: 33 | Threat Level: 30
+Dire Storm Golem | HP: 136 | ATK: 31 | Threat Level: 28
+Dire Volt Golem | HP: 144 | ATK: 35 | Threat Level: 31
+Dire Frost Golem | HP: 142 | ATK: 34 | Threat Level: 31
+Dire Void Golem | HP: 150 | ATK: 38 | Threat Level: 34
+Dire Golem | HP: 130 | ATK: 28 | Threat Level: 27
+Towering Infernal Golem | HP: 216 | ATK: 43 | Threat Level: 42
+Towering Abyssal Golem | HP: 208 | ATK: 39 | Threat Level: 39
+Towering Stone Golem | HP: 210 | ATK: 40 | Threat Level: 41
+Towering Storm Golem | HP: 206 | ATK: 38 | Threat Level: 39
+Towering Volt Golem | HP: 214 | ATK: 42 | Threat Level: 42
+Towering Frost Golem | HP: 212 | ATK: 41 | Threat Level: 41
+Towering Void Golem | HP: 220 | ATK: 45 | Threat Level: 44
+Towering Golem | HP: 200 | ATK: 35 | Threat Level: 37
+Colossal Infernal Golem | HP: 316 | ATK: 53 | Threat Level: 57
+Colossal Abyssal Golem | HP: 308 | ATK: 49 | Threat Level: 54
+Colossal Stone Golem | HP: 310 | ATK: 50 | Threat Level: 56
+Colossal Storm Golem | HP: 306 | ATK: 48 | Threat Level: 54
+Colossal Volt Golem | HP: 314 | ATK: 52 | Threat Level: 57
+Colossal Frost Golem | HP: 312 | ATK: 51 | Threat Level: 56
+Colossal Void Golem | HP: 320 | ATK: 55 | Threat Level: 59
+Colossal Golem | HP: 300 | ATK: 45 | Threat Level: 52
+
+Swarm of Infernal Elemental | HP: 126 | ATK: 37 | Threat Level: 30
+Swarm of Abyssal Elemental | HP: 118 | ATK: 33 | Threat Level: 27
+Swarm of Stone Elemental | HP: 120 | ATK: 34 | Threat Level: 29
+Swarm of Storm Elemental | HP: 116 | ATK: 32 | Threat Level: 27
+Swarm of Volt Elemental | HP: 124 | ATK: 36 | Threat Level: 30
+Swarm of Frost Elemental | HP: 122 | ATK: 35 | Threat Level: 29
+Swarm of Void Elemental | HP: 130 | ATK: 39 | Threat Level: 32
+Swarm of Elemental | HP: 110 | ATK: 29 | Threat Level: 25
+Lesser Infernal Elemental | HP: 86 | ATK: 33 | Threat Level: 24
+Lesser Abyssal Elemental | HP: 78 | ATK: 29 | Threat Level: 21
+Lesser Stone Elemental | HP: 80 | ATK: 30 | Threat Level: 23
+Lesser Storm Elemental | HP: 76 | ATK: 28 | Threat Level: 21
+Lesser Volt Elemental | HP: 84 | ATK: 32 | Threat Level: 24
+Lesser Frost Elemental | HP: 82 | ATK: 31 | Threat Level: 23
+Lesser Void Elemental | HP: 90 | ATK: 35 | Threat Level: 26
+Lesser Elemental | HP: 70 | ATK: 25 | Threat Level: 19
+Infernal Elemental | HP: 106 | ATK: 35 | Threat Level: 27
+Abyssal Elemental | HP: 98 | ATK: 31 | Threat Level: 24
+Stone Elemental | HP: 100 | ATK: 32 | Threat Level: 26
+Storm Elemental | HP: 96 | ATK: 30 | Threat Level: 24
+Volt Elemental | HP: 104 | ATK: 34 | Threat Level: 27
+Frost Elemental | HP: 102 | ATK: 33 | Threat Level: 26
+Void Elemental | HP: 110 | ATK: 37 | Threat Level: 29
+Elemental | HP: 90 | ATK: 27 | Threat Level: 22
+Dire Infernal Elemental | HP: 156 | ATK: 40 | Threat Level: 35
+Dire Abyssal Elemental | HP: 148 | ATK: 36 | Threat Level: 32
+Dire Stone Elemental | HP: 150 | ATK: 37 | Threat Level: 33
+Dire Storm Elemental | HP: 146 | ATK: 35 | Threat Level: 31
+Dire Volt Elemental | HP: 154 | ATK: 39 | Threat Level: 34
+Dire Frost Elemental | HP: 152 | ATK: 38 | Threat Level: 34
+Dire Void Elemental | HP: 160 | ATK: 42 | Threat Level: 37
+Dire Elemental | HP: 140 | ATK: 32 | Threat Level: 30
+Towering Infernal Elemental | HP: 226 | ATK: 47 | Threat Level: 45
+Towering Abyssal Elemental | HP: 218 | ATK: 43 | Threat Level: 42
+Towering Stone Elemental | HP: 220 | ATK: 44 | Threat Level: 44
+Towering Storm Elemental | HP: 216 | ATK: 42 | Threat Level: 42
+Towering Volt Elemental | HP: 224 | ATK: 46 | Threat Level: 45
+Towering Frost Elemental | HP: 222 | ATK: 45 | Threat Level: 44
+Towering Void Elemental | HP: 230 | ATK: 49 | Threat Level: 47
+Towering Elemental | HP: 210 | ATK: 39 | Threat Level: 40
+Colossal Infernal Elemental | HP: 326 | ATK: 57 | Threat Level: 60
+Colossal Abyssal Elemental | HP: 318 | ATK: 53 | Threat Level: 57
+Colossal Stone Elemental | HP: 320 | ATK: 54 | Threat Level: 59
+Colossal Storm Elemental | HP: 316 | ATK: 52 | Threat Level: 57
+Colossal Volt Elemental | HP: 324 | ATK: 56 | Threat Level: 60
+Colossal Frost Elemental | HP: 322 | ATK: 55 | Threat Level: 59
+Colossal Void Elemental | HP: 330 | ATK: 59 | Threat Level: 62
+Colossal Elemental | HP: 310 | ATK: 49 | Threat Level: 55
+
+Swarm of Infernal Revenant | HP: 96 | ATK: 25 | Threat Level: 21
+Swarm of Abyssal Revenant | HP: 88 | ATK: 21 | Threat Level: 18
+Swarm of Stone Revenant | HP: 90 | ATK: 22 | Threat Level: 20
+Swarm of Storm Revenant | HP: 86 | ATK: 20 | Threat Level: 18
+Swarm of Volt Revenant | HP: 94 | ATK: 24 | Threat Level: 21
+Swarm of Frost Revenant | HP: 92 | ATK: 23 | Threat Level: 20
+Swarm of Void Revenant | HP: 100 | ATK: 27 | Threat Level: 23
+Swarm of Revenant | HP: 80 | ATK: 17 | Threat Level: 16
+Lesser Infernal Revenant | HP: 56 | ATK: 21 | Threat Level: 15
+Lesser Abyssal Revenant | HP: 48 | ATK: 17 | Threat Level: 12
+Lesser Stone Revenant | HP: 50 | ATK: 18 | Threat Level: 14
+Lesser Storm Revenant | HP: 46 | ATK: 16 | Threat Level: 12
+Lesser Volt Revenant | HP: 54 | ATK: 20 | Threat Level: 15
+Lesser Frost Revenant | HP: 52 | ATK: 19 | Threat Level: 14
+Lesser Void Revenant | HP: 60 | ATK: 23 | Threat Level: 17
+Lesser Revenant | HP: 40 | ATK: 13 | Threat Level: 10
+Infernal Revenant | HP: 76 | ATK: 23 | Threat Level: 18
+Abyssal Revenant | HP: 68 | ATK: 19 | Threat Level: 15
+Stone Revenant | HP: 70 | ATK: 20 | Threat Level: 17
+Storm Revenant | HP: 66 | ATK: 18 | Threat Level: 15
+Volt Revenant | HP: 74 | ATK: 22 | Threat Level: 18
+Frost Revenant | HP: 72 | ATK: 21 | Threat Level: 17
+Void Revenant | HP: 80 | ATK: 25 | Threat Level: 20
+Revenant | HP: 60 | ATK: 15 | Threat Level: 13
+Dire Infernal Revenant | HP: 126 | ATK: 28 | Threat Level: 26
+Dire Abyssal Revenant | HP: 118 | ATK: 24 | Threat Level: 23
+Dire Stone Revenant | HP: 120 | ATK: 25 | Threat Level: 24
+Dire Storm Revenant | HP: 116 | ATK: 23 | Threat Level: 22
+Dire Volt Revenant | HP: 124 | ATK: 27 | Threat Level: 25
+Dire Frost Revenant | HP: 122 | ATK: 26 | Threat Level: 25
+Dire Void Revenant | HP: 130 | ATK: 30 | Threat Level: 28
+Dire Revenant | HP: 110 | ATK: 20 | Threat Level: 21
+Towering Infernal Revenant | HP: 196 | ATK: 35 | Threat Level: 36
+Towering Abyssal Revenant | HP: 188 | ATK: 31 | Threat Level: 33
+Towering Stone Revenant | HP: 190 | ATK: 32 | Threat Level: 35
+Towering Storm Revenant | HP: 186 | ATK: 30 | Threat Level: 33
+Towering Volt Revenant | HP: 194 | ATK: 34 | Threat Level: 36
+Towering Frost Revenant | HP: 192 | ATK: 33 | Threat Level: 35
+Towering Void Revenant | HP: 200 | ATK: 37 | Threat Level: 38
+Towering Revenant | HP: 180 | ATK: 27 | Threat Level: 31
+Colossal Infernal Revenant | HP: 296 | ATK: 45 | Threat Level: 51
+Colossal Abyssal Revenant | HP: 288 | ATK: 41 | Threat Level: 48
+Colossal Stone Revenant | HP: 290 | ATK: 42 | Threat Level: 50
+Colossal Storm Revenant | HP: 286 | ATK: 40 | Threat Level: 48
+Colossal Volt Revenant | HP: 294 | ATK: 44 | Threat Level: 51
+Colossal Frost Revenant | HP: 292 | ATK: 43 | Threat Level: 50
+Colossal Void Revenant | HP: 300 | ATK: 47 | Threat Level: 53
+Colossal Revenant | HP: 280 | ATK: 37 | Threat Level: 46
+
+Swarm of Infernal Beast | HP: 91 | ATK: 23 | Threat Level: 20
+Swarm of Abyssal Beast | HP: 83 | ATK: 19 | Threat Level: 17
+Swarm of Stone Beast | HP: 85 | ATK: 20 | Threat Level: 18
+Swarm of Storm Beast | HP: 81 | ATK: 18 | Threat Level: 17
+Swarm of Volt Beast | HP: 89 | ATK: 22 | Threat Level: 19
+Swarm of Frost Beast | HP: 87 | ATK: 21 | Threat Level: 18
+Swarm of Void Beast | HP: 95 | ATK: 25 | Threat Level: 21
+Swarm of Beast | HP: 75 | ATK: 15 | Threat Level: 14
+Lesser Infernal Beast | HP: 51 | ATK: 19 | Threat Level: 14
+Lesser Abyssal Beast | HP: 43 | ATK: 15 | Threat Level: 11
+Lesser Stone Beast | HP: 45 | ATK: 16 | Threat Level: 12
+Lesser Storm Beast | HP: 41 | ATK: 14 | Threat Level: 11
+Lesser Volt Beast | HP: 49 | ATK: 18 | Threat Level: 13
+Lesser Frost Beast | HP: 47 | ATK: 17 | Threat Level: 12
+Lesser Void Beast | HP: 55 | ATK: 21 | Threat Level: 15
+Lesser Beast | HP: 35 | ATK: 11 | Threat Level: 8
+Infernal Beast | HP: 71 | ATK: 21 | Threat Level: 17
+Abyssal Beast | HP: 63 | ATK: 17 | Threat Level: 14
+Stone Beast | HP: 65 | ATK: 18 | Threat Level: 15
+Storm Beast | HP: 61 | ATK: 16 | Threat Level: 14
+Volt Beast | HP: 69 | ATK: 20 | Threat Level: 16
+Frost Beast | HP: 67 | ATK: 19 | Threat Level: 15
+Void Beast | HP: 75 | ATK: 23 | Threat Level: 18
+Beast | HP: 55 | ATK: 13 | Threat Level: 11
+Dire Infernal Beast | HP: 121 | ATK: 26 | Threat Level: 25
+Dire Abyssal Beast | HP: 113 | ATK: 22 | Threat Level: 22
+Dire Stone Beast | HP: 115 | ATK: 23 | Threat Level: 22
+Dire Storm Beast | HP: 111 | ATK: 21 | Threat Level: 21
+Dire Volt Beast | HP: 119 | ATK: 25 | Threat Level: 23
+Dire Frost Beast | HP: 117 | ATK: 24 | Threat Level: 23
+Dire Void Beast | HP: 125 | ATK: 28 | Threat Level: 26
+Dire Beast | HP: 105 | ATK: 18 | Threat Level: 19
+Towering Infernal Beast | HP: 191 | ATK: 33 | Threat Level: 35
+Towering Abyssal Beast | HP: 183 | ATK: 29 | Threat Level: 32
+Towering Stone Beast | HP: 185 | ATK: 30 | Threat Level: 33
+Towering Storm Beast | HP: 181 | ATK: 28 | Threat Level: 32
+Towering Volt Beast | HP: 189 | ATK: 32 | Threat Level: 34
+Towering Frost Beast | HP: 187 | ATK: 31 | Threat Level: 33
+Towering Void Beast | HP: 195 | ATK: 35 | Threat Level: 36
+Towering Beast | HP: 175 | ATK: 25 | Threat Level: 29
+Colossal Infernal Beast | HP: 291 | ATK: 43 | Threat Level: 50
+Colossal Abyssal Beast | HP: 283 | ATK: 39 | Threat Level: 47
+Colossal Stone Beast | HP: 285 | ATK: 40 | Threat Level: 48
+Colossal Storm Beast | HP: 281 | ATK: 38 | Threat Level: 47
+Colossal Volt Beast | HP: 289 | ATK: 42 | Threat Level: 49
+Colossal Frost Beast | HP: 287 | ATK: 41 | Threat Level: 48
+Colossal Void Beast | HP: 295 | ATK: 45 | Threat Level: 51
+Colossal Beast | HP: 275 | ATK: 35 | Threat Level: 44
+
+Swarm of Infernal Demon | HP: 141 | ATK: 43 | Threat Level: 35
+Swarm of Abyssal Demon | HP: 133 | ATK: 39 | Threat Level: 32
+Swarm of Stone Demon | HP: 135 | ATK: 40 | Threat Level: 33
+Swarm of Storm Demon | HP: 131 | ATK: 38 | Threat Level: 32
+Swarm of Volt Demon | HP: 139 | ATK: 42 | Threat Level: 34
+Swarm of Frost Demon | HP: 137 | ATK: 41 | Threat Level: 33
+Swarm of Void Demon | HP: 145 | ATK: 45 | Threat Level: 36
+Swarm of Demon | HP: 125 | ATK: 35 | Threat Level: 29
+Lesser Infernal Demon | HP: 101 | ATK: 39 | Threat Level: 29
+Lesser Abyssal Demon | HP: 93 | ATK: 35 | Threat Level: 26
+Lesser Stone Demon | HP: 95 | ATK: 36 | Threat Level: 27
+Lesser Storm Demon | HP: 91 | ATK: 34 | Threat Level: 26
+Lesser Volt Demon | HP: 99 | ATK: 38 | Threat Level: 28
+Lesser Frost Demon | HP: 97 | ATK: 37 | Threat Level: 27
+Lesser Void Demon | HP: 105 | ATK: 41 | Threat Level: 30
+Lesser Demon | HP: 85 | ATK: 31 | Threat Level: 23
+Infernal Demon | HP: 121 | ATK: 41 | Threat Level: 32
+Abyssal Demon | HP: 113 | ATK: 37 | Threat Level: 29
+Stone Demon | HP: 115 | ATK: 38 | Threat Level: 30
+Storm Demon | HP: 111 | ATK: 36 | Threat Level: 29
+Volt Demon | HP: 119 | ATK: 40 | Threat Level: 31
+Frost Demon | HP: 117 | ATK: 39 | Threat Level: 30
+Void Demon | HP: 125 | ATK: 43 | Threat Level: 33
+Demon | HP: 105 | ATK: 33 | Threat Level: 26
+Dire Infernal Demon | HP: 171 | ATK: 46 | Threat Level: 40
+Dire Abyssal Demon | HP: 163 | ATK: 42 | Threat Level: 37
+Dire Stone Demon | HP: 165 | ATK: 43 | Threat Level: 37
+Dire Storm Demon | HP: 161 | ATK: 41 | Threat Level: 36
+Dire Volt Demon | HP: 169 | ATK: 45 | Threat Level: 38
+Dire Frost Demon | HP: 167 | ATK: 44 | Threat Level: 38
+Dire Void Demon | HP: 175 | ATK: 48 | Threat Level: 41
+Dire Demon | HP: 155 | ATK: 38 | Threat Level: 34
+Towering Infernal Demon | HP: 241 | ATK: 53 | Threat Level: 50
+Towering Abyssal Demon | HP: 233 | ATK: 49 | Threat Level: 47
+Towering Stone Demon | HP: 235 | ATK: 50 | Threat Level: 48
+Towering Storm Demon | HP: 231 | ATK: 48 | Threat Level: 47
+Towering Volt Demon | HP: 239 | ATK: 52 | Threat Level: 49
+Towering Frost Demon | HP: 237 | ATK: 51 | Threat Level: 48
+Towering Void Demon | HP: 245 | ATK: 55 | Threat Level: 51
+Towering Demon | HP: 225 | ATK: 45 | Threat Level: 44
+Colossal Infernal Demon | HP: 341 | ATK: 63 | Threat Level: 65
+Colossal Abyssal Demon | HP: 333 | ATK: 59 | Threat Level: 62
+Colossal Stone Demon | HP: 335 | ATK: 60 | Threat Level: 63
+Colossal Storm Demon | HP: 331 | ATK: 58 | Threat Level: 62
+Colossal Volt Demon | HP: 339 | ATK: 62 | Threat Level: 64
+Colossal Frost Demon | HP: 337 | ATK: 61 | Threat Level: 63
+Colossal Void Demon | HP: 345 | ATK: 65 | Threat Level: 66
+Colossal Demon | HP: 325 | ATK: 55 | Threat Level: 59
+
+Swarm of Infernal Ooze | HP: 81 | ATK: 19 | Threat Level: 17
+Swarm of Abyssal Ooze | HP: 73 | ATK: 15 | Threat Level: 14
+Swarm of Stone Ooze | HP: 75 | ATK: 16 | Threat Level: 15
+Swarm of Storm Ooze | HP: 71 | ATK: 14 | Threat Level: 14
+Swarm of Volt Ooze | HP: 79 | ATK: 18 | Threat Level: 16
+Swarm of Frost Ooze | HP: 77 | ATK: 17 | Threat Level: 15
+Swarm of Void Ooze | HP: 85 | ATK: 21 | Threat Level: 18
+Swarm of Ooze | HP: 65 | ATK: 11 | Threat Level: 11
+Lesser Infernal Ooze | HP: 41 | ATK: 15 | Threat Level: 11
+Lesser Abyssal Ooze | HP: 33 | ATK: 11 | Threat Level: 8
+Lesser Stone Ooze | HP: 35 | ATK: 12 | Threat Level: 9
+Lesser Storm Ooze | HP: 31 | ATK: 10 | Threat Level: 8
+Lesser Volt Ooze | HP: 39 | ATK: 14 | Threat Level: 10
+Lesser Frost Ooze | HP: 37 | ATK: 13 | Threat Level: 9
+Lesser Void Ooze | HP: 45 | ATK: 17 | Threat Level: 12
+Lesser Ooze | HP: 25 | ATK: 7 | Threat Level: 5
+Infernal Ooze | HP: 61 | ATK: 17 | Threat Level: 14
+Abyssal Ooze | HP: 53 | ATK: 13 | Threat Level: 11
+Stone Ooze | HP: 55 | ATK: 14 | Threat Level: 12
+Storm Ooze | HP: 51 | ATK: 12 | Threat Level: 11
+Volt Ooze | HP: 59 | ATK: 16 | Threat Level: 13
+Frost Ooze | HP: 57 | ATK: 15 | Threat Level: 12
+Void Ooze | HP: 65 | ATK: 19 | Threat Level: 15
+Ooze | HP: 45 | ATK: 9 | Threat Level: 8
+Dire Infernal Ooze | HP: 111 | ATK: 22 | Threat Level: 22
+Dire Abyssal Ooze | HP: 103 | ATK: 18 | Threat Level: 19
+Dire Stone Ooze | HP: 105 | ATK: 19 | Threat Level: 19
+Dire Storm Ooze | HP: 101 | ATK: 17 | Threat Level: 18
+Dire Volt Ooze | HP: 109 | ATK: 21 | Threat Level: 20
+Dire Frost Ooze | HP: 107 | ATK: 20 | Threat Level: 20
+Dire Void Ooze | HP: 115 | ATK: 24 | Threat Level: 23
+Dire Ooze | HP: 95 | ATK: 14 | Threat Level: 16
+Towering Infernal Ooze | HP: 181 | ATK: 29 | Threat Level: 32
+Towering Abyssal Ooze | HP: 173 | ATK: 25 | Threat Level: 29
+Towering Stone Ooze | HP: 175 | ATK: 26 | Threat Level: 30
+Towering Storm Ooze | HP: 171 | ATK: 24 | Threat Level: 29
+Towering Volt Ooze | HP: 179 | ATK: 28 | Threat Level: 31
+Towering Frost Ooze | HP: 177 | ATK: 27 | Threat Level: 30
+Towering Void Ooze | HP: 185 | ATK: 31 | Threat Level: 33
+Towering Ooze | HP: 165 | ATK: 21 | Threat Level: 26
+Colossal Infernal Ooze | HP: 281 | ATK: 39 | Threat Level: 47
+Colossal Abyssal Ooze | HP: 273 | ATK: 35 | Threat Level: 44
+Colossal Stone Ooze | HP: 275 | ATK: 36 | Threat Level: 45
+Colossal Storm Ooze | HP: 271 | ATK: 34 | Threat Level: 44
+Colossal Volt Ooze | HP: 279 | ATK: 38 | Threat Level: 46
+Colossal Frost Ooze | HP: 277 | ATK: 37 | Threat Level: 45
+Colossal Void Ooze | HP: 285 | ATK: 41 | Threat Level: 48
+Colossal Ooze | HP: 265 | ATK: 31 | Threat Level: 41
+

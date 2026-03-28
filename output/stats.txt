@@ -1,0 +1,36 @@
+
+Dafny program verifier finished with 36 verified, 0 errors
+╔══════════════════════════════════════════════════════════════════╗
+║          RPG ENGINE — UNIQUE CONTENT STATISTICS                 ║
+╠════════════════════╦══════════╦════════════╦═════════════════════╣
+║  Module            ║ Exported ║ Full Space ║ Coverage            ║
+╠════════════════════╬══════════╬════════════╬═════════════════════╣
+║  Magic Items       ║  480     ║    480      ║  100%                  ║
+║  Monsters          ║  384     ║    384      ║  100%                 ║
+║  Locations         ║  384     ║    384      ║  100%                 ║
+║  NPCs              ║  576     ║    576      ║  100%                 ║
+║  Spells            ║  180     ║    180      ║  100%                 ║
+║  Quests            ║  1728    ║  663552  ║  < 1% (loc axis fixed)  ║
+╠════════════════════╩══════════╩════════════╩═════════════════════╣
+║  TOTAL EXPORTED   3732                                           ║
+║  GRAND TOTAL      665556                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  DIMENSION BREAKDOWN                                             ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Magic Items  = 8 elem × 10 types × 6 rarities = 480
+║  Monsters     = 8 types × 6 sizes × 8 elements  = 384
+║  Locations    = 8 biomes × 8 loc types × 6 sizes  = 384
+║  NPCs         = 8 races × 8 profs × 9 alignments = 576
+║  Spells       = 6 schools × 5 dists × 6 levels    = 180
+║  Quests       = 576 NPCs × 384 locs × 3 obj types = 663552
+║               (exported: 576 NPCs × 3 obj types × 1 loc = 1728)
+╠══════════════════════════════════════════════════════════════════╣
+║  COVERAGE GAPS                                                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Items    — 100% covered. Nothing to unlock.                     ║
+║  Monsters — 100% covered. Nothing to unlock.                     ║
+║  Locations— 100% covered. Nothing to unlock.                     ║
+║  NPCs     — 100% covered. Nothing to unlock.                     ║
+║  Spells   — 100% covered. Nothing to unlock.                     ║
+║  Quests   — +661824 unlock: loop all 384 locations in MainQuests ║
+╚══════════════════════════════════════════════════════════════════╝

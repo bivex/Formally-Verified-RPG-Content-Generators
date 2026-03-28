@@ -178,13 +178,33 @@ module Locations {
     assert loc2.dangerLevel == 150; // (20 * 5) + 50
   }
 
-  method {:print} MainLocations() {
-    var forestLocs := GenerateAllForBiome(Forest);
-    var volcanoLocs := GenerateAllForBiome(Volcano);
+  // Full generation: all BiomesSeq × LocationTypesSeq × SizesSeq = 8 × 8 × 6 = 384
+  method AllLocations() returns (result: seq<Location>)
+    ensures |result| == |BiomesSeq| * |LocationTypesSeq| * |SizesSeq|
+  {
+    result := [];
+    var bi := 0;
+    while bi < |BiomesSeq|
+      invariant 0 <= bi <= |BiomesSeq|
+      invariant |result| == bi * |LocationTypesSeq| * |SizesSeq|
+    {
+      var batch := GenerateAllForBiome(BiomesSeq[bi]);
+      result := result + batch;
+      bi := bi + 1;
+    }
+  }
 
+  method {:print} MainLocations() {
     print "=== ATLAS OF LOCATIONS ===\n";
-    PrintLocations(forestLocs);
-    print "\n";
-    PrintLocations(volcanoLocs);
+    print "Total entries: "; print |BiomesSeq| * |LocationTypesSeq| * |SizesSeq|; print "\n\n";
+    var bi := 0;
+    while bi < |BiomesSeq|
+      invariant 0 <= bi <= |BiomesSeq|
+    {
+      var batch := GenerateAllForBiome(BiomesSeq[bi]);
+      PrintLocations(batch);
+      print "\n";
+      bi := bi + 1;
+    }
   }
 }

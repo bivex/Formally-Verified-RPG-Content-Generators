@@ -1,6 +1,8 @@
 
-Dafny program verifier finished with 9 verified, 0 errors
+Dafny program verifier finished with 10 verified, 0 errors
 === ATLAS OF LOCATIONS ===
+Total entries: 384
+
 Hidden Verdant Metropolis | Danger Level: 5
 Quiet Verdant Metropolis | Danger Level: 8
 Verdant Metropolis | Danger Level: 13
@@ -50,6 +52,300 @@ Grand Verdant Watch | Danger Level: 25
 Endless Verdant Watch | Danger Level: 35
 Titanic Verdant Watch | Danger Level: 55
 
+Hidden Craggy Metropolis | Danger Level: 8
+Quiet Craggy Metropolis | Danger Level: 11
+Craggy Metropolis | Danger Level: 16
+Grand Craggy Metropolis | Danger Level: 26
+Endless Craggy Metropolis | Danger Level: 36
+Titanic Craggy Metropolis | Danger Level: 56
+Hidden Craggy Hamlet | Danger Level: 4
+Quiet Craggy Hamlet | Danger Level: 7
+Craggy Hamlet | Danger Level: 12
+Grand Craggy Hamlet | Danger Level: 22
+Endless Craggy Hamlet | Danger Level: 32
+Titanic Craggy Hamlet | Danger Level: 52
+Hidden Craggy Wasteland | Danger Level: 38
+Quiet Craggy Wasteland | Danger Level: 41
+Craggy Wasteland | Danger Level: 46
+Grand Craggy Wasteland | Danger Level: 56
+Endless Craggy Wasteland | Danger Level: 66
+Titanic Craggy Wasteland | Danger Level: 86
+Hidden Craggy Labyrinth | Danger Level: 42
+Quiet Craggy Labyrinth | Danger Level: 45
+Craggy Labyrinth | Danger Level: 50
+Grand Craggy Labyrinth | Danger Level: 60
+Endless Craggy Labyrinth | Danger Level: 70
+Titanic Craggy Labyrinth | Danger Level: 90
+Hidden Craggy Bastion | Danger Level: 32
+Quiet Craggy Bastion | Danger Level: 35
+Craggy Bastion | Danger Level: 40
+Grand Craggy Bastion | Danger Level: 50
+Endless Craggy Bastion | Danger Level: 60
+Titanic Craggy Bastion | Danger Level: 80
+Hidden Craggy Sanctuary | Danger Level: 18
+Quiet Craggy Sanctuary | Danger Level: 21
+Craggy Sanctuary | Danger Level: 26
+Grand Craggy Sanctuary | Danger Level: 36
+Endless Craggy Sanctuary | Danger Level: 46
+Titanic Craggy Sanctuary | Danger Level: 66
+Hidden Craggy Grotto | Danger Level: 26
+Quiet Craggy Grotto | Danger Level: 29
+Craggy Grotto | Danger Level: 34
+Grand Craggy Grotto | Danger Level: 44
+Endless Craggy Grotto | Danger Level: 54
+Titanic Craggy Grotto | Danger Level: 74
+Hidden Craggy Watch | Danger Level: 12
+Quiet Craggy Watch | Danger Level: 15
+Craggy Watch | Danger Level: 20
+Grand Craggy Watch | Danger Level: 30
+Endless Craggy Watch | Danger Level: 40
+Titanic Craggy Watch | Danger Level: 60
+
+Hidden Sunbaked Metropolis | Danger Level: 11
+Quiet Sunbaked Metropolis | Danger Level: 14
+Sunbaked Metropolis | Danger Level: 19
+Grand Sunbaked Metropolis | Danger Level: 29
+Endless Sunbaked Metropolis | Danger Level: 39
+Titanic Sunbaked Metropolis | Danger Level: 59
+Hidden Sunbaked Hamlet | Danger Level: 5
+Quiet Sunbaked Hamlet | Danger Level: 8
+Sunbaked Hamlet | Danger Level: 13
+Grand Sunbaked Hamlet | Danger Level: 23
+Endless Sunbaked Hamlet | Danger Level: 33
+Titanic Sunbaked Hamlet | Danger Level: 53
+Hidden Sunbaked Wasteland | Danger Level: 56
+Quiet Sunbaked Wasteland | Danger Level: 59
+Sunbaked Wasteland | Danger Level: 64
+Grand Sunbaked Wasteland | Danger Level: 74
+Endless Sunbaked Wasteland | Danger Level: 84
+Titanic Sunbaked Wasteland | Danger Level: 104
+Hidden Sunbaked Labyrinth | Danger Level: 62
+Quiet Sunbaked Labyrinth | Danger Level: 65
+Sunbaked Labyrinth | Danger Level: 70
+Grand Sunbaked Labyrinth | Danger Level: 80
+Endless Sunbaked Labyrinth | Danger Level: 90
+Titanic Sunbaked Labyrinth | Danger Level: 110
+Hidden Sunbaked Bastion | Danger Level: 47
+Quiet Sunbaked Bastion | Danger Level: 50
+Sunbaked Bastion | Danger Level: 55
+Grand Sunbaked Bastion | Danger Level: 65
+Endless Sunbaked Bastion | Danger Level: 75
+Titanic Sunbaked Bastion | Danger Level: 95
+Hidden Sunbaked Sanctuary | Danger Level: 26
+Quiet Sunbaked Sanctuary | Danger Level: 29
+Sunbaked Sanctuary | Danger Level: 34
+Grand Sunbaked Sanctuary | Danger Level: 44
+Endless Sunbaked Sanctuary | Danger Level: 54
+Titanic Sunbaked Sanctuary | Danger Level: 74
+Hidden Sunbaked Grotto | Danger Level: 38
+Quiet Sunbaked Grotto | Danger Level: 41
+Sunbaked Grotto | Danger Level: 46
+Grand Sunbaked Grotto | Danger Level: 56
+Endless Sunbaked Grotto | Danger Level: 66
+Titanic Sunbaked Grotto | Danger Level: 86
+Hidden Sunbaked Watch | Danger Level: 17
+Quiet Sunbaked Watch | Danger Level: 20
+Sunbaked Watch | Danger Level: 25
+Grand Sunbaked Watch | Danger Level: 35
+Endless Sunbaked Watch | Danger Level: 45
+Titanic Sunbaked Watch | Danger Level: 65
+
+Hidden Murky Metropolis | Danger Level: 14
+Quiet Murky Metropolis | Danger Level: 17
+Murky Metropolis | Danger Level: 22
+Grand Murky Metropolis | Danger Level: 32
+Endless Murky Metropolis | Danger Level: 42
+Titanic Murky Metropolis | Danger Level: 62
+Hidden Murky Hamlet | Danger Level: 6
+Quiet Murky Hamlet | Danger Level: 9
+Murky Hamlet | Danger Level: 14
+Grand Murky Hamlet | Danger Level: 24
+Endless Murky Hamlet | Danger Level: 34
+Titanic Murky Hamlet | Danger Level: 54
+Hidden Murky Wasteland | Danger Level: 74
+Quiet Murky Wasteland | Danger Level: 77
+Murky Wasteland | Danger Level: 82
+Grand Murky Wasteland | Danger Level: 92
+Endless Murky Wasteland | Danger Level: 102
+Titanic Murky Wasteland | Danger Level: 122
+Hidden Murky Labyrinth | Danger Level: 82
+Quiet Murky Labyrinth | Danger Level: 85
+Murky Labyrinth | Danger Level: 90
+Grand Murky Labyrinth | Danger Level: 100
+Endless Murky Labyrinth | Danger Level: 110
+Titanic Murky Labyrinth | Danger Level: 130
+Hidden Murky Bastion | Danger Level: 62
+Quiet Murky Bastion | Danger Level: 65
+Murky Bastion | Danger Level: 70
+Grand Murky Bastion | Danger Level: 80
+Endless Murky Bastion | Danger Level: 90
+Titanic Murky Bastion | Danger Level: 110
+Hidden Murky Sanctuary | Danger Level: 34
+Quiet Murky Sanctuary | Danger Level: 37
+Murky Sanctuary | Danger Level: 42
+Grand Murky Sanctuary | Danger Level: 52
+Endless Murky Sanctuary | Danger Level: 62
+Titanic Murky Sanctuary | Danger Level: 82
+Hidden Murky Grotto | Danger Level: 50
+Quiet Murky Grotto | Danger Level: 53
+Murky Grotto | Danger Level: 58
+Grand Murky Grotto | Danger Level: 68
+Endless Murky Grotto | Danger Level: 78
+Titanic Murky Grotto | Danger Level: 98
+Hidden Murky Watch | Danger Level: 22
+Quiet Murky Watch | Danger Level: 25
+Murky Watch | Danger Level: 30
+Grand Murky Watch | Danger Level: 40
+Endless Murky Watch | Danger Level: 50
+Titanic Murky Watch | Danger Level: 70
+
+Hidden Abyssal Metropolis | Danger Level: 14
+Quiet Abyssal Metropolis | Danger Level: 17
+Abyssal Metropolis | Danger Level: 22
+Grand Abyssal Metropolis | Danger Level: 32
+Endless Abyssal Metropolis | Danger Level: 42
+Titanic Abyssal Metropolis | Danger Level: 62
+Hidden Abyssal Hamlet | Danger Level: 6
+Quiet Abyssal Hamlet | Danger Level: 9
+Abyssal Hamlet | Danger Level: 14
+Grand Abyssal Hamlet | Danger Level: 24
+Endless Abyssal Hamlet | Danger Level: 34
+Titanic Abyssal Hamlet | Danger Level: 54
+Hidden Abyssal Wasteland | Danger Level: 74
+Quiet Abyssal Wasteland | Danger Level: 77
+Abyssal Wasteland | Danger Level: 82
+Grand Abyssal Wasteland | Danger Level: 92
+Endless Abyssal Wasteland | Danger Level: 102
+Titanic Abyssal Wasteland | Danger Level: 122
+Hidden Abyssal Labyrinth | Danger Level: 82
+Quiet Abyssal Labyrinth | Danger Level: 85
+Abyssal Labyrinth | Danger Level: 90
+Grand Abyssal Labyrinth | Danger Level: 100
+Endless Abyssal Labyrinth | Danger Level: 110
+Titanic Abyssal Labyrinth | Danger Level: 130
+Hidden Abyssal Bastion | Danger Level: 62
+Quiet Abyssal Bastion | Danger Level: 65
+Abyssal Bastion | Danger Level: 70
+Grand Abyssal Bastion | Danger Level: 80
+Endless Abyssal Bastion | Danger Level: 90
+Titanic Abyssal Bastion | Danger Level: 110
+Hidden Abyssal Sanctuary | Danger Level: 34
+Quiet Abyssal Sanctuary | Danger Level: 37
+Abyssal Sanctuary | Danger Level: 42
+Grand Abyssal Sanctuary | Danger Level: 52
+Endless Abyssal Sanctuary | Danger Level: 62
+Titanic Abyssal Sanctuary | Danger Level: 82
+Hidden Abyssal Grotto | Danger Level: 50
+Quiet Abyssal Grotto | Danger Level: 53
+Abyssal Grotto | Danger Level: 58
+Grand Abyssal Grotto | Danger Level: 68
+Endless Abyssal Grotto | Danger Level: 78
+Titanic Abyssal Grotto | Danger Level: 98
+Hidden Abyssal Watch | Danger Level: 22
+Quiet Abyssal Watch | Danger Level: 25
+Abyssal Watch | Danger Level: 30
+Grand Abyssal Watch | Danger Level: 40
+Endless Abyssal Watch | Danger Level: 50
+Titanic Abyssal Watch | Danger Level: 70
+
+Hidden Frozen Metropolis | Danger Level: 11
+Quiet Frozen Metropolis | Danger Level: 14
+Frozen Metropolis | Danger Level: 19
+Grand Frozen Metropolis | Danger Level: 29
+Endless Frozen Metropolis | Danger Level: 39
+Titanic Frozen Metropolis | Danger Level: 59
+Hidden Frozen Hamlet | Danger Level: 5
+Quiet Frozen Hamlet | Danger Level: 8
+Frozen Hamlet | Danger Level: 13
+Grand Frozen Hamlet | Danger Level: 23
+Endless Frozen Hamlet | Danger Level: 33
+Titanic Frozen Hamlet | Danger Level: 53
+Hidden Frozen Wasteland | Danger Level: 56
+Quiet Frozen Wasteland | Danger Level: 59
+Frozen Wasteland | Danger Level: 64
+Grand Frozen Wasteland | Danger Level: 74
+Endless Frozen Wasteland | Danger Level: 84
+Titanic Frozen Wasteland | Danger Level: 104
+Hidden Frozen Labyrinth | Danger Level: 62
+Quiet Frozen Labyrinth | Danger Level: 65
+Frozen Labyrinth | Danger Level: 70
+Grand Frozen Labyrinth | Danger Level: 80
+Endless Frozen Labyrinth | Danger Level: 90
+Titanic Frozen Labyrinth | Danger Level: 110
+Hidden Frozen Bastion | Danger Level: 47
+Quiet Frozen Bastion | Danger Level: 50
+Frozen Bastion | Danger Level: 55
+Grand Frozen Bastion | Danger Level: 65
+Endless Frozen Bastion | Danger Level: 75
+Titanic Frozen Bastion | Danger Level: 95
+Hidden Frozen Sanctuary | Danger Level: 26
+Quiet Frozen Sanctuary | Danger Level: 29
+Frozen Sanctuary | Danger Level: 34
+Grand Frozen Sanctuary | Danger Level: 44
+Endless Frozen Sanctuary | Danger Level: 54
+Titanic Frozen Sanctuary | Danger Level: 74
+Hidden Frozen Grotto | Danger Level: 38
+Quiet Frozen Grotto | Danger Level: 41
+Frozen Grotto | Danger Level: 46
+Grand Frozen Grotto | Danger Level: 56
+Endless Frozen Grotto | Danger Level: 66
+Titanic Frozen Grotto | Danger Level: 86
+Hidden Frozen Watch | Danger Level: 17
+Quiet Frozen Watch | Danger Level: 20
+Frozen Watch | Danger Level: 25
+Grand Frozen Watch | Danger Level: 35
+Endless Frozen Watch | Danger Level: 45
+Titanic Frozen Watch | Danger Level: 65
+
+Hidden Windswept Metropolis | Danger Level: 5
+Quiet Windswept Metropolis | Danger Level: 8
+Windswept Metropolis | Danger Level: 13
+Grand Windswept Metropolis | Danger Level: 23
+Endless Windswept Metropolis | Danger Level: 33
+Titanic Windswept Metropolis | Danger Level: 53
+Hidden Windswept Hamlet | Danger Level: 3
+Quiet Windswept Hamlet | Danger Level: 6
+Windswept Hamlet | Danger Level: 11
+Grand Windswept Hamlet | Danger Level: 21
+Endless Windswept Hamlet | Danger Level: 31
+Titanic Windswept Hamlet | Danger Level: 51
+Hidden Windswept Wasteland | Danger Level: 20
+Quiet Windswept Wasteland | Danger Level: 23
+Windswept Wasteland | Danger Level: 28
+Grand Windswept Wasteland | Danger Level: 38
+Endless Windswept Wasteland | Danger Level: 48
+Titanic Windswept Wasteland | Danger Level: 68
+Hidden Windswept Labyrinth | Danger Level: 22
+Quiet Windswept Labyrinth | Danger Level: 25
+Windswept Labyrinth | Danger Level: 30
+Grand Windswept Labyrinth | Danger Level: 40
+Endless Windswept Labyrinth | Danger Level: 50
+Titanic Windswept Labyrinth | Danger Level: 70
+Hidden Windswept Bastion | Danger Level: 17
+Quiet Windswept Bastion | Danger Level: 20
+Windswept Bastion | Danger Level: 25
+Grand Windswept Bastion | Danger Level: 35
+Endless Windswept Bastion | Danger Level: 45
+Titanic Windswept Bastion | Danger Level: 65
+Hidden Windswept Sanctuary | Danger Level: 10
+Quiet Windswept Sanctuary | Danger Level: 13
+Windswept Sanctuary | Danger Level: 18
+Grand Windswept Sanctuary | Danger Level: 28
+Endless Windswept Sanctuary | Danger Level: 38
+Titanic Windswept Sanctuary | Danger Level: 58
+Hidden Windswept Grotto | Danger Level: 14
+Quiet Windswept Grotto | Danger Level: 17
+Windswept Grotto | Danger Level: 22
+Grand Windswept Grotto | Danger Level: 32
+Endless Windswept Grotto | Danger Level: 42
+Titanic Windswept Grotto | Danger Level: 62
+Hidden Windswept Watch | Danger Level: 7
+Quiet Windswept Watch | Danger Level: 10
+Windswept Watch | Danger Level: 15
+Grand Windswept Watch | Danger Level: 25
+Endless Windswept Watch | Danger Level: 35
+Titanic Windswept Watch | Danger Level: 55
+
 Hidden Scorched Metropolis | Danger Level: 17
 Quiet Scorched Metropolis | Danger Level: 20
 Scorched Metropolis | Danger Level: 25
@@ -98,3 +394,4 @@ Scorched Watch | Danger Level: 35
 Grand Scorched Watch | Danger Level: 45
 Endless Scorched Watch | Danger Level: 55
 Titanic Scorched Watch | Danger Level: 75
+

@@ -207,13 +207,33 @@ module Spells {
     assert touchHeal.cooldown == 0;
   }
 
+  // Full generation: all SchoolsSeq × DistancesSeq × LevelsSeq = 6 × 5 × 6 = 180
+  method AllSpells() returns (result: seq<Spell>)
+    ensures |result| == |SchoolsSeq| * |DistancesSeq| * |LevelsSeq|
+  {
+    result := [];
+    var si := 0;
+    while si < |SchoolsSeq|
+      invariant 0 <= si <= |SchoolsSeq|
+      invariant |result| == si * |DistancesSeq| * |LevelsSeq|
+    {
+      var batch := GenerateAllForSchool(SchoolsSeq[si]);
+      result := result + batch;
+      si := si + 1;
+    }
+  }
+
   method {:print} MainSpells() {
-    var evocs := GenerateAllForSchool(Evocation);
-    var illusions := GenerateAllForSchool(Illusion);
-    
     print "=== GRIMOIRE OF SPELLS ===\n";
-    PrintSpells(evocs);
-    print "\n";
-    PrintSpells(illusions);
+    print "Total entries: "; print |SchoolsSeq| * |DistancesSeq| * |LevelsSeq|; print "\n\n";
+    var si := 0;
+    while si < |SchoolsSeq|
+      invariant 0 <= si <= |SchoolsSeq|
+    {
+      var batch := GenerateAllForSchool(SchoolsSeq[si]);
+      PrintSpells(batch);
+      print "\n";
+      si := si + 1;
+    }
   }
 }

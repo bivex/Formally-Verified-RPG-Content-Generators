@@ -99,11 +99,28 @@ module Quests {
     print "Reward: "; print q.reward.name; print " | XP: "; print q.experienceReward; print "\n";
   }
 
+  // Full generation: all 576 NPCs × 3 objective types = 1728 quests
+  // Location fixed to Volcano Dungeon Colossal (danger 150 → Mythical reward)
+  // Coverage: 100% NPCs, 100% objective types, 1/384 locations
   method {:print} MainQuests() {
-    var noble := N.CreateNPC(N.Elf, N.Noble, N.LawfulGood);
     var volcano := L.CreateLocation(L.Volcano, L.Dungeon, L.Colossal);
-    
-    var epicQuest := GenerateQuest(noble, volcano, 0);
-    PrintQuest(epicQuest);
+    print "=== QUEST CODEX ===\n";
+    print "Total entries: "; print |N.RacesSeq| * |N.ProfessionsSeq| * |N.AlignmentsSeq| * 3; print "\n\n";
+    var ri := 0;
+    while ri < |N.RacesSeq|
+      invariant 0 <= ri <= |N.RacesSeq|
+    {
+      var npcs := N.GenerateAllForRace(N.RacesSeq[ri]);
+      var ni := 0;
+      while ni < |npcs|
+        invariant 0 <= ni <= |npcs|
+      {
+        var objType := ni % 3;
+        var quest := GenerateQuest(npcs[ni], volcano, objType);
+        PrintQuest(quest);
+        ni := ni + 1;
+      }
+      ri := ri + 1;
+    }
   }
 }

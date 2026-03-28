@@ -1,6 +1,2309 @@
 
 Dafny program verifier finished with 4 verified, 0 errors
+=== QUEST CODEX ===
+Total entries: 1728
+
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Human's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
 === QUEST: Lord Elf's Request ===
 Location: Titanic Scorched Labyrinth (Danger: 150)
 Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Elf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dwarf's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Orc's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Halfling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Gnome's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Tiefling's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Smith Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Trader Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Captain Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Citizen Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Master Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Lord Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Father Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Slay Dire Infernal Dragon
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Recover Eternal Shadow Talisman of the Fallen Empire
+Reward: Eternal Dawn Blade of the Divine Order | XP: 1500
+=== QUEST: Shadow Dragonkin's Request ===
+Location: Titanic Scorched Labyrinth (Danger: 150)
+Objective: Purge Titanic Scorched Labyrinth
 Reward: Eternal Dawn Blade of the Divine Order | XP: 1500

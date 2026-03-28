@@ -206,13 +206,33 @@ module Monsters {
     assert |allDragons| == 48; // 6 * 8
   }
 
+  // Full generation: all TypesSeq × SizesSeq × ElementsSeq = 8 × 6 × 8 = 384
+  method {:print} AllMonsters() returns (result: seq<Monster>)
+    ensures |result| == |TypesSeq| * |SizesSeq| * |ElementsSeq|
+  {
+    result := [];
+    var ti := 0;
+    while ti < |TypesSeq|
+      invariant 0 <= ti <= |TypesSeq|
+      invariant |result| == ti * |SizesSeq| * |ElementsSeq|
+    {
+      var batch := GenerateAllForType(TypesSeq[ti]);
+      result := result + batch;
+      ti := ti + 1;
+    }
+  }
+
   method {:print} MainMonsters() {
-    var dragons := GenerateAllForType(Dragon);
-    var goblins := GenerateAllForType(Goblin);
-    
     print "=== MONSTER CODEX ===\n";
-    PrintMonsters(dragons);
-    print "\n";
-    PrintMonsters(goblins);
+    print "Total entries: "; print |TypesSeq| * |SizesSeq| * |ElementsSeq|; print "\n\n";
+    var ti := 0;
+    while ti < |TypesSeq|
+      invariant 0 <= ti <= |TypesSeq|
+    {
+      var batch := GenerateAllForType(TypesSeq[ti]);
+      PrintMonsters(batch);
+      print "\n";
+      ti := ti + 1;
+    }
   }
 }
