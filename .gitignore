@@ -1,0 +1,42 @@
+# Dafny compiled targets
+# C# (.NET) out
+bin/
+obj/
+*.cs
+*.dll
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+
+# Java out
+*.java
+*.class
+
+# JavaScript out
+*.js
+
+# Go out
+*.go
+
+# C++ out
+*.cpp
+*.h
+
+# Python out
+*.py
+__pycache__/
+
+# Coverage and test reports
+TestResults/
+*.trx
+coverage/
+
+# Dafny documentation output
+docs/
+
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~

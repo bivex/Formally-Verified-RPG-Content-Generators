@@ -1,0 +1,487 @@
+
+Dafny program verifier finished with 17 verified, 0 errors
+========================================
+   MAGIC ITEMS CODEX - Dafny 4.11
+========================================
+Total items: 480
+
+Ember Blade | Fire | Sword | Common | Power: 23
+Blazing Ember Blade of the Craft | Fire | Sword | Uncommon | Power: 33
+Grand Blazing Ember Blade of Fortune | Fire | Sword | Rare | Power: 43
+Sovereign Blade of the Inferno | Fire | Sword | Epic | Power: 63
+Eternal Ember Blade of the Burning Throne | Fire | Sword | Legendary | Power: 93
+Celestial Blade, Scourge of the Sun | Fire | Sword | Mythical | Power: 143
+Ember Rod | Fire | Staff | Common | Power: 21
+Blazing Ember Rod of the Craft | Fire | Staff | Uncommon | Power: 31
+Grand Blazing Ember Rod of Fortune | Fire | Staff | Rare | Power: 41
+Sovereign Rod of the Inferno | Fire | Staff | Epic | Power: 61
+Eternal Ember Rod of the Burning Throne | Fire | Staff | Legendary | Power: 91
+Celestial Rod, Scourge of the Sun | Fire | Staff | Mythical | Power: 141
+Ember Band | Fire | Ring | Common | Power: 19
+Blazing Ember Band of the Craft | Fire | Ring | Uncommon | Power: 29
+Grand Blazing Ember Band of Fortune | Fire | Ring | Rare | Power: 39
+Sovereign Band of the Inferno | Fire | Ring | Epic | Power: 59
+Eternal Ember Band of the Burning Throne | Fire | Ring | Legendary | Power: 89
+Celestial Band, Scourge of the Sun | Fire | Ring | Mythical | Power: 139
+Ember Talisman | Fire | Amulet | Common | Power: 20
+Blazing Ember Talisman of the Craft | Fire | Amulet | Uncommon | Power: 30
+Grand Blazing Ember Talisman of Fortune | Fire | Amulet | Rare | Power: 40
+Sovereign Talisman of the Inferno | Fire | Amulet | Epic | Power: 60
+Eternal Ember Talisman of the Burning Throne | Fire | Amulet | Legendary | Power: 90
+Celestial Talisman, Scourge of the Sun | Fire | Amulet | Mythical | Power: 140
+Ember Elixir | Fire | Potion | Common | Power: 17
+Blazing Ember Elixir of the Craft | Fire | Potion | Uncommon | Power: 27
+Grand Blazing Ember Elixir of Fortune | Fire | Potion | Rare | Power: 37
+Sovereign Elixir of the Inferno | Fire | Potion | Epic | Power: 57
+Eternal Ember Elixir of the Burning Throne | Fire | Potion | Legendary | Power: 87
+Celestial Elixir, Scourge of the Sun | Fire | Potion | Mythical | Power: 137
+Ember Scepter | Fire | Wand | Common | Power: 22
+Blazing Ember Scepter of the Craft | Fire | Wand | Uncommon | Power: 32
+Grand Blazing Ember Scepter of Fortune | Fire | Wand | Rare | Power: 42
+Sovereign Scepter of the Inferno | Fire | Wand | Epic | Power: 62
+Eternal Ember Scepter of the Burning Throne | Fire | Wand | Legendary | Power: 92
+Celestial Scepter, Scourge of the Sun | Fire | Wand | Mythical | Power: 142
+Ember Fang | Fire | Dagger | Common | Power: 18
+Blazing Ember Fang of the Craft | Fire | Dagger | Uncommon | Power: 28
+Grand Blazing Ember Fang of Fortune | Fire | Dagger | Rare | Power: 38
+Sovereign Fang of the Inferno | Fire | Dagger | Epic | Power: 58
+Eternal Ember Fang of the Burning Throne | Fire | Dagger | Legendary | Power: 88
+Celestial Fang, Scourge of the Sun | Fire | Dagger | Mythical | Power: 138
+Ember Aegis | Fire | Shield | Common | Power: 21
+Blazing Ember Aegis of the Craft | Fire | Shield | Uncommon | Power: 31
+Grand Blazing Ember Aegis of Fortune | Fire | Shield | Rare | Power: 41
+Sovereign Aegis of the Inferno | Fire | Shield | Epic | Power: 61
+Eternal Ember Aegis of the Burning Throne | Fire | Shield | Legendary | Power: 91
+Celestial Aegis, Scourge of the Sun | Fire | Shield | Mythical | Power: 141
+Ember Longbow | Fire | Bow | Common | Power: 20
+Blazing Ember Longbow of the Craft | Fire | Bow | Uncommon | Power: 30
+Grand Blazing Ember Longbow of Fortune | Fire | Bow | Rare | Power: 40
+Sovereign Longbow of the Inferno | Fire | Bow | Epic | Power: 60
+Eternal Ember Longbow of the Burning Throne | Fire | Bow | Legendary | Power: 90
+Celestial Longbow, Scourge of the Sun | Fire | Bow | Mythical | Power: 140
+Ember Crown | Fire | Helmet | Common | Power: 19
+Blazing Ember Crown of the Craft | Fire | Helmet | Uncommon | Power: 29
+Grand Blazing Ember Crown of Fortune | Fire | Helmet | Rare | Power: 39
+Sovereign Crown of the Inferno | Fire | Helmet | Epic | Power: 59
+Eternal Ember Crown of the Burning Throne | Fire | Helmet | Legendary | Power: 89
+Celestial Crown, Scourge of the Sun | Fire | Helmet | Mythical | Power: 139
+Tide Blade | Water | Sword | Common | Power: 21
+Surging Tide Blade of the Craft | Water | Sword | Uncommon | Power: 31
+Grand Surging Tide Blade of Fortune | Water | Sword | Rare | Power: 41
+Sovereign Blade of the Abyss | Water | Sword | Epic | Power: 61
+Eternal Tide Blade of the Drowned King | Water | Sword | Legendary | Power: 91
+Celestial Blade, Wrath of the Depths | Water | Sword | Mythical | Power: 141
+Tide Rod | Water | Staff | Common | Power: 19
+Surging Tide Rod of the Craft | Water | Staff | Uncommon | Power: 29
+Grand Surging Tide Rod of Fortune | Water | Staff | Rare | Power: 39
+Sovereign Rod of the Abyss | Water | Staff | Epic | Power: 59
+Eternal Tide Rod of the Drowned King | Water | Staff | Legendary | Power: 89
+Celestial Rod, Wrath of the Depths | Water | Staff | Mythical | Power: 139
+Tide Band | Water | Ring | Common | Power: 17
+Surging Tide Band of the Craft | Water | Ring | Uncommon | Power: 27
+Grand Surging Tide Band of Fortune | Water | Ring | Rare | Power: 37
+Sovereign Band of the Abyss | Water | Ring | Epic | Power: 57
+Eternal Tide Band of the Drowned King | Water | Ring | Legendary | Power: 87
+Celestial Band, Wrath of the Depths | Water | Ring | Mythical | Power: 137
+Tide Talisman | Water | Amulet | Common | Power: 18
+Surging Tide Talisman of the Craft | Water | Amulet | Uncommon | Power: 28
+Grand Surging Tide Talisman of Fortune | Water | Amulet | Rare | Power: 38
+Sovereign Talisman of the Abyss | Water | Amulet | Epic | Power: 58
+Eternal Tide Talisman of the Drowned King | Water | Amulet | Legendary | Power: 88
+Celestial Talisman, Wrath of the Depths | Water | Amulet | Mythical | Power: 138
+Tide Elixir | Water | Potion | Common | Power: 15
+Surging Tide Elixir of the Craft | Water | Potion | Uncommon | Power: 25
+Grand Surging Tide Elixir of Fortune | Water | Potion | Rare | Power: 35
+Sovereign Elixir of the Abyss | Water | Potion | Epic | Power: 55
+Eternal Tide Elixir of the Drowned King | Water | Potion | Legendary | Power: 85
+Celestial Elixir, Wrath of the Depths | Water | Potion | Mythical | Power: 135
+Tide Scepter | Water | Wand | Common | Power: 20
+Surging Tide Scepter of the Craft | Water | Wand | Uncommon | Power: 30
+Grand Surging Tide Scepter of Fortune | Water | Wand | Rare | Power: 40
+Sovereign Scepter of the Abyss | Water | Wand | Epic | Power: 60
+Eternal Tide Scepter of the Drowned King | Water | Wand | Legendary | Power: 90
+Celestial Scepter, Wrath of the Depths | Water | Wand | Mythical | Power: 140
+Tide Fang | Water | Dagger | Common | Power: 16
+Surging Tide Fang of the Craft | Water | Dagger | Uncommon | Power: 26
+Grand Surging Tide Fang of Fortune | Water | Dagger | Rare | Power: 36
+Sovereign Fang of the Abyss | Water | Dagger | Epic | Power: 56
+Eternal Tide Fang of the Drowned King | Water | Dagger | Legendary | Power: 86
+Celestial Fang, Wrath of the Depths | Water | Dagger | Mythical | Power: 136
+Tide Aegis | Water | Shield | Common | Power: 19
+Surging Tide Aegis of the Craft | Water | Shield | Uncommon | Power: 29
+Grand Surging Tide Aegis of Fortune | Water | Shield | Rare | Power: 39
+Sovereign Aegis of the Abyss | Water | Shield | Epic | Power: 59
+Eternal Tide Aegis of the Drowned King | Water | Shield | Legendary | Power: 89
+Celestial Aegis, Wrath of the Depths | Water | Shield | Mythical | Power: 139
+Tide Longbow | Water | Bow | Common | Power: 18
+Surging Tide Longbow of the Craft | Water | Bow | Uncommon | Power: 28
+Grand Surging Tide Longbow of Fortune | Water | Bow | Rare | Power: 38
+Sovereign Longbow of the Abyss | Water | Bow | Epic | Power: 58
+Eternal Tide Longbow of the Drowned King | Water | Bow | Legendary | Power: 88
+Celestial Longbow, Wrath of the Depths | Water | Bow | Mythical | Power: 138
+Tide Crown | Water | Helmet | Common | Power: 17
+Surging Tide Crown of the Craft | Water | Helmet | Uncommon | Power: 27
+Grand Surging Tide Crown of Fortune | Water | Helmet | Rare | Power: 37
+Sovereign Crown of the Abyss | Water | Helmet | Epic | Power: 57
+Eternal Tide Crown of the Drowned King | Water | Helmet | Legendary | Power: 87
+Celestial Crown, Wrath of the Depths | Water | Helmet | Mythical | Power: 137
+Stone Blade | Earth | Sword | Common | Power: 22
+Iron Stone Blade of the Craft | Earth | Sword | Uncommon | Power: 32
+Grand Iron Stone Blade of Fortune | Earth | Sword | Rare | Power: 42
+Sovereign Blade of the Mountain | Earth | Sword | Epic | Power: 62
+Eternal Stone Blade of the Colossus | Earth | Sword | Legendary | Power: 92
+Celestial Blade, Heart of the World | Earth | Sword | Mythical | Power: 142
+Stone Rod | Earth | Staff | Common | Power: 20
+Iron Stone Rod of the Craft | Earth | Staff | Uncommon | Power: 30
+Grand Iron Stone Rod of Fortune | Earth | Staff | Rare | Power: 40
+Sovereign Rod of the Mountain | Earth | Staff | Epic | Power: 60
+Eternal Stone Rod of the Colossus | Earth | Staff | Legendary | Power: 90
+Celestial Rod, Heart of the World | Earth | Staff | Mythical | Power: 140
+Stone Band | Earth | Ring | Common | Power: 18
+Iron Stone Band of the Craft | Earth | Ring | Uncommon | Power: 28
+Grand Iron Stone Band of Fortune | Earth | Ring | Rare | Power: 38
+Sovereign Band of the Mountain | Earth | Ring | Epic | Power: 58
+Eternal Stone Band of the Colossus | Earth | Ring | Legendary | Power: 88
+Celestial Band, Heart of the World | Earth | Ring | Mythical | Power: 138
+Stone Talisman | Earth | Amulet | Common | Power: 19
+Iron Stone Talisman of the Craft | Earth | Amulet | Uncommon | Power: 29
+Grand Iron Stone Talisman of Fortune | Earth | Amulet | Rare | Power: 39
+Sovereign Talisman of the Mountain | Earth | Amulet | Epic | Power: 59
+Eternal Stone Talisman of the Colossus | Earth | Amulet | Legendary | Power: 89
+Celestial Talisman, Heart of the World | Earth | Amulet | Mythical | Power: 139
+Stone Elixir | Earth | Potion | Common | Power: 16
+Iron Stone Elixir of the Craft | Earth | Potion | Uncommon | Power: 26
+Grand Iron Stone Elixir of Fortune | Earth | Potion | Rare | Power: 36
+Sovereign Elixir of the Mountain | Earth | Potion | Epic | Power: 56
+Eternal Stone Elixir of the Colossus | Earth | Potion | Legendary | Power: 86
+Celestial Elixir, Heart of the World | Earth | Potion | Mythical | Power: 136
+Stone Scepter | Earth | Wand | Common | Power: 21
+Iron Stone Scepter of the Craft | Earth | Wand | Uncommon | Power: 31
+Grand Iron Stone Scepter of Fortune | Earth | Wand | Rare | Power: 41
+Sovereign Scepter of the Mountain | Earth | Wand | Epic | Power: 61
+Eternal Stone Scepter of the Colossus | Earth | Wand | Legendary | Power: 91
+Celestial Scepter, Heart of the World | Earth | Wand | Mythical | Power: 141
+Stone Fang | Earth | Dagger | Common | Power: 17
+Iron Stone Fang of the Craft | Earth | Dagger | Uncommon | Power: 27
+Grand Iron Stone Fang of Fortune | Earth | Dagger | Rare | Power: 37
+Sovereign Fang of the Mountain | Earth | Dagger | Epic | Power: 57
+Eternal Stone Fang of the Colossus | Earth | Dagger | Legendary | Power: 87
+Celestial Fang, Heart of the World | Earth | Dagger | Mythical | Power: 137
+Stone Aegis | Earth | Shield | Common | Power: 20
+Iron Stone Aegis of the Craft | Earth | Shield | Uncommon | Power: 30
+Grand Iron Stone Aegis of Fortune | Earth | Shield | Rare | Power: 40
+Sovereign Aegis of the Mountain | Earth | Shield | Epic | Power: 60
+Eternal Stone Aegis of the Colossus | Earth | Shield | Legendary | Power: 90
+Celestial Aegis, Heart of the World | Earth | Shield | Mythical | Power: 140
+Stone Longbow | Earth | Bow | Common | Power: 19
+Iron Stone Longbow of the Craft | Earth | Bow | Uncommon | Power: 29
+Grand Iron Stone Longbow of Fortune | Earth | Bow | Rare | Power: 39
+Sovereign Longbow of the Mountain | Earth | Bow | Epic | Power: 59
+Eternal Stone Longbow of the Colossus | Earth | Bow | Legendary | Power: 89
+Celestial Longbow, Heart of the World | Earth | Bow | Mythical | Power: 139
+Stone Crown | Earth | Helmet | Common | Power: 18
+Iron Stone Crown of the Craft | Earth | Helmet | Uncommon | Power: 28
+Grand Iron Stone Crown of Fortune | Earth | Helmet | Rare | Power: 38
+Sovereign Crown of the Mountain | Earth | Helmet | Epic | Power: 58
+Eternal Stone Crown of the Colossus | Earth | Helmet | Legendary | Power: 88
+Celestial Crown, Heart of the World | Earth | Helmet | Mythical | Power: 138
+Wind Blade | Air | Sword | Common | Power: 20
+Howling Wind Blade of the Craft | Air | Sword | Uncommon | Power: 30
+Grand Howling Wind Blade of Fortune | Air | Sword | Rare | Power: 40
+Sovereign Blade of the Tempest | Air | Sword | Epic | Power: 60
+Eternal Wind Blade of the Endless Sky | Air | Sword | Legendary | Power: 90
+Celestial Blade, Breath of Creation | Air | Sword | Mythical | Power: 140
+Wind Rod | Air | Staff | Common | Power: 18
+Howling Wind Rod of the Craft | Air | Staff | Uncommon | Power: 28
+Grand Howling Wind Rod of Fortune | Air | Staff | Rare | Power: 38
+Sovereign Rod of the Tempest | Air | Staff | Epic | Power: 58
+Eternal Wind Rod of the Endless Sky | Air | Staff | Legendary | Power: 88
+Celestial Rod, Breath of Creation | Air | Staff | Mythical | Power: 138
+Wind Band | Air | Ring | Common | Power: 16
+Howling Wind Band of the Craft | Air | Ring | Uncommon | Power: 26
+Grand Howling Wind Band of Fortune | Air | Ring | Rare | Power: 36
+Sovereign Band of the Tempest | Air | Ring | Epic | Power: 56
+Eternal Wind Band of the Endless Sky | Air | Ring | Legendary | Power: 86
+Celestial Band, Breath of Creation | Air | Ring | Mythical | Power: 136
+Wind Talisman | Air | Amulet | Common | Power: 17
+Howling Wind Talisman of the Craft | Air | Amulet | Uncommon | Power: 27
+Grand Howling Wind Talisman of Fortune | Air | Amulet | Rare | Power: 37
+Sovereign Talisman of the Tempest | Air | Amulet | Epic | Power: 57
+Eternal Wind Talisman of the Endless Sky | Air | Amulet | Legendary | Power: 87
+Celestial Talisman, Breath of Creation | Air | Amulet | Mythical | Power: 137
+Wind Elixir | Air | Potion | Common | Power: 14
+Howling Wind Elixir of the Craft | Air | Potion | Uncommon | Power: 24
+Grand Howling Wind Elixir of Fortune | Air | Potion | Rare | Power: 34
+Sovereign Elixir of the Tempest | Air | Potion | Epic | Power: 54
+Eternal Wind Elixir of the Endless Sky | Air | Potion | Legendary | Power: 84
+Celestial Elixir, Breath of Creation | Air | Potion | Mythical | Power: 134
+Wind Scepter | Air | Wand | Common | Power: 19
+Howling Wind Scepter of the Craft | Air | Wand | Uncommon | Power: 29
+Grand Howling Wind Scepter of Fortune | Air | Wand | Rare | Power: 39
+Sovereign Scepter of the Tempest | Air | Wand | Epic | Power: 59
+Eternal Wind Scepter of the Endless Sky | Air | Wand | Legendary | Power: 89
+Celestial Scepter, Breath of Creation | Air | Wand | Mythical | Power: 139
+Wind Fang | Air | Dagger | Common | Power: 15
+Howling Wind Fang of the Craft | Air | Dagger | Uncommon | Power: 25
+Grand Howling Wind Fang of Fortune | Air | Dagger | Rare | Power: 35
+Sovereign Fang of the Tempest | Air | Dagger | Epic | Power: 55
+Eternal Wind Fang of the Endless Sky | Air | Dagger | Legendary | Power: 85
+Celestial Fang, Breath of Creation | Air | Dagger | Mythical | Power: 135
+Wind Aegis | Air | Shield | Common | Power: 18
+Howling Wind Aegis of the Craft | Air | Shield | Uncommon | Power: 28
+Grand Howling Wind Aegis of Fortune | Air | Shield | Rare | Power: 38
+Sovereign Aegis of the Tempest | Air | Shield | Epic | Power: 58
+Eternal Wind Aegis of the Endless Sky | Air | Shield | Legendary | Power: 88
+Celestial Aegis, Breath of Creation | Air | Shield | Mythical | Power: 138
+Wind Longbow | Air | Bow | Common | Power: 17
+Howling Wind Longbow of the Craft | Air | Bow | Uncommon | Power: 27
+Grand Howling Wind Longbow of Fortune | Air | Bow | Rare | Power: 37
+Sovereign Longbow of the Tempest | Air | Bow | Epic | Power: 57
+Eternal Wind Longbow of the Endless Sky | Air | Bow | Legendary | Power: 87
+Celestial Longbow, Breath of Creation | Air | Bow | Mythical | Power: 137
+Wind Crown | Air | Helmet | Common | Power: 16
+Howling Wind Crown of the Craft | Air | Helmet | Uncommon | Power: 26
+Grand Howling Wind Crown of Fortune | Air | Helmet | Rare | Power: 36
+Sovereign Crown of the Tempest | Air | Helmet | Epic | Power: 56
+Eternal Wind Crown of the Endless Sky | Air | Helmet | Legendary | Power: 86
+Celestial Crown, Breath of Creation | Air | Helmet | Mythical | Power: 136
+Storm Blade | Lightning | Sword | Common | Power: 24
+Crackling Storm Blade of the Craft | Lightning | Sword | Uncommon | Power: 34
+Grand Crackling Storm Blade of Fortune | Lightning | Sword | Rare | Power: 44
+Sovereign Blade of the Thunder | Lightning | Sword | Epic | Power: 64
+Eternal Storm Blade of the Stormlord | Lightning | Sword | Legendary | Power: 94
+Celestial Blade, Fury of the Heavens | Lightning | Sword | Mythical | Power: 144
+Storm Rod | Lightning | Staff | Common | Power: 22
+Crackling Storm Rod of the Craft | Lightning | Staff | Uncommon | Power: 32
+Grand Crackling Storm Rod of Fortune | Lightning | Staff | Rare | Power: 42
+Sovereign Rod of the Thunder | Lightning | Staff | Epic | Power: 62
+Eternal Storm Rod of the Stormlord | Lightning | Staff | Legendary | Power: 92
+Celestial Rod, Fury of the Heavens | Lightning | Staff | Mythical | Power: 142
+Storm Band | Lightning | Ring | Common | Power: 20
+Crackling Storm Band of the Craft | Lightning | Ring | Uncommon | Power: 30
+Grand Crackling Storm Band of Fortune | Lightning | Ring | Rare | Power: 40
+Sovereign Band of the Thunder | Lightning | Ring | Epic | Power: 60
+Eternal Storm Band of the Stormlord | Lightning | Ring | Legendary | Power: 90
+Celestial Band, Fury of the Heavens | Lightning | Ring | Mythical | Power: 140
+Storm Talisman | Lightning | Amulet | Common | Power: 21
+Crackling Storm Talisman of the Craft | Lightning | Amulet | Uncommon | Power: 31
+Grand Crackling Storm Talisman of Fortune | Lightning | Amulet | Rare | Power: 41
+Sovereign Talisman of the Thunder | Lightning | Amulet | Epic | Power: 61
+Eternal Storm Talisman of the Stormlord | Lightning | Amulet | Legendary | Power: 91
+Celestial Talisman, Fury of the Heavens | Lightning | Amulet | Mythical | Power: 141
+Storm Elixir | Lightning | Potion | Common | Power: 18
+Crackling Storm Elixir of the Craft | Lightning | Potion | Uncommon | Power: 28
+Grand Crackling Storm Elixir of Fortune | Lightning | Potion | Rare | Power: 38
+Sovereign Elixir of the Thunder | Lightning | Potion | Epic | Power: 58
+Eternal Storm Elixir of the Stormlord | Lightning | Potion | Legendary | Power: 88
+Celestial Elixir, Fury of the Heavens | Lightning | Potion | Mythical | Power: 138
+Storm Scepter | Lightning | Wand | Common | Power: 23
+Crackling Storm Scepter of the Craft | Lightning | Wand | Uncommon | Power: 33
+Grand Crackling Storm Scepter of Fortune | Lightning | Wand | Rare | Power: 43
+Sovereign Scepter of the Thunder | Lightning | Wand | Epic | Power: 63
+Eternal Storm Scepter of the Stormlord | Lightning | Wand | Legendary | Power: 93
+Celestial Scepter, Fury of the Heavens | Lightning | Wand | Mythical | Power: 143
+Storm Fang | Lightning | Dagger | Common | Power: 19
+Crackling Storm Fang of the Craft | Lightning | Dagger | Uncommon | Power: 29
+Grand Crackling Storm Fang of Fortune | Lightning | Dagger | Rare | Power: 39
+Sovereign Fang of the Thunder | Lightning | Dagger | Epic | Power: 59
+Eternal Storm Fang of the Stormlord | Lightning | Dagger | Legendary | Power: 89
+Celestial Fang, Fury of the Heavens | Lightning | Dagger | Mythical | Power: 139
+Storm Aegis | Lightning | Shield | Common | Power: 22
+Crackling Storm Aegis of the Craft | Lightning | Shield | Uncommon | Power: 32
+Grand Crackling Storm Aegis of Fortune | Lightning | Shield | Rare | Power: 42
+Sovereign Aegis of the Thunder | Lightning | Shield | Epic | Power: 62
+Eternal Storm Aegis of the Stormlord | Lightning | Shield | Legendary | Power: 92
+Celestial Aegis, Fury of the Heavens | Lightning | Shield | Mythical | Power: 142
+Storm Longbow | Lightning | Bow | Common | Power: 21
+Crackling Storm Longbow of the Craft | Lightning | Bow | Uncommon | Power: 31
+Grand Crackling Storm Longbow of Fortune | Lightning | Bow | Rare | Power: 41
+Sovereign Longbow of the Thunder | Lightning | Bow | Epic | Power: 61
+Eternal Storm Longbow of the Stormlord | Lightning | Bow | Legendary | Power: 91
+Celestial Longbow, Fury of the Heavens | Lightning | Bow | Mythical | Power: 141
+Storm Crown | Lightning | Helmet | Common | Power: 20
+Crackling Storm Crown of the Craft | Lightning | Helmet | Uncommon | Power: 30
+Grand Crackling Storm Crown of Fortune | Lightning | Helmet | Rare | Power: 40
+Sovereign Crown of the Thunder | Lightning | Helmet | Epic | Power: 60
+Eternal Storm Crown of the Stormlord | Lightning | Helmet | Legendary | Power: 90
+Celestial Crown, Fury of the Heavens | Lightning | Helmet | Mythical | Power: 140
+Frost Blade | Ice | Sword | Common | Power: 22
+Bitter Frost Blade of the Craft | Ice | Sword | Uncommon | Power: 32
+Grand Bitter Frost Blade of Fortune | Ice | Sword | Rare | Power: 42
+Sovereign Blade of the Frozen Waste | Ice | Sword | Epic | Power: 62
+Eternal Frost Blade of the Eternal Winter | Ice | Sword | Legendary | Power: 92
+Celestial Blade, Crown of Permafrost | Ice | Sword | Mythical | Power: 142
+Frost Rod | Ice | Staff | Common | Power: 20
+Bitter Frost Rod of the Craft | Ice | Staff | Uncommon | Power: 30
+Grand Bitter Frost Rod of Fortune | Ice | Staff | Rare | Power: 40
+Sovereign Rod of the Frozen Waste | Ice | Staff | Epic | Power: 60
+Eternal Frost Rod of the Eternal Winter | Ice | Staff | Legendary | Power: 90
+Celestial Rod, Crown of Permafrost | Ice | Staff | Mythical | Power: 140
+Frost Band | Ice | Ring | Common | Power: 18
+Bitter Frost Band of the Craft | Ice | Ring | Uncommon | Power: 28
+Grand Bitter Frost Band of Fortune | Ice | Ring | Rare | Power: 38
+Sovereign Band of the Frozen Waste | Ice | Ring | Epic | Power: 58
+Eternal Frost Band of the Eternal Winter | Ice | Ring | Legendary | Power: 88
+Celestial Band, Crown of Permafrost | Ice | Ring | Mythical | Power: 138
+Frost Talisman | Ice | Amulet | Common | Power: 19
+Bitter Frost Talisman of the Craft | Ice | Amulet | Uncommon | Power: 29
+Grand Bitter Frost Talisman of Fortune | Ice | Amulet | Rare | Power: 39
+Sovereign Talisman of the Frozen Waste | Ice | Amulet | Epic | Power: 59
+Eternal Frost Talisman of the Eternal Winter | Ice | Amulet | Legendary | Power: 89
+Celestial Talisman, Crown of Permafrost | Ice | Amulet | Mythical | Power: 139
+Frost Elixir | Ice | Potion | Common | Power: 16
+Bitter Frost Elixir of the Craft | Ice | Potion | Uncommon | Power: 26
+Grand Bitter Frost Elixir of Fortune | Ice | Potion | Rare | Power: 36
+Sovereign Elixir of the Frozen Waste | Ice | Potion | Epic | Power: 56
+Eternal Frost Elixir of the Eternal Winter | Ice | Potion | Legendary | Power: 86
+Celestial Elixir, Crown of Permafrost | Ice | Potion | Mythical | Power: 136
+Frost Scepter | Ice | Wand | Common | Power: 21
+Bitter Frost Scepter of the Craft | Ice | Wand | Uncommon | Power: 31
+Grand Bitter Frost Scepter of Fortune | Ice | Wand | Rare | Power: 41
+Sovereign Scepter of the Frozen Waste | Ice | Wand | Epic | Power: 61
+Eternal Frost Scepter of the Eternal Winter | Ice | Wand | Legendary | Power: 91
+Celestial Scepter, Crown of Permafrost | Ice | Wand | Mythical | Power: 141
+Frost Fang | Ice | Dagger | Common | Power: 17
+Bitter Frost Fang of the Craft | Ice | Dagger | Uncommon | Power: 27
+Grand Bitter Frost Fang of Fortune | Ice | Dagger | Rare | Power: 37
+Sovereign Fang of the Frozen Waste | Ice | Dagger | Epic | Power: 57
+Eternal Frost Fang of the Eternal Winter | Ice | Dagger | Legendary | Power: 87
+Celestial Fang, Crown of Permafrost | Ice | Dagger | Mythical | Power: 137
+Frost Aegis | Ice | Shield | Common | Power: 20
+Bitter Frost Aegis of the Craft | Ice | Shield | Uncommon | Power: 30
+Grand Bitter Frost Aegis of Fortune | Ice | Shield | Rare | Power: 40
+Sovereign Aegis of the Frozen Waste | Ice | Shield | Epic | Power: 60
+Eternal Frost Aegis of the Eternal Winter | Ice | Shield | Legendary | Power: 90
+Celestial Aegis, Crown of Permafrost | Ice | Shield | Mythical | Power: 140
+Frost Longbow | Ice | Bow | Common | Power: 19
+Bitter Frost Longbow of the Craft | Ice | Bow | Uncommon | Power: 29
+Grand Bitter Frost Longbow of Fortune | Ice | Bow | Rare | Power: 39
+Sovereign Longbow of the Frozen Waste | Ice | Bow | Epic | Power: 59
+Eternal Frost Longbow of the Eternal Winter | Ice | Bow | Legendary | Power: 89
+Celestial Longbow, Crown of Permafrost | Ice | Bow | Mythical | Power: 139
+Frost Crown | Ice | Helmet | Common | Power: 18
+Bitter Frost Crown of the Craft | Ice | Helmet | Uncommon | Power: 28
+Grand Bitter Frost Crown of Fortune | Ice | Helmet | Rare | Power: 38
+Sovereign Crown of the Frozen Waste | Ice | Helmet | Epic | Power: 58
+Eternal Frost Crown of the Eternal Winter | Ice | Helmet | Legendary | Power: 88
+Celestial Crown, Crown of Permafrost | Ice | Helmet | Mythical | Power: 138
+Dawn Blade | Light | Sword | Common | Power: 25
+Holy Dawn Blade of the Craft | Light | Sword | Uncommon | Power: 35
+Grand Holy Dawn Blade of Fortune | Light | Sword | Rare | Power: 45
+Sovereign Blade of Radiance | Light | Sword | Epic | Power: 65
+Eternal Dawn Blade of the Divine Order | Light | Sword | Legendary | Power: 95
+Celestial Blade, Dawning Star | Light | Sword | Mythical | Power: 145
+Dawn Rod | Light | Staff | Common | Power: 23
+Holy Dawn Rod of the Craft | Light | Staff | Uncommon | Power: 33
+Grand Holy Dawn Rod of Fortune | Light | Staff | Rare | Power: 43
+Sovereign Rod of Radiance | Light | Staff | Epic | Power: 63
+Eternal Dawn Rod of the Divine Order | Light | Staff | Legendary | Power: 93
+Celestial Rod, Dawning Star | Light | Staff | Mythical | Power: 143
+Dawn Band | Light | Ring | Common | Power: 21
+Holy Dawn Band of the Craft | Light | Ring | Uncommon | Power: 31
+Grand Holy Dawn Band of Fortune | Light | Ring | Rare | Power: 41
+Sovereign Band of Radiance | Light | Ring | Epic | Power: 61
+Eternal Dawn Band of the Divine Order | Light | Ring | Legendary | Power: 91
+Celestial Band, Dawning Star | Light | Ring | Mythical | Power: 141
+Dawn Talisman | Light | Amulet | Common | Power: 22
+Holy Dawn Talisman of the Craft | Light | Amulet | Uncommon | Power: 32
+Grand Holy Dawn Talisman of Fortune | Light | Amulet | Rare | Power: 42
+Sovereign Talisman of Radiance | Light | Amulet | Epic | Power: 62
+Eternal Dawn Talisman of the Divine Order | Light | Amulet | Legendary | Power: 92
+Celestial Talisman, Dawning Star | Light | Amulet | Mythical | Power: 142
+Dawn Elixir | Light | Potion | Common | Power: 19
+Holy Dawn Elixir of the Craft | Light | Potion | Uncommon | Power: 29
+Grand Holy Dawn Elixir of Fortune | Light | Potion | Rare | Power: 39
+Sovereign Elixir of Radiance | Light | Potion | Epic | Power: 59
+Eternal Dawn Elixir of the Divine Order | Light | Potion | Legendary | Power: 89
+Celestial Elixir, Dawning Star | Light | Potion | Mythical | Power: 139
+Dawn Scepter | Light | Wand | Common | Power: 24
+Holy Dawn Scepter of the Craft | Light | Wand | Uncommon | Power: 34
+Grand Holy Dawn Scepter of Fortune | Light | Wand | Rare | Power: 44
+Sovereign Scepter of Radiance | Light | Wand | Epic | Power: 64
+Eternal Dawn Scepter of the Divine Order | Light | Wand | Legendary | Power: 94
+Celestial Scepter, Dawning Star | Light | Wand | Mythical | Power: 144
+Dawn Fang | Light | Dagger | Common | Power: 20
+Holy Dawn Fang of the Craft | Light | Dagger | Uncommon | Power: 30
+Grand Holy Dawn Fang of Fortune | Light | Dagger | Rare | Power: 40
+Sovereign Fang of Radiance | Light | Dagger | Epic | Power: 60
+Eternal Dawn Fang of the Divine Order | Light | Dagger | Legendary | Power: 90
+Celestial Fang, Dawning Star | Light | Dagger | Mythical | Power: 140
+Dawn Aegis | Light | Shield | Common | Power: 23
+Holy Dawn Aegis of the Craft | Light | Shield | Uncommon | Power: 33
+Grand Holy Dawn Aegis of Fortune | Light | Shield | Rare | Power: 43
+Sovereign Aegis of Radiance | Light | Shield | Epic | Power: 63
+Eternal Dawn Aegis of the Divine Order | Light | Shield | Legendary | Power: 93
+Celestial Aegis, Dawning Star | Light | Shield | Mythical | Power: 143
+Dawn Longbow | Light | Bow | Common | Power: 22
+Holy Dawn Longbow of the Craft | Light | Bow | Uncommon | Power: 32
+Grand Holy Dawn Longbow of Fortune | Light | Bow | Rare | Power: 42
+Sovereign Longbow of Radiance | Light | Bow | Epic | Power: 62
+Eternal Dawn Longbow of the Divine Order | Light | Bow | Legendary | Power: 92
+Celestial Longbow, Dawning Star | Light | Bow | Mythical | Power: 142
+Dawn Crown | Light | Helmet | Common | Power: 21
+Holy Dawn Crown of the Craft | Light | Helmet | Uncommon | Power: 31
+Grand Holy Dawn Crown of Fortune | Light | Helmet | Rare | Power: 41
+Sovereign Crown of Radiance | Light | Helmet | Epic | Power: 61
+Eternal Dawn Crown of the Divine Order | Light | Helmet | Legendary | Power: 91
+Celestial Crown, Dawning Star | Light | Helmet | Mythical | Power: 141
+Shadow Blade | Dark | Sword | Common | Power: 25
+Cursed Shadow Blade of the Craft | Dark | Sword | Uncommon | Power: 35
+Grand Cursed Shadow Blade of Fortune | Dark | Sword | Rare | Power: 45
+Sovereign Blade of the Void | Dark | Sword | Epic | Power: 65
+Eternal Shadow Blade of the Fallen Empire | Dark | Sword | Legendary | Power: 95
+Celestial Blade, Eclipse of Souls | Dark | Sword | Mythical | Power: 145
+Shadow Rod | Dark | Staff | Common | Power: 23
+Cursed Shadow Rod of the Craft | Dark | Staff | Uncommon | Power: 33
+Grand Cursed Shadow Rod of Fortune | Dark | Staff | Rare | Power: 43
+Sovereign Rod of the Void | Dark | Staff | Epic | Power: 63
+Eternal Shadow Rod of the Fallen Empire | Dark | Staff | Legendary | Power: 93
+Celestial Rod, Eclipse of Souls | Dark | Staff | Mythical | Power: 143
+Shadow Band | Dark | Ring | Common | Power: 21
+Cursed Shadow Band of the Craft | Dark | Ring | Uncommon | Power: 31
+Grand Cursed Shadow Band of Fortune | Dark | Ring | Rare | Power: 41
+Sovereign Band of the Void | Dark | Ring | Epic | Power: 61
+Eternal Shadow Band of the Fallen Empire | Dark | Ring | Legendary | Power: 91
+Celestial Band, Eclipse of Souls | Dark | Ring | Mythical | Power: 141
+Shadow Talisman | Dark | Amulet | Common | Power: 22
+Cursed Shadow Talisman of the Craft | Dark | Amulet | Uncommon | Power: 32
+Grand Cursed Shadow Talisman of Fortune | Dark | Amulet | Rare | Power: 42
+Sovereign Talisman of the Void | Dark | Amulet | Epic | Power: 62
+Eternal Shadow Talisman of the Fallen Empire | Dark | Amulet | Legendary | Power: 92
+Celestial Talisman, Eclipse of Souls | Dark | Amulet | Mythical | Power: 142
+Shadow Elixir | Dark | Potion | Common | Power: 19
+Cursed Shadow Elixir of the Craft | Dark | Potion | Uncommon | Power: 29
+Grand Cursed Shadow Elixir of Fortune | Dark | Potion | Rare | Power: 39
+Sovereign Elixir of the Void | Dark | Potion | Epic | Power: 59
+Eternal Shadow Elixir of the Fallen Empire | Dark | Potion | Legendary | Power: 89
+Celestial Elixir, Eclipse of Souls | Dark | Potion | Mythical | Power: 139
+Shadow Scepter | Dark | Wand | Common | Power: 24
+Cursed Shadow Scepter of the Craft | Dark | Wand | Uncommon | Power: 34
+Grand Cursed Shadow Scepter of Fortune | Dark | Wand | Rare | Power: 44
+Sovereign Scepter of the Void | Dark | Wand | Epic | Power: 64
+Eternal Shadow Scepter of the Fallen Empire | Dark | Wand | Legendary | Power: 94
+Celestial Scepter, Eclipse of Souls | Dark | Wand | Mythical | Power: 144
+Shadow Fang | Dark | Dagger | Common | Power: 20
+Cursed Shadow Fang of the Craft | Dark | Dagger | Uncommon | Power: 30
+Grand Cursed Shadow Fang of Fortune | Dark | Dagger | Rare | Power: 40
+Sovereign Fang of the Void | Dark | Dagger | Epic | Power: 60
+Eternal Shadow Fang of the Fallen Empire | Dark | Dagger | Legendary | Power: 90
+Celestial Fang, Eclipse of Souls | Dark | Dagger | Mythical | Power: 140
+Shadow Aegis | Dark | Shield | Common | Power: 23
+Cursed Shadow Aegis of the Craft | Dark | Shield | Uncommon | Power: 33
+Grand Cursed Shadow Aegis of Fortune | Dark | Shield | Rare | Power: 43
+Sovereign Aegis of the Void | Dark | Shield | Epic | Power: 63
+Eternal Shadow Aegis of the Fallen Empire | Dark | Shield | Legendary | Power: 93
+Celestial Aegis, Eclipse of Souls | Dark | Shield | Mythical | Power: 143
+Shadow Longbow | Dark | Bow | Common | Power: 22
+Cursed Shadow Longbow of the Craft | Dark | Bow | Uncommon | Power: 32
+Grand Cursed Shadow Longbow of Fortune | Dark | Bow | Rare | Power: 42
+Sovereign Longbow of the Void | Dark | Bow | Epic | Power: 62
+Eternal Shadow Longbow of the Fallen Empire | Dark | Bow | Legendary | Power: 92
+Celestial Longbow, Eclipse of Souls | Dark | Bow | Mythical | Power: 142
+Shadow Crown | Dark | Helmet | Common | Power: 21
+Cursed Shadow Crown of the Craft | Dark | Helmet | Uncommon | Power: 31
+Grand Cursed Shadow Crown of Fortune | Dark | Helmet | Rare | Power: 41
+Sovereign Crown of the Void | Dark | Helmet | Epic | Power: 61
+Eternal Shadow Crown of the Fallen Empire | Dark | Helmet | Legendary | Power: 91
+Celestial Crown, Eclipse of Souls | Dark | Helmet | Mythical | Power: 141
