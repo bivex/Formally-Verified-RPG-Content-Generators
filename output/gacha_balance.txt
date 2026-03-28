@@ -1,47 +1,61 @@
 
-Dafny program verifier finished with 40 verified, 0 errors
+Dafny program verifier finished with 55 verified, 0 errors
 ================================================================
-  GACHA BALANCE: F2P Player Time-to-Power Report
-  All numbers formally verified (10 lemmas, 0 errors)
+  GACHA BALANCE: F2P vs IAP Time-to-Power Report
+  13 lemmas, 0 errors, formally verified
 ================================================================
 
-  Income:  2600 primos/month = 16 pulls/month
-  Per copy (weapon banner worst case): 160 pulls = 25600 primos
+── 1. INCOME TIERS ─────────────────────────────────────────────
+  F2P:     2600 primos/month  ($0/mo)  -> 16 pulls/mo
+  Welkin:  5600 primos/month  ($5/mo)  -> 35 pulls/mo
+  Dolphin: 6280 primos/month ($15/mo)  -> 39 pulls/mo
+  Whale:   22000 primos/month ($115/mo) -> 137 pulls/mo
 
-── 1. POWER TIERS ──────────────────────────────────────────────
-  # | Tier                  | Lv  | Rarity | Pulls    | Primos    | F2P mo | DPS
-----+-----------------------+-----+--------+----------+-----------+--------+------
-  0 | T0 Fresh Account | L1 | 3star R1 | 160 pulls | 25600 primo | 10 mo | DPS 55
-  1 | T1 First Week | L20 | 3star R1 | 160 pulls | 25600 primo | 10 mo | DPS 94
-  2 | T2 First 4star Wpn | L40 | 4star R1 | 160 pulls | 25600 primo | 10 mo | DPS 188
-  3 | T3 First 5star Wpn | L60 | 5star R1 | 160 pulls | 25600 primo | 10 mo | DPS 252
-  4 | T4 Mid-Game Build | L70 | 5star R3 | 480 pulls | 76800 primo | 30 mo | DPS 287
-  5 | T5 Late-Game Build | L80 | 5star R4 | 640 pulls | 102400 primo | 40 mo | DPS 321
-  6 | T6 Endgame BiS | L90 | 5star R5 | 800 pulls | 128000 primo | 50 mo | DPS 355
+── 2. POWER TIERS vs SPENDING ──────────────────────────────────
+  Tier              | Pulls | Primos  | F2P  | Welkin | Dolphin | Whale | DPS
+  ------------------+-------+---------+------+--------+---------+-------+------
+  T0 Fresh Account | 160 | 25600 | 10mo | 5mo  | 5mo   | 2mo | 55
+  T1 First Week | 160 | 25600 | 10mo | 5mo  | 5mo   | 2mo | 94
+  T2 First 4star Wpn | 160 | 25600 | 10mo | 5mo  | 5mo   | 2mo | 188
+  T3 First 5star Wpn | 160 | 25600 | 10mo | 5mo  | 5mo   | 2mo | 252
+  T4 Mid-Game Build | 480 | 76800 | 30mo | 14mo  | 13mo   | 4mo | 287
+  T5 Late-Game Build | 640 | 102400 | 40mo | 19mo  | 17mo   | 5mo | 321
+  T6 Endgame BiS | 800 | 128000 | 50mo | 23mo  | 21mo   | 6mo | 355
 
-── 2. DPS PROGRESSION ──────────────────────────────────────────
-  T0 Fresh:  55 DPS
-  T6 Endgame:355 DPS
-  Power multiplier: x6
-  (proved: > 5x)
+── 3. PULL THRESHOLDS: after N pulls, how long did you wait? ──
+  Pulls | What              | F2P  | Welkin | Dolphin | Whale | IAP save
+  -------+------------------+------+--------+---------+-------+---------
+  16 | ~1mo F2P income  | 1mo | 1mo   | 1mo    | 1mo | 0mo
+  64 | ~4mo F2P savings | 4mo | 2mo   | 2mo    | 1mo | 3mo
+  160 | 1 guar. 5star wpn | 10mo | 5mo   | 5mo    | 2mo | 8mo
+  320 | R2 weapon        | 20mo | 10mo   | 9mo    | 3mo | 17mo
+  480 | R3 weapon        | 30mo | 14mo   | 13mo    | 4mo | 26mo
+  640 | R4 weapon        | 40mo | 19mo   | 17mo    | 5mo | 35mo
+  800 | R5 BiS weapon    | 50mo | 23mo   | 21mo    | 6mo | 44mo
 
-── 3. F2P GRIND TIME BETWEEN TIERS ─────────────────────────────
-  T0 -> T1 (level 1->20, same weapon):   ~0 pulls (free)
-  T1 -> T2 (get 1st 4star weapon):       160 pulls = 10 months
-  T2 -> T3 (get 1st 5star weapon):       160 pulls = 10 months
-  T3 -> T4 (R5 weapon R1->R3):           320 extra pulls = 20 months
-  T4 -> T5 (R5 weapon R3->R4):           160 extra pulls = 10 months
-  T5 -> T6 (R5 weapon R4->R5):           160 extra pulls = 10 months
+── 4. DPS vs TIME (key insight) ────────────────────────────────
+  To reach 355 DPS (endgame BiS):
+    F2P:     50 months ($0)
+    Welkin:  23 months ($115)
+    Dolphin: 21 months ($315)
+    Whale:   6 months ($690)
 
-── 4. BALANCE INSIGHTS ─────────────────────────────────────────
-  Total F2P time T0->T6: 50 months
-  Endgame (R5) is 50 / 10 = x5 more grind than first 5star
+  To reach 252 DPS (first 5star weapon):
+    F2P:     10 months
+    Welkin:  5 months
+    Dolphin: 5 months
+    Whale:   2 months
 
-  T4->T6 gap (late-game): 20 months
-  T0->T3 gap (early-game): 10 months
-  Late-game grind > early-game: proved in LateGameGrindLonger
+── 5. BALANCE SUMMARY ──────────────────────────────────────────
+  DPS T0->T6: x6 (proved > 5x)
+  Welkin speedup: 2x income boost
+  Whale speedup:  8x income boost
+  Pull threshold where IAP matters most: 160 pulls
+    F2P: 10mo  vs  Whale: 2mo  (delta: 8 months saved)
 
-  10 lemmas proved: TierPullsIncrease, F2PMonthsIncreaseFromT3,
-  EndgameDPSFiveX, AllTierCostsPositive, R5CostsMoreThanR3,
-  CumulativeCostGrowth, PityGuaranteesOneCopy, WeaponOutweighsLevels,
-  SoftPityReducesExpected, LateGameGrindLonger
+  13 lemmas proved:
+  TierPullsIncrease, F2PMonthsIncreaseFromT3, EndgameDPSFiveX,
+  AllTierCostsPositive, R5CostsMoreThanR3, CumulativeCostGrowth,
+  PityGuaranteesOneCopy, WeaponOutweighsLevels, SoftPityReducesExpected,
+  LateGameGrindLonger, WhaleFasterThanF2P, WelkinDoublesSpeed,
+  PullThresholdDelta
