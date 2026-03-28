@@ -99,28 +99,32 @@ module Quests {
     print "Reward: "; print q.reward.name; print " | XP: "; print q.experienceReward; print "\n";
   }
 
-  // Full generation: all 576 NPCs × 3 objective types = 1728 quests
-  // Location fixed to Volcano Dungeon Colossal (danger 150 → Mythical reward)
-  // Coverage: 100% NPCs, 100% objective types, 1/384 locations
+  // Full generation: all 576 NPCs × 384 locations × 3 objective types = 663,552 quests
+  // Covers 100% of all three axes — complete combinatorial space
   method {:print} MainQuests() {
-    var volcano := L.CreateLocation(L.Volcano, L.Dungeon, L.Colossal);
+    var allNPCs  := N.AllNPCs();
+    var allLocs  := L.AllLocations();
     print "=== QUEST CODEX ===\n";
-    print "Total entries: "; print |N.RacesSeq| * |N.ProfessionsSeq| * |N.AlignmentsSeq| * 3; print "\n\n";
-    var ri := 0;
-    while ri < |N.RacesSeq|
-      invariant 0 <= ri <= |N.RacesSeq|
+    print "Total entries: "; print |allNPCs| * |allLocs| * 3; print "\n\n";
+    var ni := 0;
+    while ni < |allNPCs|
+      invariant 0 <= ni <= |allNPCs|
     {
-      var npcs := N.GenerateAllForRace(N.RacesSeq[ri]);
-      var ni := 0;
-      while ni < |npcs|
-        invariant 0 <= ni <= |npcs|
+      var li := 0;
+      while li < |allLocs|
+        invariant 0 <= li <= |allLocs|
       {
-        var objType := ni % 3;
-        var quest := GenerateQuest(npcs[ni], volcano, objType);
-        PrintQuest(quest);
-        ni := ni + 1;
+        var oi := 0;
+        while oi < 3
+          invariant 0 <= oi <= 3
+        {
+          var quest := GenerateQuest(allNPCs[ni], allLocs[li], oi);
+          PrintQuest(quest);
+          oi := oi + 1;
+        }
+        li := li + 1;
       }
-      ri := ri + 1;
+      ni := ni + 1;
     }
   }
 }

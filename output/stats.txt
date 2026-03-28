@@ -10,9 +10,9 @@ Dafny program verifier finished with 36 verified, 0 errors
 ║  Locations         ║  384     ║    384      ║  100%                 ║
 ║  NPCs              ║  576     ║    576      ║  100%                 ║
 ║  Spells            ║  180     ║    180      ║  100%                 ║
-║  Quests            ║  1728    ║  663552  ║  < 1% (loc axis fixed)  ║
+║  Quests            ║  663552 ║  663552  ║  100%                 ║
 ╠════════════════════╩══════════╩════════════╩═════════════════════╣
-║  TOTAL EXPORTED   3732                                           ║
+║  TOTAL EXPORTED   665556                                        ║
 ║  GRAND TOTAL      665556                                        ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  DIMENSION BREAKDOWN                                             ║
@@ -23,14 +23,6 @@ Dafny program verifier finished with 36 verified, 0 errors
 ║  NPCs         = 8 races × 8 profs × 9 alignments = 576
 ║  Spells       = 6 schools × 5 dists × 6 levels    = 180
 ║  Quests       = 576 NPCs × 384 locs × 3 obj types = 663552
-║               (exported: 576 NPCs × 3 obj types × 1 loc = 1728)
 ╠══════════════════════════════════════════════════════════════════╣
-║  COVERAGE GAPS                                                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Items    — 100% covered. Nothing to unlock.                     ║
-║  Monsters — 100% covered. Nothing to unlock.                     ║
-║  Locations— 100% covered. Nothing to unlock.                     ║
-║  NPCs     — 100% covered. Nothing to unlock.                     ║
-║  Spells   — 100% covered. Nothing to unlock.                     ║
-║  Quests   — +661824 unlock: loop all 384 locations in MainQuests ║
+║  ALL AXES AT 100% — FULL COMBINATORIAL SPACE EXPORTED           ║
 ╚══════════════════════════════════════════════════════════════════╝

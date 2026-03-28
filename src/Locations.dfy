@@ -126,17 +126,20 @@ module Locations {
 
   method GenerateAllForBiome(b: Biome) returns (result: seq<Location>)
     ensures |result| == |LocationTypesSeq| * |SizesSeq|
+    ensures forall i :: 0 <= i < |result| ==> result[i].Valid()
   {
     result := [];
     var li := 0;
     while li < |LocationTypesSeq|
       invariant 0 <= li <= |LocationTypesSeq|
       invariant |result| == li * |SizesSeq|
+      invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
     {
       var si := 0;
       while si < |SizesSeq|
         invariant 0 <= si <= |SizesSeq|
         invariant |result| == li * |SizesSeq| + si
+        invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
       {
         result := result + [CreateLocation(b, LocationTypesSeq[li], SizesSeq[si])];
         si := si + 1;
@@ -181,12 +184,14 @@ module Locations {
   // Full generation: all BiomesSeq × LocationTypesSeq × SizesSeq = 8 × 8 × 6 = 384
   method AllLocations() returns (result: seq<Location>)
     ensures |result| == |BiomesSeq| * |LocationTypesSeq| * |SizesSeq|
+    ensures forall i :: 0 <= i < |result| ==> result[i].Valid()
   {
     result := [];
     var bi := 0;
     while bi < |BiomesSeq|
       invariant 0 <= bi <= |BiomesSeq|
       invariant |result| == bi * |LocationTypesSeq| * |SizesSeq|
+      invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
     {
       var batch := GenerateAllForBiome(BiomesSeq[bi]);
       result := result + batch;

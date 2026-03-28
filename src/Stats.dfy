@@ -72,14 +72,12 @@ module Stats {
   // Spells: AllSpells() loops all SchoolsSeq
   const EXPORTED_SPELLS   : nat := SPELL_SCHOOLS * SPELL_DISTS * SPELL_LEVELS  // 180 (100%)
 
-  // Quests: 576 NPCs × 3 obj types, single canonical location (Volcano Dungeon Colossal)
-  // Covers 100% NPCs + 100% objective types. Location axis not exhausted by design
-  // (663,552 quests would be impractical to enumerate in a flat file)
-  const EXPORTED_QUESTS   : nat := TOTAL_NPCS * QUEST_OBJ_TYPES                // 1,728
+  // Quests: AllNPCs() × AllLocations() × 3 obj types — full combinatorial space
+  const EXPORTED_QUESTS   : nat := TOTAL_NPCS * TOTAL_LOCS * QUEST_OBJ_TYPES   // 663,552 (100%)
 
   const TOTAL_EXPORTED    : nat :=
     EXPORTED_ITEMS + EXPORTED_MONSTERS + EXPORTED_LOCS +
-    EXPORTED_NPCS  + EXPORTED_SPELLS   + EXPORTED_QUESTS                       // 3,732
+    EXPORTED_NPCS  + EXPORTED_SPELLS   + EXPORTED_QUESTS                       // 665,556
 
   // ═══════════════════════════════════════════════════════════════════
   //  Formal Proofs — verified at compile time
@@ -119,8 +117,8 @@ module Stats {
     ensures EXPORTED_LOCS     == 384
     ensures EXPORTED_NPCS     == 576
     ensures EXPORTED_SPELLS   == 180
-    ensures EXPORTED_QUESTS   == 1728
-    ensures TOTAL_EXPORTED    == 3732
+    ensures EXPORTED_QUESTS   == 663552
+    ensures TOTAL_EXPORTED    == 665556
   {}
 
   lemma ExportedFitsInFullSpace()
@@ -183,12 +181,13 @@ module Stats {
     print "%                 ║\n";
 
     print "║  Quests            ║  "; print EXPORTED_QUESTS;
-    print "    ║  "; print TOTAL_QUESTS;
-    print "  ║  < 1% (loc axis fixed)  ║\n";
+    print " ║  "; print TOTAL_QUESTS;
+    print "  ║  "; print CoveragePercent(EXPORTED_QUESTS, TOTAL_QUESTS);
+    print "%                 ║\n";
 
     print "╠════════════════════╩══════════╩════════════╩═════════════════════╣\n";
     print "║  TOTAL EXPORTED   "; print TOTAL_EXPORTED;
-    print "                                           ║\n";
+    print "                                        ║\n";
     print "║  GRAND TOTAL      "; print GRAND_TOTAL;
     print "                                        ║\n";
     print "╠══════════════════════════════════════════════════════════════════╣\n";
@@ -225,19 +224,8 @@ module Stats {
     print " NPCs × "; print TOTAL_LOCS;
     print " locs × "; print QUEST_OBJ_TYPES;
     print " obj types = "; print TOTAL_QUESTS; print "\n";
-    print "║               (exported: "; print TOTAL_NPCS;
-    print " NPCs × "; print QUEST_OBJ_TYPES;
-    print " obj types × 1 loc = "; print EXPORTED_QUESTS; print ")\n";
-
     print "╠══════════════════════════════════════════════════════════════════╣\n";
-    print "║  COVERAGE GAPS                                                   ║\n";
-    print "╠══════════════════════════════════════════════════════════════════╣\n";
-    print "║  Items    — 100% covered. Nothing to unlock.                     ║\n";
-    print "║  Monsters — 100% covered. Nothing to unlock.                     ║\n";
-    print "║  Locations— 100% covered. Nothing to unlock.                     ║\n";
-    print "║  NPCs     — 100% covered. Nothing to unlock.                     ║\n";
-    print "║  Spells   — 100% covered. Nothing to unlock.                     ║\n";
-    print "║  Quests   — +661824 unlock: loop all 384 locations in MainQuests ║\n";
+    print "║  ALL AXES AT 100% — FULL COMBINATORIAL SPACE EXPORTED           ║\n";
     print "╚══════════════════════════════════════════════════════════════════╝\n";
   }
 }

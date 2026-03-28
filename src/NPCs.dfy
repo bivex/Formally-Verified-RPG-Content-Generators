@@ -210,12 +210,14 @@ module NPCs {
   // Full generation: all RacesSeq × ProfessionsSeq × AlignmentsSeq = 8 × 8 × 9 = 576
   method AllNPCs() returns (result: seq<NPC>)
     ensures |result| == |RacesSeq| * |ProfessionsSeq| * |AlignmentsSeq|
+    ensures forall i :: 0 <= i < |result| ==> result[i].Valid()
   {
     result := [];
     var ri := 0;
     while ri < |RacesSeq|
       invariant 0 <= ri <= |RacesSeq|
       invariant |result| == ri * |ProfessionsSeq| * |AlignmentsSeq|
+      invariant forall i :: 0 <= i < |result| ==> result[i].Valid()
     {
       var batch := GenerateAllForRace(RacesSeq[ri]);
       result := result + batch;
