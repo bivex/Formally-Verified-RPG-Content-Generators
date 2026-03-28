@@ -1,388 +1,100 @@
 
-Dafny program verifier finished with 17 verified, 0 errors
-Total locations generated: 384
+Dafny program verifier finished with 9 verified, 0 errors
+=== ATLAS OF LOCATIONS ===
+Hidden Verdant Metropolis | Danger Level: 5
+Quiet Verdant Metropolis | Danger Level: 8
+Verdant Metropolis | Danger Level: 13
+Grand Verdant Metropolis | Danger Level: 23
+Endless Verdant Metropolis | Danger Level: 33
+Titanic Verdant Metropolis | Danger Level: 53
+Hidden Verdant Hamlet | Danger Level: 3
+Quiet Verdant Hamlet | Danger Level: 6
+Verdant Hamlet | Danger Level: 11
+Grand Verdant Hamlet | Danger Level: 21
+Endless Verdant Hamlet | Danger Level: 31
+Titanic Verdant Hamlet | Danger Level: 51
+Hidden Verdant Wasteland | Danger Level: 20
+Quiet Verdant Wasteland | Danger Level: 23
+Verdant Wasteland | Danger Level: 28
+Grand Verdant Wasteland | Danger Level: 38
+Endless Verdant Wasteland | Danger Level: 48
+Titanic Verdant Wasteland | Danger Level: 68
+Hidden Verdant Labyrinth | Danger Level: 22
+Quiet Verdant Labyrinth | Danger Level: 25
+Verdant Labyrinth | Danger Level: 30
+Grand Verdant Labyrinth | Danger Level: 40
+Endless Verdant Labyrinth | Danger Level: 50
+Titanic Verdant Labyrinth | Danger Level: 70
+Hidden Verdant Bastion | Danger Level: 17
+Quiet Verdant Bastion | Danger Level: 20
+Verdant Bastion | Danger Level: 25
+Grand Verdant Bastion | Danger Level: 35
+Endless Verdant Bastion | Danger Level: 45
+Titanic Verdant Bastion | Danger Level: 65
+Hidden Verdant Sanctuary | Danger Level: 10
+Quiet Verdant Sanctuary | Danger Level: 13
+Verdant Sanctuary | Danger Level: 18
+Grand Verdant Sanctuary | Danger Level: 28
+Endless Verdant Sanctuary | Danger Level: 38
+Titanic Verdant Sanctuary | Danger Level: 58
+Hidden Verdant Grotto | Danger Level: 14
+Quiet Verdant Grotto | Danger Level: 17
+Verdant Grotto | Danger Level: 22
+Grand Verdant Grotto | Danger Level: 32
+Endless Verdant Grotto | Danger Level: 42
+Titanic Verdant Grotto | Danger Level: 62
+Hidden Verdant Watch | Danger Level: 7
+Quiet Verdant Watch | Danger Level: 10
+Verdant Watch | Danger Level: 15
+Grand Verdant Watch | Danger Level: 25
+Endless Verdant Watch | Danger Level: 35
+Titanic Verdant Watch | Danger Level: 55
 
-Hidden Verdant Metropolis | Biome: Forest | Type: City | Size: Tiny | Danger: 5
-Quiet Verdant Metropolis | Biome: Forest | Type: City | Size: Small | Danger: 10
-Verdant Metropolis | Biome: Forest | Type: City | Size: Medium | Danger: 15
-Grand Verdant Metropolis | Biome: Forest | Type: City | Size: Large | Danger: 20
-Endless Verdant Metropolis | Biome: Forest | Type: City | Size: Vast | Danger: 25
-Titanic Verdant Metropolis | Biome: Forest | Type: City | Size: Colossal | Danger: 30
-Hidden Verdant Hamlet | Biome: Forest | Type: Village | Size: Tiny | Danger: 5
-Quiet Verdant Hamlet | Biome: Forest | Type: Village | Size: Small | Danger: 10
-Verdant Hamlet | Biome: Forest | Type: Village | Size: Medium | Danger: 15
-Grand Verdant Hamlet | Biome: Forest | Type: Village | Size: Large | Danger: 20
-Endless Verdant Hamlet | Biome: Forest | Type: Village | Size: Vast | Danger: 25
-Titanic Verdant Hamlet | Biome: Forest | Type: Village | Size: Colossal | Danger: 30
-Hidden Verdant Remnants | Biome: Forest | Type: Ruins | Size: Tiny | Danger: 5
-Quiet Verdant Remnants | Biome: Forest | Type: Ruins | Size: Small | Danger: 10
-Verdant Remnants | Biome: Forest | Type: Ruins | Size: Medium | Danger: 15
-Grand Verdant Remnants | Biome: Forest | Type: Ruins | Size: Large | Danger: 20
-Endless Verdant Remnants | Biome: Forest | Type: Ruins | Size: Vast | Danger: 25
-Titanic Verdant Remnants | Biome: Forest | Type: Ruins | Size: Colossal | Danger: 30
-Hidden Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Tiny | Danger: 5
-Quiet Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Small | Danger: 10
-Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Medium | Danger: 15
-Grand Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Large | Danger: 20
-Endless Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Vast | Danger: 25
-Titanic Verdant Labyrinth | Biome: Forest | Type: Dungeon | Size: Colossal | Danger: 30
-Hidden Verdant Bastion | Biome: Forest | Type: Fortress | Size: Tiny | Danger: 5
-Quiet Verdant Bastion | Biome: Forest | Type: Fortress | Size: Small | Danger: 10
-Verdant Bastion | Biome: Forest | Type: Fortress | Size: Medium | Danger: 15
-Grand Verdant Bastion | Biome: Forest | Type: Fortress | Size: Large | Danger: 20
-Endless Verdant Bastion | Biome: Forest | Type: Fortress | Size: Vast | Danger: 25
-Titanic Verdant Bastion | Biome: Forest | Type: Fortress | Size: Colossal | Danger: 30
-Hidden Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Tiny | Danger: 5
-Quiet Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Small | Danger: 10
-Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Medium | Danger: 15
-Grand Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Large | Danger: 20
-Endless Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Vast | Danger: 25
-Titanic Verdant Sanctuary of the Ancients | Biome: Forest | Type: Temple | Size: Colossal | Danger: 30
-Hidden Verdant Grotto | Biome: Forest | Type: Cave | Size: Tiny | Danger: 5
-Quiet Verdant Grotto | Biome: Forest | Type: Cave | Size: Small | Danger: 10
-Verdant Grotto | Biome: Forest | Type: Cave | Size: Medium | Danger: 15
-Grand Verdant Grotto | Biome: Forest | Type: Cave | Size: Large | Danger: 20
-Endless Verdant Grotto | Biome: Forest | Type: Cave | Size: Vast | Danger: 25
-Titanic Verdant Grotto | Biome: Forest | Type: Cave | Size: Colossal | Danger: 30
-Hidden Verdant Watch | Biome: Forest | Type: Outpost | Size: Tiny | Danger: 5
-Quiet Verdant Watch | Biome: Forest | Type: Outpost | Size: Small | Danger: 10
-Verdant Watch | Biome: Forest | Type: Outpost | Size: Medium | Danger: 15
-Grand Verdant Watch | Biome: Forest | Type: Outpost | Size: Large | Danger: 20
-Endless Verdant Watch | Biome: Forest | Type: Outpost | Size: Vast | Danger: 25
-Titanic Verdant Watch | Biome: Forest | Type: Outpost | Size: Colossal | Danger: 30
-Hidden Craggy Metropolis | Biome: Mountain | Type: City | Size: Tiny | Danger: 5
-Quiet Craggy Metropolis | Biome: Mountain | Type: City | Size: Small | Danger: 10
-Craggy Metropolis | Biome: Mountain | Type: City | Size: Medium | Danger: 15
-Grand Craggy Metropolis | Biome: Mountain | Type: City | Size: Large | Danger: 20
-Endless Craggy Metropolis | Biome: Mountain | Type: City | Size: Vast | Danger: 25
-Titanic Craggy Metropolis | Biome: Mountain | Type: City | Size: Colossal | Danger: 30
-Hidden Craggy Hamlet | Biome: Mountain | Type: Village | Size: Tiny | Danger: 5
-Quiet Craggy Hamlet | Biome: Mountain | Type: Village | Size: Small | Danger: 10
-Craggy Hamlet | Biome: Mountain | Type: Village | Size: Medium | Danger: 15
-Grand Craggy Hamlet | Biome: Mountain | Type: Village | Size: Large | Danger: 20
-Endless Craggy Hamlet | Biome: Mountain | Type: Village | Size: Vast | Danger: 25
-Titanic Craggy Hamlet | Biome: Mountain | Type: Village | Size: Colossal | Danger: 30
-Hidden Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Tiny | Danger: 5
-Quiet Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Small | Danger: 10
-Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Medium | Danger: 15
-Grand Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Large | Danger: 20
-Endless Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Vast | Danger: 25
-Titanic Craggy Remnants | Biome: Mountain | Type: Ruins | Size: Colossal | Danger: 30
-Hidden Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Tiny | Danger: 5
-Quiet Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Small | Danger: 10
-Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Medium | Danger: 15
-Grand Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Large | Danger: 20
-Endless Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Vast | Danger: 25
-Titanic Craggy Labyrinth | Biome: Mountain | Type: Dungeon | Size: Colossal | Danger: 30
-Hidden Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Tiny | Danger: 5
-Quiet Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Small | Danger: 10
-Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Medium | Danger: 15
-Grand Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Large | Danger: 20
-Endless Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Vast | Danger: 25
-Titanic Craggy Bastion of the Sky | Biome: Mountain | Type: Fortress | Size: Colossal | Danger: 30
-Hidden Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Tiny | Danger: 5
-Quiet Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Small | Danger: 10
-Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Medium | Danger: 15
-Grand Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Large | Danger: 20
-Endless Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Vast | Danger: 25
-Titanic Craggy Sanctuary | Biome: Mountain | Type: Temple | Size: Colossal | Danger: 30
-Hidden Craggy Grotto | Biome: Mountain | Type: Cave | Size: Tiny | Danger: 5
-Quiet Craggy Grotto | Biome: Mountain | Type: Cave | Size: Small | Danger: 10
-Craggy Grotto | Biome: Mountain | Type: Cave | Size: Medium | Danger: 15
-Grand Craggy Grotto | Biome: Mountain | Type: Cave | Size: Large | Danger: 20
-Endless Craggy Grotto | Biome: Mountain | Type: Cave | Size: Vast | Danger: 25
-Titanic Craggy Grotto | Biome: Mountain | Type: Cave | Size: Colossal | Danger: 30
-Hidden Craggy Watch | Biome: Mountain | Type: Outpost | Size: Tiny | Danger: 5
-Quiet Craggy Watch | Biome: Mountain | Type: Outpost | Size: Small | Danger: 10
-Craggy Watch | Biome: Mountain | Type: Outpost | Size: Medium | Danger: 15
-Grand Craggy Watch | Biome: Mountain | Type: Outpost | Size: Large | Danger: 20
-Endless Craggy Watch | Biome: Mountain | Type: Outpost | Size: Vast | Danger: 25
-Titanic Craggy Watch | Biome: Mountain | Type: Outpost | Size: Colossal | Danger: 30
-Hidden Sunbaked Metropolis | Biome: Desert | Type: City | Size: Tiny | Danger: 5
-Quiet Sunbaked Metropolis | Biome: Desert | Type: City | Size: Small | Danger: 10
-Sunbaked Metropolis | Biome: Desert | Type: City | Size: Medium | Danger: 15
-Grand Sunbaked Metropolis | Biome: Desert | Type: City | Size: Large | Danger: 20
-Endless Sunbaked Metropolis | Biome: Desert | Type: City | Size: Vast | Danger: 25
-Titanic Sunbaked Metropolis | Biome: Desert | Type: City | Size: Colossal | Danger: 30
-Hidden Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Tiny | Danger: 5
-Quiet Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Small | Danger: 10
-Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Medium | Danger: 15
-Grand Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Large | Danger: 20
-Endless Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Vast | Danger: 25
-Titanic Sunbaked Hamlet | Biome: Desert | Type: Village | Size: Colossal | Danger: 30
-Hidden Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Tiny | Danger: 5
-Quiet Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Small | Danger: 10
-Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Medium | Danger: 15
-Grand Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Large | Danger: 20
-Endless Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Vast | Danger: 25
-Titanic Sunbaked Remnants of Lost Kings | Biome: Desert | Type: Ruins | Size: Colossal | Danger: 30
-Hidden Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Tiny | Danger: 5
-Quiet Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Small | Danger: 10
-Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Medium | Danger: 15
-Grand Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Large | Danger: 20
-Endless Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Vast | Danger: 25
-Titanic Sunbaked Labyrinth | Biome: Desert | Type: Dungeon | Size: Colossal | Danger: 30
-Hidden Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Tiny | Danger: 5
-Quiet Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Small | Danger: 10
-Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Medium | Danger: 15
-Grand Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Large | Danger: 20
-Endless Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Vast | Danger: 25
-Titanic Sunbaked Bastion | Biome: Desert | Type: Fortress | Size: Colossal | Danger: 30
-Hidden Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Tiny | Danger: 5
-Quiet Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Small | Danger: 10
-Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Medium | Danger: 15
-Grand Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Large | Danger: 20
-Endless Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Vast | Danger: 25
-Titanic Sunbaked Sanctuary | Biome: Desert | Type: Temple | Size: Colossal | Danger: 30
-Hidden Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Tiny | Danger: 5
-Quiet Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Small | Danger: 10
-Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Medium | Danger: 15
-Grand Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Large | Danger: 20
-Endless Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Vast | Danger: 25
-Titanic Sunbaked Grotto | Biome: Desert | Type: Cave | Size: Colossal | Danger: 30
-Hidden Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Tiny | Danger: 5
-Quiet Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Small | Danger: 10
-Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Medium | Danger: 15
-Grand Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Large | Danger: 20
-Endless Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Vast | Danger: 25
-Titanic Sunbaked Watch | Biome: Desert | Type: Outpost | Size: Colossal | Danger: 30
-Hidden Murky Metropolis | Biome: Swamp | Type: City | Size: Tiny | Danger: 20
-Quiet Murky Metropolis | Biome: Swamp | Type: City | Size: Small | Danger: 40
-Murky Metropolis | Biome: Swamp | Type: City | Size: Medium | Danger: 60
-Grand Murky Metropolis | Biome: Swamp | Type: City | Size: Large | Danger: 80
-Endless Murky Metropolis | Biome: Swamp | Type: City | Size: Vast | Danger: 100
-Titanic Murky Metropolis | Biome: Swamp | Type: City | Size: Colossal | Danger: 120
-Hidden Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Tiny | Danger: 20
-Quiet Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Small | Danger: 40
-Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Medium | Danger: 60
-Grand Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Large | Danger: 80
-Endless Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Vast | Danger: 100
-Titanic Murky Hamlet of Sorrows | Biome: Swamp | Type: Village | Size: Colossal | Danger: 120
-Hidden Murky Remnants | Biome: Swamp | Type: Ruins | Size: Tiny | Danger: 20
-Quiet Murky Remnants | Biome: Swamp | Type: Ruins | Size: Small | Danger: 40
-Murky Remnants | Biome: Swamp | Type: Ruins | Size: Medium | Danger: 60
-Grand Murky Remnants | Biome: Swamp | Type: Ruins | Size: Large | Danger: 80
-Endless Murky Remnants | Biome: Swamp | Type: Ruins | Size: Vast | Danger: 100
-Titanic Murky Remnants | Biome: Swamp | Type: Ruins | Size: Colossal | Danger: 120
-Hidden Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Tiny | Danger: 20
-Quiet Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Small | Danger: 40
-Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Medium | Danger: 60
-Grand Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Large | Danger: 80
-Endless Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Vast | Danger: 100
-Titanic Murky Labyrinth | Biome: Swamp | Type: Dungeon | Size: Colossal | Danger: 120
-Hidden Murky Bastion | Biome: Swamp | Type: Fortress | Size: Tiny | Danger: 20
-Quiet Murky Bastion | Biome: Swamp | Type: Fortress | Size: Small | Danger: 40
-Murky Bastion | Biome: Swamp | Type: Fortress | Size: Medium | Danger: 60
-Grand Murky Bastion | Biome: Swamp | Type: Fortress | Size: Large | Danger: 80
-Endless Murky Bastion | Biome: Swamp | Type: Fortress | Size: Vast | Danger: 100
-Titanic Murky Bastion | Biome: Swamp | Type: Fortress | Size: Colossal | Danger: 120
-Hidden Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Tiny | Danger: 20
-Quiet Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Small | Danger: 40
-Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Medium | Danger: 60
-Grand Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Large | Danger: 80
-Endless Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Vast | Danger: 100
-Titanic Murky Sanctuary | Biome: Swamp | Type: Temple | Size: Colossal | Danger: 120
-Hidden Murky Grotto | Biome: Swamp | Type: Cave | Size: Tiny | Danger: 20
-Quiet Murky Grotto | Biome: Swamp | Type: Cave | Size: Small | Danger: 40
-Murky Grotto | Biome: Swamp | Type: Cave | Size: Medium | Danger: 60
-Grand Murky Grotto | Biome: Swamp | Type: Cave | Size: Large | Danger: 80
-Endless Murky Grotto | Biome: Swamp | Type: Cave | Size: Vast | Danger: 100
-Titanic Murky Grotto | Biome: Swamp | Type: Cave | Size: Colossal | Danger: 120
-Hidden Murky Watch | Biome: Swamp | Type: Outpost | Size: Tiny | Danger: 20
-Quiet Murky Watch | Biome: Swamp | Type: Outpost | Size: Small | Danger: 40
-Murky Watch | Biome: Swamp | Type: Outpost | Size: Medium | Danger: 60
-Grand Murky Watch | Biome: Swamp | Type: Outpost | Size: Large | Danger: 80
-Endless Murky Watch | Biome: Swamp | Type: Outpost | Size: Vast | Danger: 100
-Titanic Murky Watch | Biome: Swamp | Type: Outpost | Size: Colossal | Danger: 120
-Hidden Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Tiny | Danger: 20
-Quiet Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Small | Danger: 40
-Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Medium | Danger: 60
-Grand Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Large | Danger: 80
-Endless Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Vast | Danger: 100
-Titanic Abyssal Metropolis of the Deep | Biome: Ocean | Type: City | Size: Colossal | Danger: 120
-Hidden Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Tiny | Danger: 20
-Quiet Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Small | Danger: 40
-Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Medium | Danger: 60
-Grand Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Large | Danger: 80
-Endless Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Vast | Danger: 100
-Titanic Abyssal Hamlet | Biome: Ocean | Type: Village | Size: Colossal | Danger: 120
-Hidden Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Tiny | Danger: 20
-Quiet Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Small | Danger: 40
-Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Medium | Danger: 60
-Grand Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Large | Danger: 80
-Endless Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Vast | Danger: 100
-Titanic Abyssal Remnants | Biome: Ocean | Type: Ruins | Size: Colossal | Danger: 120
-Hidden Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Tiny | Danger: 20
-Quiet Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Small | Danger: 40
-Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Medium | Danger: 60
-Grand Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Large | Danger: 80
-Endless Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Vast | Danger: 100
-Titanic Abyssal Labyrinth | Biome: Ocean | Type: Dungeon | Size: Colossal | Danger: 120
-Hidden Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Tiny | Danger: 20
-Quiet Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Small | Danger: 40
-Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Medium | Danger: 60
-Grand Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Large | Danger: 80
-Endless Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Vast | Danger: 100
-Titanic Abyssal Bastion | Biome: Ocean | Type: Fortress | Size: Colossal | Danger: 120
-Hidden Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Tiny | Danger: 20
-Quiet Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Small | Danger: 40
-Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Medium | Danger: 60
-Grand Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Large | Danger: 80
-Endless Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Vast | Danger: 100
-Titanic Abyssal Sanctuary | Biome: Ocean | Type: Temple | Size: Colossal | Danger: 120
-Hidden Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Tiny | Danger: 20
-Quiet Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Small | Danger: 40
-Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Medium | Danger: 60
-Grand Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Large | Danger: 80
-Endless Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Vast | Danger: 100
-Titanic Abyssal Grotto | Biome: Ocean | Type: Cave | Size: Colossal | Danger: 120
-Hidden Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Tiny | Danger: 20
-Quiet Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Small | Danger: 40
-Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Medium | Danger: 60
-Grand Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Large | Danger: 80
-Endless Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Vast | Danger: 100
-Titanic Abyssal Watch | Biome: Ocean | Type: Outpost | Size: Colossal | Danger: 120
-Hidden Frozen Metropolis | Biome: Tundra | Type: City | Size: Tiny | Danger: 5
-Quiet Frozen Metropolis | Biome: Tundra | Type: City | Size: Small | Danger: 10
-Frozen Metropolis | Biome: Tundra | Type: City | Size: Medium | Danger: 15
-Grand Frozen Metropolis | Biome: Tundra | Type: City | Size: Large | Danger: 20
-Endless Frozen Metropolis | Biome: Tundra | Type: City | Size: Vast | Danger: 25
-Titanic Frozen Metropolis | Biome: Tundra | Type: City | Size: Colossal | Danger: 30
-Hidden Frozen Hamlet | Biome: Tundra | Type: Village | Size: Tiny | Danger: 5
-Quiet Frozen Hamlet | Biome: Tundra | Type: Village | Size: Small | Danger: 10
-Frozen Hamlet | Biome: Tundra | Type: Village | Size: Medium | Danger: 15
-Grand Frozen Hamlet | Biome: Tundra | Type: Village | Size: Large | Danger: 20
-Endless Frozen Hamlet | Biome: Tundra | Type: Village | Size: Vast | Danger: 25
-Titanic Frozen Hamlet | Biome: Tundra | Type: Village | Size: Colossal | Danger: 30
-Hidden Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Tiny | Danger: 5
-Quiet Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Small | Danger: 10
-Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Medium | Danger: 15
-Grand Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Large | Danger: 20
-Endless Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Vast | Danger: 25
-Titanic Frozen Remnants | Biome: Tundra | Type: Ruins | Size: Colossal | Danger: 30
-Hidden Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Tiny | Danger: 5
-Quiet Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Small | Danger: 10
-Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Medium | Danger: 15
-Grand Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Large | Danger: 20
-Endless Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Vast | Danger: 25
-Titanic Frozen Labyrinth | Biome: Tundra | Type: Dungeon | Size: Colossal | Danger: 30
-Hidden Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Tiny | Danger: 5
-Quiet Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Small | Danger: 10
-Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Medium | Danger: 15
-Grand Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Large | Danger: 20
-Endless Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Vast | Danger: 25
-Titanic Frozen Bastion | Biome: Tundra | Type: Fortress | Size: Colossal | Danger: 30
-Hidden Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Tiny | Danger: 5
-Quiet Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Small | Danger: 10
-Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Medium | Danger: 15
-Grand Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Large | Danger: 20
-Endless Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Vast | Danger: 25
-Titanic Frozen Sanctuary | Biome: Tundra | Type: Temple | Size: Colossal | Danger: 30
-Hidden Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Tiny | Danger: 5
-Quiet Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Small | Danger: 10
-Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Medium | Danger: 15
-Grand Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Large | Danger: 20
-Endless Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Vast | Danger: 25
-Titanic Frozen Grotto of Echoes | Biome: Tundra | Type: Cave | Size: Colossal | Danger: 30
-Hidden Frozen Watch | Biome: Tundra | Type: Outpost | Size: Tiny | Danger: 5
-Quiet Frozen Watch | Biome: Tundra | Type: Outpost | Size: Small | Danger: 10
-Frozen Watch | Biome: Tundra | Type: Outpost | Size: Medium | Danger: 15
-Grand Frozen Watch | Biome: Tundra | Type: Outpost | Size: Large | Danger: 20
-Endless Frozen Watch | Biome: Tundra | Type: Outpost | Size: Vast | Danger: 25
-Titanic Frozen Watch | Biome: Tundra | Type: Outpost | Size: Colossal | Danger: 30
-Hidden Windswept Metropolis | Biome: Plains | Type: City | Size: Tiny | Danger: 5
-Quiet Windswept Metropolis | Biome: Plains | Type: City | Size: Small | Danger: 10
-Windswept Metropolis | Biome: Plains | Type: City | Size: Medium | Danger: 15
-Grand Windswept Metropolis | Biome: Plains | Type: City | Size: Large | Danger: 20
-Endless Windswept Metropolis | Biome: Plains | Type: City | Size: Vast | Danger: 25
-Titanic Windswept Metropolis | Biome: Plains | Type: City | Size: Colossal | Danger: 30
-Hidden Windswept Hamlet | Biome: Plains | Type: Village | Size: Tiny | Danger: 5
-Quiet Windswept Hamlet | Biome: Plains | Type: Village | Size: Small | Danger: 10
-Windswept Hamlet | Biome: Plains | Type: Village | Size: Medium | Danger: 15
-Grand Windswept Hamlet | Biome: Plains | Type: Village | Size: Large | Danger: 20
-Endless Windswept Hamlet | Biome: Plains | Type: Village | Size: Vast | Danger: 25
-Titanic Windswept Hamlet | Biome: Plains | Type: Village | Size: Colossal | Danger: 30
-Hidden Windswept Remnants | Biome: Plains | Type: Ruins | Size: Tiny | Danger: 5
-Quiet Windswept Remnants | Biome: Plains | Type: Ruins | Size: Small | Danger: 10
-Windswept Remnants | Biome: Plains | Type: Ruins | Size: Medium | Danger: 15
-Grand Windswept Remnants | Biome: Plains | Type: Ruins | Size: Large | Danger: 20
-Endless Windswept Remnants | Biome: Plains | Type: Ruins | Size: Vast | Danger: 25
-Titanic Windswept Remnants | Biome: Plains | Type: Ruins | Size: Colossal | Danger: 30
-Hidden Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Tiny | Danger: 5
-Quiet Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Small | Danger: 10
-Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Medium | Danger: 15
-Grand Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Large | Danger: 20
-Endless Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Vast | Danger: 25
-Titanic Windswept Labyrinth | Biome: Plains | Type: Dungeon | Size: Colossal | Danger: 30
-Hidden Windswept Bastion | Biome: Plains | Type: Fortress | Size: Tiny | Danger: 5
-Quiet Windswept Bastion | Biome: Plains | Type: Fortress | Size: Small | Danger: 10
-Windswept Bastion | Biome: Plains | Type: Fortress | Size: Medium | Danger: 15
-Grand Windswept Bastion | Biome: Plains | Type: Fortress | Size: Large | Danger: 20
-Endless Windswept Bastion | Biome: Plains | Type: Fortress | Size: Vast | Danger: 25
-Titanic Windswept Bastion | Biome: Plains | Type: Fortress | Size: Colossal | Danger: 30
-Hidden Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Tiny | Danger: 5
-Quiet Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Small | Danger: 10
-Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Medium | Danger: 15
-Grand Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Large | Danger: 20
-Endless Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Vast | Danger: 25
-Titanic Windswept Sanctuary | Biome: Plains | Type: Temple | Size: Colossal | Danger: 30
-Hidden Windswept Grotto | Biome: Plains | Type: Cave | Size: Tiny | Danger: 5
-Quiet Windswept Grotto | Biome: Plains | Type: Cave | Size: Small | Danger: 10
-Windswept Grotto | Biome: Plains | Type: Cave | Size: Medium | Danger: 15
-Grand Windswept Grotto | Biome: Plains | Type: Cave | Size: Large | Danger: 20
-Endless Windswept Grotto | Biome: Plains | Type: Cave | Size: Vast | Danger: 25
-Titanic Windswept Grotto | Biome: Plains | Type: Cave | Size: Colossal | Danger: 30
-Hidden Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Tiny | Danger: 5
-Quiet Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Small | Danger: 10
-Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Medium | Danger: 15
-Grand Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Large | Danger: 20
-Endless Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Vast | Danger: 25
-Titanic Windswept Watch of the Horizon | Biome: Plains | Type: Outpost | Size: Colossal | Danger: 30
-Hidden Scorched Metropolis | Biome: Volcano | Type: City | Size: Tiny | Danger: 20
-Quiet Scorched Metropolis | Biome: Volcano | Type: City | Size: Small | Danger: 40
-Scorched Metropolis | Biome: Volcano | Type: City | Size: Medium | Danger: 60
-Grand Scorched Metropolis | Biome: Volcano | Type: City | Size: Large | Danger: 80
-Endless Scorched Metropolis | Biome: Volcano | Type: City | Size: Vast | Danger: 100
-Titanic Scorched Metropolis | Biome: Volcano | Type: City | Size: Colossal | Danger: 120
-Hidden Scorched Hamlet | Biome: Volcano | Type: Village | Size: Tiny | Danger: 20
-Quiet Scorched Hamlet | Biome: Volcano | Type: Village | Size: Small | Danger: 40
-Scorched Hamlet | Biome: Volcano | Type: Village | Size: Medium | Danger: 60
-Grand Scorched Hamlet | Biome: Volcano | Type: Village | Size: Large | Danger: 80
-Endless Scorched Hamlet | Biome: Volcano | Type: Village | Size: Vast | Danger: 100
-Titanic Scorched Hamlet | Biome: Volcano | Type: Village | Size: Colossal | Danger: 120
-Hidden Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Tiny | Danger: 20
-Quiet Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Small | Danger: 40
-Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Medium | Danger: 60
-Grand Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Large | Danger: 80
-Endless Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Vast | Danger: 100
-Titanic Scorched Remnants | Biome: Volcano | Type: Ruins | Size: Colossal | Danger: 120
-Hidden Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Tiny | Danger: 20
-Quiet Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Small | Danger: 40
-Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Medium | Danger: 60
-Grand Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Large | Danger: 80
-Endless Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Vast | Danger: 100
-Titanic Scorched Labyrinth of Doom | Biome: Volcano | Type: Dungeon | Size: Colossal | Danger: 120
-Hidden Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Tiny | Danger: 20
-Quiet Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Small | Danger: 40
-Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Medium | Danger: 60
-Grand Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Large | Danger: 80
-Endless Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Vast | Danger: 100
-Titanic Scorched Bastion | Biome: Volcano | Type: Fortress | Size: Colossal | Danger: 120
-Hidden Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Tiny | Danger: 20
-Quiet Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Small | Danger: 40
-Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Medium | Danger: 60
-Grand Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Large | Danger: 80
-Endless Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Vast | Danger: 100
-Titanic Scorched Sanctuary | Biome: Volcano | Type: Temple | Size: Colossal | Danger: 120
-Hidden Scorched Grotto | Biome: Volcano | Type: Cave | Size: Tiny | Danger: 20
-Quiet Scorched Grotto | Biome: Volcano | Type: Cave | Size: Small | Danger: 40
-Scorched Grotto | Biome: Volcano | Type: Cave | Size: Medium | Danger: 60
-Grand Scorched Grotto | Biome: Volcano | Type: Cave | Size: Large | Danger: 80
-Endless Scorched Grotto | Biome: Volcano | Type: Cave | Size: Vast | Danger: 100
-Titanic Scorched Grotto | Biome: Volcano | Type: Cave | Size: Colossal | Danger: 120
-Hidden Scorched Watch | Biome: Volcano | Type: Outpost | Size: Tiny | Danger: 20
-Quiet Scorched Watch | Biome: Volcano | Type: Outpost | Size: Small | Danger: 40
-Scorched Watch | Biome: Volcano | Type: Outpost | Size: Medium | Danger: 60
-Grand Scorched Watch | Biome: Volcano | Type: Outpost | Size: Large | Danger: 80
-Endless Scorched Watch | Biome: Volcano | Type: Outpost | Size: Vast | Danger: 100
-Titanic Scorched Watch | Biome: Volcano | Type: Outpost | Size: Colossal | Danger: 120
+Hidden Scorched Metropolis | Danger Level: 17
+Quiet Scorched Metropolis | Danger Level: 20
+Scorched Metropolis | Danger Level: 25
+Grand Scorched Metropolis | Danger Level: 35
+Endless Scorched Metropolis | Danger Level: 45
+Titanic Scorched Metropolis | Danger Level: 65
+Hidden Scorched Hamlet | Danger Level: 7
+Quiet Scorched Hamlet | Danger Level: 10
+Scorched Hamlet | Danger Level: 15
+Grand Scorched Hamlet | Danger Level: 25
+Endless Scorched Hamlet | Danger Level: 35
+Titanic Scorched Hamlet | Danger Level: 55
+Hidden Scorched Wasteland | Danger Level: 92
+Quiet Scorched Wasteland | Danger Level: 95
+Scorched Wasteland | Danger Level: 100
+Grand Scorched Wasteland | Danger Level: 110
+Endless Scorched Wasteland | Danger Level: 120
+Titanic Scorched Wasteland | Danger Level: 140
+Hidden Scorched Labyrinth | Danger Level: 102
+Quiet Scorched Labyrinth | Danger Level: 105
+Scorched Labyrinth | Danger Level: 110
+Grand Scorched Labyrinth | Danger Level: 120
+Endless Scorched Labyrinth | Danger Level: 130
+Titanic Scorched Labyrinth | Danger Level: 150
+Hidden Scorched Bastion | Danger Level: 77
+Quiet Scorched Bastion | Danger Level: 80
+Scorched Bastion | Danger Level: 85
+Grand Scorched Bastion | Danger Level: 95
+Endless Scorched Bastion | Danger Level: 105
+Titanic Scorched Bastion | Danger Level: 125
+Hidden Scorched Sanctuary | Danger Level: 42
+Quiet Scorched Sanctuary | Danger Level: 45
+Scorched Sanctuary | Danger Level: 50
+Grand Scorched Sanctuary | Danger Level: 60
+Endless Scorched Sanctuary | Danger Level: 70
+Titanic Scorched Sanctuary | Danger Level: 90
+Hidden Scorched Grotto | Danger Level: 62
+Quiet Scorched Grotto | Danger Level: 65
+Scorched Grotto | Danger Level: 70
+Grand Scorched Grotto | Danger Level: 80
+Endless Scorched Grotto | Danger Level: 90
+Titanic Scorched Grotto | Danger Level: 110
+Hidden Scorched Watch | Danger Level: 27
+Quiet Scorched Watch | Danger Level: 30
+Scorched Watch | Danger Level: 35
+Grand Scorched Watch | Danger Level: 45
+Endless Scorched Watch | Danger Level: 55
+Titanic Scorched Watch | Danger Level: 75

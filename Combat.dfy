@@ -113,4 +113,38 @@ module Combat {
     // Dafny доказывает, что счетчик ходов отработал корректно
     assert afterTurn2.turnCount == 2;
   }
+
+  method {:print} PrintStatus(e: CombatEncounter) {
+    print "Turn: "; print e.turnCount;
+    print " | Player HP: "; print e.player.hp;
+    print " | Mana: "; print e.player.mana;
+    print " | Monster HP: "; print e.currentMonsterHp;
+    print "\n";
+  }
+
+  method {:print} Main() {
+    var dragon := M.CreateMonster(M.Dragon, M.Gargantuan, M.Fire);
+    var nukeSpell := S.CreateSpell(S.Evocation, S.Short, S.Legendary);
+
+    var player := PlayerState(500, 1000, nukeSpell); 
+    var battle := Encounter(player, dragon, dragon.healthPool, 0);
+
+    print "--- Starting Formal Combat --- \n";
+    print "Monster: "; print dragon.name; print "\n";
+    PrintStatus(battle);
+
+    var b1 := ResolveTurn(battle, CastSpell);
+    print "Action: Cast Spell\n";
+    PrintStatus(b1);
+
+    var b2 := ResolveTurn(b1, RestForMana);
+    print "Action: Rest\n";
+    PrintStatus(b2);
+    
+    if IsVictory(b2) {
+      print "VICTORY!\n";
+    } else {
+      print "The battle continues...\n";
+    }
+  }
 }

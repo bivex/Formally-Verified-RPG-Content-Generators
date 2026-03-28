@@ -207,7 +207,7 @@ module Spells {
     assert touchHeal.cooldown == 0;
   }
 
-  method {:print} Main() {
+  method {:print} MainSpells() {
     var evocs := GenerateAllForSchool(Evocation);
     var illusions := GenerateAllForSchool(Illusion);
     

@@ -206,7 +206,7 @@ module Monsters {
     assert |allDragons| == 48; // 6 * 8
   }
 
-  method {:print} Main() {
+  method {:print} MainMonsters() {
     var dragons := GenerateAllForType(Dragon);
     var goblins := GenerateAllForType(Goblin);
     
